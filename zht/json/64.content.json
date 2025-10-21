@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647124,
+    "reference_id": 26506,
+    "title": "約翰參書",
+    "media_type": "Text",
+    "index_reference": "64000000",
+    "language": "zht",
+    "content": "<p>約翰三書</p><h2>寫作目的</h2><p>讚揚該猶對使徒使者們的款待，並責備丟特腓</p><h2>作者</h2><p>有可能是使徒約翰</p><h2>日期</h2><p>公元85–90年</p><h2>背景</h2><p>寫給名叫該猶的人，以回應他的款待之舉，以及相對的責備一位名叫丟特腓的人欠缺此行為。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "64001001",
+          "start_ref_usfm": "3JN 1:1",
+          "end_ref": "64001001",
+          "end_ref_usfm": "3JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

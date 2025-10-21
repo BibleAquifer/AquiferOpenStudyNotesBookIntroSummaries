@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647117,
+    "reference_id": 26499,
+    "title": "腓利門書",
+    "media_type": "Text",
+    "index_reference": "57000000",
+    "language": "zht",
+    "content": "<p>保羅寫給腓利門的書信</p><h2>寫作目的</h2><p>鼓勵腓利門歡迎並接納他已經成為信徒的奴隸阿尼西謀回來</p><h2>作者</h2><p>保羅</p><h2>日期</h2><p>傳統上認為是公元60–62年，但有可能更早，大約是公元53–56年間</p><h2>背景</h2><p>在保羅被囚期間寫成，那時他遇到了阿尼西謀，阿尼西謀似乎是腓利門的逃跑奴隸，而腓利門是歌羅西的基督徒領袖</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

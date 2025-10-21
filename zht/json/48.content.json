@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647108,
+    "reference_id": 26490,
+    "title": "加拉太書",
+    "media_type": "Text",
+    "index_reference": "48000000",
+    "language": "zht",
+    "content": "<p>保羅寫給加拉太人的信</p><h2>寫作目的</h2><p>說服加拉太的外邦基督徒——針對某些猶太基督徒的反對意見——認為不需要受割禮或採納其他猶太律法的習俗即可成為神的子民</p><h2>作者</h2><p>保羅</p><h2>日期</h2><p>可能是公元48或49年，就在耶路撒冷議會之前</p><h2>背景</h2><p>在一群猶太基督徒滲透到加拉太教會，且其教導割禮的必要性之後而寫</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "48001001",
+          "start_ref_usfm": "GAL 1:1",
+          "end_ref": "48001001",
+          "end_ref_usfm": "GAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647118,
+    "reference_id": 26500,
+    "title": "希伯來書",
+    "media_type": "Text",
+    "index_reference": "58000000",
+    "language": "zht",
+    "content": "<p>希伯來書</p><h2>寫作目的</h2><p>通過強調基督的超越性和祂工作的充分性，鼓勵信徒在面對苦難時堅忍不懈。</p><h2>作者</h2><p>未知</p><h2>日期</h2><p>很可能是公元60年代早期，但公元70年後的日期也是可能的</p><h2>背景</h2><p>寫給一群基督徒——很可能在羅馬——他們面臨迫害，並掙扎著維持他們的信心</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "58001001",
+          "start_ref_usfm": "HEB 1:1",
+          "end_ref": "58001001",
+          "end_ref_usfm": "HEB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

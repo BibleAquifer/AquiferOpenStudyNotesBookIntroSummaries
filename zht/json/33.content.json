@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647093,
+    "reference_id": 26475,
+    "title": "米迦",
+    "media_type": "Text",
+    "index_reference": "33000000",
+    "language": "zht",
+    "content": "<p>彌迦書</p><h2>寫作目的</h2><p>宣告對撒瑪利亞和耶路撒冷的審判，但也同時為以色列的未來提供強烈盼望的信息</p><h2>作者</h2><p>彌迦</p><h2>日期</h2><p>約公元前735–686年</p><h2>背景</h2><p>以色列北國毀滅不久前，以及約坦、亞哈斯和希西家的統治時期的猶大南國時期</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "33001001",
+          "start_ref_usfm": "MIC 1:1",
+          "end_ref": "33001001",
+          "end_ref_usfm": "MIC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

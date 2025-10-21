@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647112,
+    "reference_id": 26494,
+    "title": "帖撒羅尼迦前書",
+    "media_type": "Text",
+    "index_reference": "52000000",
+    "language": "zht",
+    "content": "<p>保羅寫給帖撒羅尼迦教會信徒的第一封信</p><h2>寫作目的</h2><p>感謝帖撒羅尼迦信徒的信心，並進一步教導他們有關基督徒該有的行為和主再來的信息</p><h2>作者</h2><p>保羅、西拉和提摩太</p><h2>日期</h2><p>約主前50年</p><h2>背景</h2><p>在收到了提摩太關於帖撒羅尼迦教會的正面消息後，保羅在哥林多時所撰寫的</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

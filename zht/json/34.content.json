@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647094,
+    "reference_id": 26476,
+    "title": "那鴻",
+    "media_type": "Text",
+    "index_reference": "34000000",
+    "language": "zht",
+    "content": "<p>那鴻書</p><h2>寫作目的</h2><p>宣告神即將對亞述首都尼尼微的審判，從而為猶大人民帶來盼望</p><h2>作者</h2><p>那鴻</p><h2>日期</h2><p>約在公元前663年至612年之間</p><h2>背景</h2><p>亞述帝國征服了以色列北國，而今猶大南國也岌岌可危的面臨同樣命運</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

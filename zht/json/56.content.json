@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647116,
+    "reference_id": 26498,
+    "title": "提多書",
+    "media_type": "Text",
+    "index_reference": "56000000",
+    "language": "zht",
+    "content": "<p>保羅寫給提多的信</p><h2>寫作目的</h2><p>教導提多如何在克里特建立教會領袖，並幫助那裏的信徒建立正當的行為</p><h2>作者</h2><p>保羅</p><h2>日期</h2><p>大概在公元63年左右</p><h2>背景</h2><p>成書於保羅生命接近尾聲時，當時提多在克里特島上，那裡是一個以墮落文化而聞名的地方</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "56001001",
+          "start_ref_usfm": "TIT 1:1",
+          "end_ref": "56001001",
+          "end_ref_usfm": "TIT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

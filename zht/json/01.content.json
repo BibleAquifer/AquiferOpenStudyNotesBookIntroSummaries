@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647061,
+    "reference_id": 26443,
+    "title": "創世記",
+    "media_type": "Text",
+    "index_reference": "01000000",
+    "language": "zht",
+    "content": "<p>創世記</p><h2>寫作目的</h2><p>追溯上帝通過祂所揀選的子民——以色列——來建立勝過罪惡的計劃</p><h2>作者</h2><p>根據傳統認為是摩西</p><h2>日期</h2><p>記錄從族長時期的事件（約公元前2100–1700年）</p><h2>背景</h2><p>在中東的多處，著重於族長們在迦南和埃及的時期</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01001001",
+          "end_ref_usfm": "GEN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

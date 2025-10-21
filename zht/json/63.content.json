@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647123,
+    "reference_id": 26505,
+    "title": "約翰貳書",
+    "media_type": "Text",
+    "index_reference": "63000000",
+    "language": "zht",
+    "content": "<p>約翰二書</p><h2>寫作目的</h2><p>概述對假教師該有的適當回應，並鼓勵信徒彼此相愛</p><h2>作者</h2><p>有可能是使徒約翰</p><h2>日期</h2><p>公元85–90年</p><h2>背景</h2><p>寫給一信徒群體——可能位於小亞細亞——他們或許已經遇到假教師，亦或很可能即將會遇到假教師的情況</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "63001001",
+          "start_ref_usfm": "2JN 1:1",
+          "end_ref": "63001001",
+          "end_ref_usfm": "2JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

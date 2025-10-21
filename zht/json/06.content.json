@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647066,
+    "reference_id": 26448,
+    "title": "約書亞",
+    "media_type": "Text",
+    "index_reference": "06000000",
+    "language": "zht",
+    "content": "<p>約書亞記</p><h2>寫作目的</h2><p>以色列征服應許之地的描述</p><h2>作者</h2><p>未知</p><h2>日期</h2><p>記錄可能發生在公元前1406–1376年或公元前1230–1200年的事件</p><h2>背景</h2><p>開始於以色列人即將穿越約旦河，結束於他們新土地的分配</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001001",
+          "end_ref_usfm": "JOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

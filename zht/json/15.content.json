@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647075,
+    "reference_id": 26457,
+    "title": "以斯拉",
+    "media_type": "Text",
+    "index_reference": "15000000",
+    "language": "zht",
+    "content": "<p>以斯拉記</p><h2>寫作目的</h2><p>展示神為祂子民持續的供應，並指導子民們在面對外邦統治、反對和異教影響時應該如何生活</p><h2>作者</h2><p>根據傳統認為是以斯拉</p><h2>日期</h2><p>記錄發生在公元前538–457年的事件</p><h2>背景</h2><p>從猶太人被擄後的初次返回到耶路撒冷開始，到以斯拉抵達耶路撒冷結束</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001001",
+          "end_ref_usfm": "EZR 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

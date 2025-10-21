@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647081,
+    "reference_id": 26463,
+    "title": "傳道書",
+    "media_type": "Text",
+    "index_reference": "21000000",
+    "language": "zht",
+    "content": "<p>傳道書</p><h2>寫作目的</h2><p>反思生活的意義和享受</p><h2>作者</h2><p>所羅門</p><h2>日期</h2><p>約公元前971–931年</p><h2>背景</h2><p>表面上極其繁榮，但實際上似乎不太令人滿意的所羅門王統治時期</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "21001001",
+          "start_ref_usfm": "ECC 1:1",
+          "end_ref": "21001001",
+          "end_ref_usfm": "ECC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
