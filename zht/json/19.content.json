@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647079,
+    "reference_id": 26461,
+    "title": "詩篇",
+    "media_type": "Text",
+    "index_reference": "19000000",
+    "language": "zht",
+    "content": "<p>詩篇</p><h2>寫作目的</h2><p>向神獻上讚美和禱告、為神的子民提供敬拜的文本，並對神的主權和人生中一些最艱難的問題進行反思</p><h2>作者</h2><p>多位作者；近一半的內容是大衞所著</p><h2>日期</h2><p>歷時數個世紀寫成；收集和編輯的過程可能在巴比倫流亡之後完成</p><h2>背景</h2><p>各不相同，但被擄後的背景釋了許多詩篇的編輯和分類</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001001",
+          "end_ref_usfm": "PSA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

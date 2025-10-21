@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647119,
+    "reference_id": 26501,
+    "title": "雅各書",
+    "media_type": "Text",
+    "index_reference": "59000000",
+    "language": "zht",
+    "content": "<p>雅各書</p><h2>寫作目的</h2><p>分享智慧的實踐並挑戰讀者維持他們的信心——一種積極且關注他人的信心</p><h2>作者</h2><p>雅各，耶穌的兄弟</p><h2>日期</h2><p>約公元46年</p><h2>背景</h2><p>寫給猶太信徒的書信，他們因受到自司提反殉道後而開始的迫害四散。這封書信可能是從耶路撒冷寫出去的。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

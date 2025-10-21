@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647089,
+    "reference_id": 26471,
+    "title": "約珥",
+    "media_type": "Text",
+    "index_reference": "29000000",
+    "language": "zht",
+    "content": "<p>約珥書</p><h2>寫作目的</h2><p>彰顯神的主權和審判，激勵讀者悔改，並應許復興</p><h2>作者</h2><p>約珥</p><h2>日期</h2><p>未知</p><h2>背景</h2><p>在災難性的蝗災期間（被釋為實際發生的或比喻性的）的猶大地</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "29001001",
+          "start_ref_usfm": "JOL 1:1",
+          "end_ref": "29001001",
+          "end_ref_usfm": "JOL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

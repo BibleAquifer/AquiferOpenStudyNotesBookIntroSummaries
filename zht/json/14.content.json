@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647074,
+    "reference_id": 26456,
+    "title": "歷代志下",
+    "media_type": "Text",
+    "index_reference": "14000000",
+    "language": "zht",
+    "content": "<p>歷代志下</p><h2>寫作目的</h2><p>賦予讀者以色列王國恢復的盼望，並以正確的敬拜為其特色</p><h2>作者</h2><p>未知</p><h2>日期</h2><p>可能成書於公元前400年，記錄發生在公元前971–538年的事件</p><h2>背景</h2><p>在波斯統治時的後猶大流亡時期；記錄開始於所羅門的統治，並以居魯士允許百姓返回猶大的宣言結束</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14001001",
+          "start_ref_usfm": "2CH 1:1",
+          "end_ref": "14001001",
+          "end_ref_usfm": "2CH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

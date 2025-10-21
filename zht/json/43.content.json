@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647103,
+    "reference_id": 26485,
+    "title": "約翰",
+    "media_type": "Text",
+    "index_reference": "43000000",
+    "language": "zht",
+    "content": "<p>約翰福音</p><h2>寫作目的</h2><p>使人相信耶穌不僅是彌賽亞也是神的兒子，並將這種信心與永生聯繫在一起。</p><h2>作者</h2><p>可能是「所愛的門徒」，傳統上被認為是西庇太的兒子約翰</p><h2>日期</h2><p>約公元90年</p><h2>背景</h2><p>寫於約翰生命的末期，當時耶穌的早期追隨者正面臨來自當地猶太會堂的迫害</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43001001",
+          "start_ref_usfm": "JHN 1:1",
+          "end_ref": "43001001",
+          "end_ref_usfm": "JHN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

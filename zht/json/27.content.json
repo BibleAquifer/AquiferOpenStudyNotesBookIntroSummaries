@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647087,
+    "reference_id": 26469,
+    "title": "但以理",
+    "media_type": "Text",
+    "index_reference": "27000000",
+    "language": "zht",
+    "content": "<p>但以理書</p><h2>寫作目的</h2><p>展示神對一切事物的主權，包含那些對祂漠不關心或對祂懷抱敵意的力量。</p><h2>作者</h2><p>但以理</p><h2>日期</h2><p>約公元前605–535年</p><h2>背景</h2><p>巴比倫，從猶大第一批被擄潮的開始，到塞魯士下詔書允許猶太人返回家園時結束</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001001",
+          "start_ref_usfm": "DAN 1:1",
+          "end_ref": "27001001",
+          "end_ref_usfm": "DAN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647072,
+    "reference_id": 26454,
+    "title": "列王紀下",
+    "media_type": "Text",
+    "index_reference": "12000000",
+    "language": "zht",
+    "content": "<p>列王記下冊</p><h2>寫作目的</h2><p>解釋以色列和猶大雙雙經歷被擄離開應許之地的緣由</p><h2>作者</h2><p>未知</p><h2>日期</h2><p>記錄發生在公元前853–586年的事件</p><h2>背景</h2><p>承接列王記上分裂王國的敘事，到兩個王國經歷被擄結束</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001001",
+          "start_ref_usfm": "2KI 1:1",
+          "end_ref": "12001001",
+          "end_ref_usfm": "2KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

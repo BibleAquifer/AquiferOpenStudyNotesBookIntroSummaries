@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647064,
+    "reference_id": 26446,
+    "title": "數字",
+    "media_type": "Text",
+    "index_reference": "04000000",
+    "language": "zht",
+    "content": "<p>民數記</p><h2>寫作目的</h2><p>記錄從埃及離開不信的世代，到進入應許之地的世代的過渡期</p><h2>作者</h2><p>傳統上認為是摩西</p><h2>日期</h2><p>記錄可能發生在公元前1445–1406年或公元前1269–1230年的事件</p><h2>背景</h2><p>本書從西奈山的以色列人開始，追溯他們在曠野的旅程，並結束於他們抵達摩押平原應許之地的邊界</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04001001",
+          "start_ref_usfm": "NUM 1:1",
+          "end_ref": "04001001",
+          "end_ref_usfm": "NUM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

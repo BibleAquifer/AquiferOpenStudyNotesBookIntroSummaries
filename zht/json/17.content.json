@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647077,
+    "reference_id": 26459,
+    "title": "以斯帖",
+    "media_type": "Text",
+    "index_reference": "17000000",
+    "language": "zht",
+    "content": "<p>以斯帖記</p><h2>寫作目的</h2><p>展示上帝對他的子民的護理，並追溯普珥節的起源</p><h2>作者</h2><p>未知</p><h2>日期</h2><p>記錄發生於公元前483–473年的事件</p><h2>背景</h2><p>波斯帝國首都書珊城，在亞哈隨魯王（薛西斯）統治時期，一些猶太人已經返回猶大後。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001001",
+          "end_ref_usfm": "EST 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

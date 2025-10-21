@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647065,
+    "reference_id": 26447,
+    "title": "申命記",
+    "media_type": "Text",
+    "index_reference": "05000000",
+    "language": "zht",
+    "content": "<p>申命記</p><h2>寫作目的</h2><p>重新強調並擴展在摩西去世前以及百姓進入應許之地之前的約。</p><h2>作者</h2><p>根據傳統認為是摩西</p><h2>日期</h2><p>可能是公元前1406年或公元前1230年</p><h2>背景</h2><p>以色列人即將進入應許之地，而摩西則是即將面臨生命的盡頭</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05001001",
+          "start_ref_usfm": "DEU 1:1",
+          "end_ref": "05001001",
+          "end_ref_usfm": "DEU 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

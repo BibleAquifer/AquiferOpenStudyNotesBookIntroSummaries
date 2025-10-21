@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647068,
+    "reference_id": 26450,
+    "title": "路得",
+    "media_type": "Text",
+    "index_reference": "08000000",
+    "language": "zht",
+    "content": "<p>路得記</p><h2>寫作目的</h2><p>講述路得鼓舞人心的故事，並追溯大衞王的族譜</p><h2>作者</h2><p>未知</p><h2>日期</h2><p>記錄發生在公元前1100年左右的事件</p><h2>背景</h2><p>士師時期，在伯利恆遭遇饑荒期間和之後的時期</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

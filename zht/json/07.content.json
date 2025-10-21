@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647067,
+    "reference_id": 26449,
+    "title": "法官們",
+    "media_type": "Text",
+    "index_reference": "07000000",
+    "language": "zht",
+    "content": "<p>士師記</p><h2>寫作目的</h2><p>描述士師統治的時期，並提出支持以色列建立君主制的理由</p><h2>作者</h2><p>未知</p><h2>日期</h2><p>記錄發生在公元前1376–1050年或公元前1200–1050年的事件</p><h2>背景</h2><p>以色列未能完全征服應許之地，並面臨敵人的反覆壓迫</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001001",
+          "start_ref_usfm": "JDG 1:1",
+          "end_ref": "07001001",
+          "end_ref_usfm": "JDG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

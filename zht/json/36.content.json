@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647096,
+    "reference_id": 26478,
+    "title": "西番亞",
+    "media_type": "Text",
+    "index_reference": "36000000",
+    "language": "zht",
+    "content": "<p>西番亞書</p><h2>寫作目的</h2><p>警告即將到來的「耶和華的日子」，並督促悔改</p><h2>作者</h2><p>西番亞</p><h2>日期</h2><p>大概在公元前635年至622年之間</p><h2>背景</h2><p>近猶大王約西亞統治初期，在他進行宗教改革之前。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "36001001",
+          "start_ref_usfm": "ZEP 1:1",
+          "end_ref": "36001001",
+          "end_ref_usfm": "ZEP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

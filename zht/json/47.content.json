@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 647107,
+    "reference_id": 26489,
+    "title": "哥林多後書",
+    "media_type": "Text",
+    "index_reference": "47000000",
+    "language": "zht",
+    "content": "<p>保羅寫給哥林多人的第二封信</p><h2>寫作目的</h2><p>捍衞保羅的使徒權威，壓制假教師的影響</p><h2>作者</h2><p>保羅</p><h2>日期</h2><p>公元56年左右</p><h2>背景</h2><p>保羅在收到提多關於哥林多教會在收到保羅先前的那封信（現已丟失），而後悔改的正面報告後，提筆所寫的書信（見<a href=\"https://ref.ly/2Cor7:5-2Cor7:9\">哥林多後書7:5–9</a>）。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001001",
+          "end_ref_usfm": "2CO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
