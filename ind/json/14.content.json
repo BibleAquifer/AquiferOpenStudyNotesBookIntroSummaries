@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27605,
+    "reference_id": 26456,
+    "title": "2 Tawarikh",
+    "media_type": "Text",
+    "index_reference": "14000000",
+    "language": "ind",
+    "content": "<p>Kitab 2 Tawarikh</p><h2>Tujuan</h2><p>Memberi harapan kepada pembaca tentang pemulihan Kerajaan Israel yang dicirikan oleh ibadah yang sejati</p><h2>Penulis</h2><p>Tidak diketahui</p><h2>Tahun penulisan</h2><p>Kemungkinan ditulis sekitar tahun 400 SM, mencatat peristiwa-peristiwa yang terjadi sekitar tahun 971–538 SM</p><h2>Latar Belakang</h2><p>Wilayah Yudea pasca-pembuangan dalam masa pemerintahan Persia; kitab ini dimulai dengan pemerintahan Salomo dan berakhir dengan pengumuman Koresh yang mengizinkan bangsa Israel kembali ke Yudea</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14001001",
+          "start_ref_usfm": "2CH 1:1",
+          "end_ref": "14001001",
+          "end_ref_usfm": "2CH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

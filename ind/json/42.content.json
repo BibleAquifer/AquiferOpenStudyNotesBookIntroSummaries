@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27633,
+    "reference_id": 26484,
+    "title": "Lukas",
+    "media_type": "Text",
+    "index_reference": "42000000",
+    "language": "ind",
+    "content": "<p>Injil Lukas</p><h2>Tujuan</h2><p>Menulis sebuah laporan sejarah yang dapat dipercaya tentang kehidupan Yesus yang akan menegaskan kebenaran tentang berita agama Kristen</p><h2>Penulis</h2><p>Lukas, seorang tabib dan kadang menjadi rekan misi Rasul Paulus</p><h2>Tahun penulisan</h2><p>Entah sekitar M, selama Paulus dipenjara di kota Roma, atau antara Tahun 70–90M, dengan menggunakan Injil Markus sebagai sumbernya</p><h2>Latar Belakang</h2><p>Ditulis pada masa ketika ketegangan antara orang-orang Yahudi dan orang-orang Kristen meningkat, di mana Lukas mencoba membuktikan bahwa orang-orang—Yahudi maupun non-Yahudi—percaya bahwa Yesus adalah Mesias merupakan umat Allah yang baru</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001001",
+          "end_ref_usfm": "LUK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

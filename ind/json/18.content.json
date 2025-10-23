@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27609,
+    "reference_id": 26460,
+    "title": "Ayub",
+    "media_type": "Text",
+    "index_reference": "18000000",
+    "language": "ind",
+    "content": "<p>Kitab Ayub</p><h2>Tujuan</h2><p>Menawarkan perenungan terhadap masalah penderitaan manusia, terutama dengan mempertanyakan anggapan yang sering mengaitkan kebaikan moral dengan kesejahteraan</p><h2>Penulis</h2><p>Tidak diketahui</p><h2>Tahun penulisan</h2><p>Tidak diketahui</p><h2>Latar Belakang</h2><p>Zaman bapa-bapa leluhur, mungkin di negeri Edom</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

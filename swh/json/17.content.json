@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27872,
+    "reference_id": 26459,
+    "title": "Esta",
+    "media_type": "Text",
+    "index_reference": "17000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Esta</p><h2>Kusudi</h2><p>Kuonyesha jinsi Mungu anavyowatunza watu wake na kufuatilia asili ya Sikukuu ya Purimu</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Kinarekodi matukio ambayo yalitokea takriban mnamo 483–473 KK</p><h2>Muktadha</h2><p>Mji mkuu wa Uajemi, Susa, wakati wa utawala wa Ahasuero, baada ya Wayahudi kadhaa kurudi Uyahudi.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17001001",
+          "start_ref_usfm": "EST 1:1",
+          "end_ref": "17001001",
+          "end_ref_usfm": "EST 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

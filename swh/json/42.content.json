@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27897,
+    "reference_id": 26484,
+    "title": "Luka",
+    "media_type": "Text",
+    "index_reference": "42000000",
+    "language": "swh",
+    "content": "<p>Injili ya Luka</p><h2>Kusudi</h2><p>Kuandika simulizi ya kutegemewa juu ya maisha ya Yesu ambayo itathibitisha ukweli wa ujumbe wa Kikristo</p><h2>Mwandishi</h2><p>Luka, tabibu na mwandamani wa mara kwa mara wa mtume Paulo</p><h2>Tarehe</h2><p>Mnamo takriban 59–63 BK, wakati Paulo alikuwa kifungoni huko Rumi, au kati ya 70–90 BK, mwandishi akitumia Injili ya Marko kama chanzo</p><h2>Muktadha</h2><p>Kiliandikwa wakati mvutano ulikuwa ukizidi kuongezeka kati ya Wayahudi na Wakristo, na hivyo Luka alijaribu kuonyesha kwamba Wayahudi na Mataifa walioamini kwamba Yesu ndiye Masihi ndio waliokuwa watu wapya wa Mungu</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001001",
+          "start_ref_usfm": "LUK 1:1",
+          "end_ref": "42001001",
+          "end_ref_usfm": "LUK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

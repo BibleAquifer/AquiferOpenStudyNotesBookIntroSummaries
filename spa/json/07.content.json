@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336741,
+    "reference_id": 26449,
+    "title": "Jueces",
+    "media_type": "Text",
+    "index_reference": "07000000",
+    "language": "spa",
+    "content": "<p>El Libro de los Jueces</p><h2>Propósito</h2><ol><li><p>Describir el período de los jueces</p></li><li><p>Presentar un caso para que Israel sea gobernado por un rey</p></li></ol><h2>Autor</h2><p>Desconocido</p><h2>Fecha</h2><p>Registra eventos que ocurrieron ya sea en 1376–1050 a.C. o 1200–1050 a.C.</p><h2>Contexto</h2><p>Israel no lograba conquistar completamente la tierra prometida y eran oprimidos repetidamente por enemigos</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001001",
+          "start_ref_usfm": "JDG 1:1",
+          "end_ref": "07001001",
+          "end_ref_usfm": "JDG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

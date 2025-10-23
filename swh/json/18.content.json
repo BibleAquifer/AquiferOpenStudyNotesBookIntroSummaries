@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27873,
+    "reference_id": 26460,
+    "title": "Ayubu",
+    "media_type": "Text",
+    "index_reference": "18000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Ayubu</p><h2>Kusudi</h2><p>Kutoa tafakari kuhusu suala la kuteseka kwa mwanadamu, kimsingi kwa kuhoji uhusiano kati ya uadilifu na mafanikio unaominiwa na wengi</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Hajulikani</p><h2>Muktadha</h2><p>Enzi ya mababu, inawezekana katika nchi ya Edomu</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

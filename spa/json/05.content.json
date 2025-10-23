@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336739,
+    "reference_id": 26447,
+    "title": "Deuteronomio",
+    "media_type": "Text",
+    "index_reference": "05000000",
+    "language": "spa",
+    "content": "<p>El Libro de Deuteronomio</p><h2>Propósito</h2><p>Repetir y proporcionar más detalles sobre el pacto antes de la muerte de Moisés y de la entrada de los israelitas en la tierra prometida</p><h2>Autor</h2><p>Moisés, según la tradición</p><h2>Fecha</h2><p>Probablemente sea 1406 a.C. o 1230 a.C.</p><h2>Contexto</h2><p>Los israelitas están a punto de entrar en la tierra prometida, y Moisés se acerca al final de su vida</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05001001",
+          "start_ref_usfm": "DEU 1:1",
+          "end_ref": "05001001",
+          "end_ref_usfm": "DEU 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

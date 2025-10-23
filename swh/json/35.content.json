@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27890,
+    "reference_id": 26477,
+    "title": "Habakuki",
+    "media_type": "Text",
+    "index_reference": "35000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Habakuki</p><h2>Kusudi</h2><p>Kushughulikia maswali tatanishi kuhusu makusudi ya Mungu na uwepo wa uovu ulimwenguni</p><h2>Mwandishi</h2><p>Habakuki</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa kati ya 645 na 605 KK</p><h2>Muktadha</h2><p>Miaka ya mwisho ya ufalme huru wa Yuda, wakati nguvu ya Ashuru ilikuwa inafifia lakini nguvu ya Babeli ilikuwa inaongezeka</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "35001001",
+          "start_ref_usfm": "HAB 1:1",
+          "end_ref": "35001001",
+          "end_ref_usfm": "HAB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

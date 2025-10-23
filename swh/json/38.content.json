@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27893,
+    "reference_id": 26480,
+    "title": "Zekaria",
+    "media_type": "Text",
+    "index_reference": "38000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Zekaria</p><h2>Kusudi</h2><p>Kuchochea uamsho wa kiroho na kutangaza mustakabali mzuri kwa ajili ya watu wa Mungu</p><h2>Mwandishi</h2><p>Zekaria</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa kati ya 520 na 470 KK</p><h2>Muktadha</h2><p>Yerusalemu, miongo miwili baada ya mabakai ya Wayahudi kurudi kutoka uhamishoni</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "38001001",
+          "start_ref_usfm": "ZEC 1:1",
+          "end_ref": "38001001",
+          "end_ref_usfm": "ZEC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

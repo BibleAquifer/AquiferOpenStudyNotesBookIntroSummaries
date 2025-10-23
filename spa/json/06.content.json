@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336740,
+    "reference_id": 26448,
+    "title": "Josué",
+    "media_type": "Text",
+    "index_reference": "06000000",
+    "language": "spa",
+    "content": "<p>El Libro de Josué</p><h2>Propósito</h2><p>Relatar la conquista de la tierra prometida por Israel</p><h2>Autor</h2><p>Desconocido</p><h2>Fecha</h2><p>Registra eventos que probablemente ocurrieron entre 1406–1376 a.C. o 1230–1200 a.C.</p><h2>Contexto</h2><p>Comienza con los israelitas a punto de cruzar el Jordán y termina con su nueva tierra distribuida entre las tribus</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001001",
+          "end_ref_usfm": "JOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

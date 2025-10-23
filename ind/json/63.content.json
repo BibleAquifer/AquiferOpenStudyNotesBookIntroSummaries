@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27654,
+    "reference_id": 26505,
+    "title": "2 Yohanes",
+    "media_type": "Text",
+    "index_reference": "63000000",
+    "language": "ind",
+    "content": "<p>Surat Yohanes yang Kedua</p><h2>Tujuan</h2><p>Menjabarkan respons yang tepat terhadap guru-guru palsu dan mendorong orang-orang percaya untuk saling mengasihi</p><h2>Penulis</h2><p>Kemungkinan Rasul Yohanes</p><h2>Tahun penulisan</h2><p>Sekitar Tahun 85–90 M</p><h2>Latar Belakang</h2><p>Ditulis kepada sebuah komunitas orang percaya—kemungkinan di Asia Kecil—yang telah menghadapi guru-guru palsu atau kemungkinan akan segera menghadapinya</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "63001001",
+          "start_ref_usfm": "2JN 1:1",
+          "end_ref": "63001001",
+          "end_ref_usfm": "2JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

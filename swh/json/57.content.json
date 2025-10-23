@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27912,
+    "reference_id": 26499,
+    "title": "Filemoni",
+    "media_type": "Text",
+    "index_reference": "57000000",
+    "language": "swh",
+    "content": "<p>Waraka wa Paulo kwa Filemoni</p><h2>Kusudi</h2><p>Kumsihi Filemoni kumkubali mtumwa wake Onesimo, ambaye amekuwa muumini</p><h2>Mwandishi</h2><p>Paulo</p><h2>Tarehe</h2><p>Kwa mujibu wa mapokeo, kiliandikwa mnamo 60–62 BK, lakini inawezekana kiliandikwa mapema zaidi, takriban mnamo 53–56 BK</p><h2>Muktadha</h2><p>Kiliandikwa Paulo akiwa gerezani, baada ya kukutana na Onesimo, ambaye alikuwa ni mtumwa mtoro wa Filemoni, kiongozi wa Kikristo huko Kolosai</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

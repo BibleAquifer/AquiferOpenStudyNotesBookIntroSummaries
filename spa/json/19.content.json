@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336753,
+    "reference_id": 26461,
+    "title": "Salmos",
+    "media_type": "Text",
+    "index_reference": "19000000",
+    "language": "spa",
+    "content": "<p>El Libro de los Salmos</p><h2>Propósito</h2><ol><li><p>Ofrecer alabanza y oración a Dios</p></li><li><p>Proveer a la gente de Dios textos para la adoración</p></li><li><p>Reflexionar sobre la soberanía de Dios (el poder y la autoridad para gobernar) y algunas de las preguntas más difíciles de la vida</p></li></ol><h2>Autor</h2><p>Varios; casi la mitad están vinculados con David</p><h2>Fecha</h2><p>Escrito durante muchos siglos. El proceso de recopilación y edición probablemente se completó después del exilio babilónico</p><h2>Contexto</h2><p>Variado, pero un contexto después del exilio babilónico explica gran parte de la actividad editorial y la agrupación de los salmos</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001001",
+          "end_ref_usfm": "PSA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

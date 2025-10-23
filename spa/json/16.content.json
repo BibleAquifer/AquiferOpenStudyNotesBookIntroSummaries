@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336750,
+    "reference_id": 26458,
+    "title": "Nehemías",
+    "media_type": "Text",
+    "index_reference": "16000000",
+    "language": "spa",
+    "content": "<p>El Libro de Nehemías</p><h2>Propósito</h2><ol><li><p>Relatar la reconstrucción de las murallas de Jerusalén</p></li><li><p>Demostrar la fidelidad de Dios a aquellos dedicados a él</p></li></ol><h2>Autor</h2><p>Esdras, según la tradición</p><h2>Fecha</h2><p>Registra eventos que ocurrieron alrededor de 445–430 a.C.</p><h2>Contexto</h2><p>Jerusalén, aproximadamente quince años después de la llegada de Esdras</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

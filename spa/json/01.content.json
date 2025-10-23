@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336735,
+    "reference_id": 26443,
+    "title": "Génesis",
+    "media_type": "Text",
+    "index_reference": "01000000",
+    "language": "spa",
+    "content": "<p>El Libro del Génesis</p><h2>Propósito</h2><p>Rastrear el establecimiento del plan de Dios para superar el pecado a través de su pueblo elegido, Israel</p><h2>Autor</h2><p>Moisés, según la tradición</p><h2>Fecha</h2><p>Registra eventos primitivos (desde los tiempos más antiguos) y eventos de la época en que vivieron los patriarcas (alrededor de 2100–1700 a.C.)</p><h2>Contexto</h2><p>Una variedad de lugares en el Medio Oriente, centrándose principalmente en los patriarcas (Abraham, Isaac, Jacob y sus hijos) durante su tiempo en Canaán y Egipto</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01001001",
+          "end_ref_usfm": "GEN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

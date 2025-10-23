@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27880,
+    "reference_id": 26467,
+    "title": "Maombolezo",
+    "media_type": "Text",
+    "index_reference": "25000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Maombolezo</p><h2>Kusudi</h2><p>Kuonyesha huzuni kuu kwa ajili ya kuharibiwa kwa Yerusalemu na kutoa tumaini dogo kwa watu wa Mungu</p><h2>Mwandishi</h2><p>Inawezekana sana kuwa ni Yeremia</p><h2>Tarehe</h2><p>Mnamo takriban 586 KK</p><h2>Muktadha</h2><p>Matokeo ya uvamizi wa Babeli, kuharibiwa kwa Yerusalemu, na uhamisho wa watu wa Yuda</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "25001001",
+          "start_ref_usfm": "LAM 1:1",
+          "end_ref": "25001001",
+          "end_ref_usfm": "LAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

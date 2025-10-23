@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27861,
+    "reference_id": 26448,
+    "title": "Yoshua",
+    "media_type": "Text",
+    "index_reference": "06000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Yoshua</p><h2>Kusudi</h2><p>Kusimulia jinsi Israeli ilivyoteka Nchi ya Ahadi</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Kinarekodi matukio ambayo kuna uwezekano yalitokea mnamo 1406–1376 KK au 1230–1200 KK</p><h2>Muktadha</h2><p>Kinaanza na Waisraeli wakiwa karibu kuvuka Mto Yordani na kinaisha na nchi mpya ikiwa imeshagawanywa</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001001",
+          "end_ref_usfm": "JOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

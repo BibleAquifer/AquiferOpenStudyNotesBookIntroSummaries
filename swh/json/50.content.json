@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27905,
+    "reference_id": 26492,
+    "title": "Wafilipi",
+    "media_type": "Text",
+    "index_reference": "50000000",
+    "language": "swh",
+    "content": "<p>Waraka wa Paulo kwa Wafilipi</p><h2>Kusudi</h2><p>Kuwashukuru Wafilipi kwa zawadi yao ya hivi karibuni na kuwahimiza kuwa na furaha na kutosheka katika mateso yao</p><h2>Mwandishi</h2><p>Paulo</p><h2>Tarehe</h2><p>Kwa mujibu wa mapokeo, kiliandikwa mnamo 60–62 BK, lakini inawezekana kiliandikwa mapema zaidi, takriban mnamo 53–56 BK</p><h2>Muktadha</h2><p>Kiliandikwa wakati Paulo alikuwa gerezani na wakati kanisa la Filipi, ambalo lilikuwa limemtumia Paulo zawadi ya kifedha hivi karibuni, lilikuwa linakabiliwa na mateso</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

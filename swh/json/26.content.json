@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27881,
+    "reference_id": 26468,
+    "title": "Ezekieli",
+    "media_type": "Text",
+    "index_reference": "26000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Ezekieli</p><h2>Kusudi</h2><p>Kutangaza hukumu inayokuja dhidi ya Yuda na kutoa tumaini kufuatia kuharibiwa kwa Yerusalemu</p><h2>Mwandishi</h2><p>Ezekieli</p><h2>Tarehe</h2><p>Mnamo takriban 593–571 KK</p><h2>Muktadha</h2><p>Uhamisho huko Babeli, kabla, wakati, na baada ya kuharibiwa kwa Yerusalemu</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001001",
+          "end_ref_usfm": "EZK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27594,
+    "reference_id": 26445,
+    "title": "Imamat",
+    "media_type": "Text",
+    "index_reference": "03000000",
+    "language": "ind",
+    "content": "<p>Kitab Imamat</p><h2>Tujuan</h2><p>Menyatakan kekudusan Allah dan perintah-Nya agar umat-Nya hidup kudus</p><h2>Penulis</h2><p>Musa, menurut tradisi</p><h2>Tahun penulisan</h2><p>Mencatat peristiwa-peristiwa yang kemungkinan terjadi sekitar tahun 1446 SM Atau 1270 SM</p><h2>Latar Belakang</h2><p>Bangsa Israel ditetapkan sebagai umat kovenan Allah dan berkemah di kaki Gunung Sinai</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03001001",
+          "start_ref_usfm": "LEV 1:1",
+          "end_ref": "03001001",
+          "end_ref_usfm": "LEV 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

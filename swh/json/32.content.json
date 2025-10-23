@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27887,
+    "reference_id": 26474,
+    "title": "Yona",
+    "media_type": "Text",
+    "index_reference": "32000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Yona</p><h2>Kusudi</h2><p>Kusimulia simulizi kuhusu wigo mpana wa ukuu wa Mungu na wokovu wake</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Mnamo takriban 755 KK</p><h2>Muktadha</h2><p>Wakati ambapo ushawishi wa Ashuru katika nchi ya Israeli ulikuwa umepungua kwa muda, inawezekana ilikuwa ni wakati wa utawala wa Yeroboamu wa Pili</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "32001001",
+          "start_ref_usfm": "JON 1:1",
+          "end_ref": "32001001",
+          "end_ref_usfm": "JON 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

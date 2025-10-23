@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336756,
+    "reference_id": 26464,
+    "title": "Cantar de los Cantares",
+    "media_type": "Text",
+    "index_reference": "22000000",
+    "language": "spa",
+    "content": "<p>El Cantar de los Cantares</p><h2>Propósito</h2><p>Para celebrar los dones de amor y sexualidad dados por Dios</p><h2>Autor</h2><p>Salomón; otros posibles colaboradores</p><h2>Fecha</h2><p>Desconocido, pero después del 971 a.C.</p><h2>Contexto</h2><p>El libro está asociado con el reinado del Rey Salomón, pero su falta de una trama clara hace que sea difícil identificar el contexto</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "22001001",
+          "start_ref_usfm": "SNG 1:1",
+          "end_ref": "22001001",
+          "end_ref_usfm": "SNG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

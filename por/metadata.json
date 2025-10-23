@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "TyndaleStudyNotesBookIntroSummaries",
-    "date_created": "2025-10-21",
+    "date_created": "2025-10-22",
     "language": "por",
     "localizations": [
       "eng",
@@ -51,7 +51,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-21T11:04:18.545260"
+      "dateCreated": "2025-10-22T15:03:37.816484"
     },
     "idAuthorities": {
       "aquifer": {
@@ -65,7 +65,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntroSummaries": {
-            "timestamp": "2025-10-21T11:04:18.545260"
+            "timestamp": "2025-10-22T15:03:37.816484"
           }
         }
       },

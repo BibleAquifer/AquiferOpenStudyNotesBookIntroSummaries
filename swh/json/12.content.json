@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27867,
+    "reference_id": 26454,
+    "title": "2 Wafalme",
+    "media_type": "Text",
+    "index_reference": "12000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Wafalme wa Pili</p><h2>Kusudi</h2><p>Kueleza kwa nini falme za Israeli na Yuda zilipelekwa uhamishoni kutoka katika Nchi ya Ahadi</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Kinarekodi matukio ambayo yalitokea takriban mnamo 853–586 KK</p><h2>Muktadha</h2><p>Kinaendeleza simulizi kuhusu ufalme uliogawanyika kutoka 1 Wafalme, na kumalizia na watu wa falme zote mbili wakipelekewa uhamishoni</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001001",
+          "start_ref_usfm": "2KI 1:1",
+          "end_ref": "12001001",
+          "end_ref_usfm": "2KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
