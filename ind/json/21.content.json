@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27612,
+    "reference_id": 26463,
+    "title": "Pengkhotbah",
+    "media_type": "Text",
+    "index_reference": "21000000",
+    "language": "ind",
+    "content": "<p>Kitab Pengkhotbah</p><h2>Tujuan</h2><p>Merenungkan arti dan kenikmatan hidup</p><h2>Penulis</h2><p>Salomo</p><h2>Tahun penulisan</h2><p>Sekitar tahun 971–931 SM</p><h2>Latar Belakang</h2><p>Pemerintahan Salomo yang sangat makmur—tetapi sepertinya tidak memuaskan</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "21001001",
+          "start_ref_usfm": "ECC 1:1",
+          "end_ref": "21001001",
+          "end_ref_usfm": "ECC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336799,
+    "reference_id": 26507,
+    "title": "Judas",
+    "media_type": "Text",
+    "index_reference": "65000000",
+    "language": "spa",
+    "content": "<p>La Carta de Judas</p><h2>Propósito</h2><p>Instar a los lectores a defender su fe frente a las falsas enseñanzas</p><h2>Autor</h2><p>Judas, hermano de Jesús</p><h2>Fecha</h2><p>Desconocida, posiblemente alrededor de la misma época que 2 Pedro (principios de los años 60 d.C.)</p><h2>Contexto</h2><p>Escrita a un grupo de iglesias que habían sido infiltradas por falsos maestros que fomentaban un estilo de vida inmoral</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

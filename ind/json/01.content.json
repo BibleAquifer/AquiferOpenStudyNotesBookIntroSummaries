@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27592,
+    "reference_id": 26443,
+    "title": "Kejadian",
+    "media_type": "Text",
+    "index_reference": "01000000",
+    "language": "ind",
+    "content": "<p>Kitab Kejadian</p><h2>Tujuan</h2><p>Menelusuri penetapan rencana Allah untuk mengatasi dosa melalui umat-Nya, Israel</p><h2>Penulis</h2><p>Musa, menurut tradisi</p><h2>Tahun penulisan</h2><p>mencatat peristiwa-peristiwa dari zaman purbakala dan zaman bapa-bapa leluhur (kira-kira tahun 2100–1700 SM)</p><h2>Latar Belakang</h2><p>Berbagai tempat di Timur Tengah, berfokus pada bapa-bapa leluhur selama masa hidup mereka di Kanaan dan Mesir</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01001001",
+          "end_ref_usfm": "GEN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

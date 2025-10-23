@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27655,
+    "reference_id": 26506,
+    "title": "3 Yohanes",
+    "media_type": "Text",
+    "index_reference": "64000000",
+    "language": "ind",
+    "content": "<p>Surat Yohanes yang Ketiga</p><h2>Tujuan</h2><p>Memuji Gayus atas keramahtamahannya dalam menyambut utusan-utusan para rasul dan menegur Diotrefes</p><h2>Penulis</h2><p>Kemungkinan Rasul Yohanes</p><h2>Tahun penulisan</h2><p>Sekitar Tahun 85–90 M</p><h2>Latar Belakang</h2><p>Ditulis kepada seorang bernama Gayus untuk menanggapi keramahtamahannya dan kelancangan seorang bernama Diotrefes</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "64001001",
+          "start_ref_usfm": "3JN 1:1",
+          "end_ref": "64001001",
+          "end_ref_usfm": "3JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

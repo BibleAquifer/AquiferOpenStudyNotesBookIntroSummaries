@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27878,
+    "reference_id": 26465,
+    "title": "Isaya",
+    "media_type": "Text",
+    "index_reference": "23000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Isaya</p><h2>Kusudi</h2><p>Kuonya ufalme wa Yuda kuhusu hukumu inayokuja na kutoa tumaini kuhusu mabaki ya watu wa Mungu</p><h2>Mwandishi</h2><p>Isaya</p><h2>Tarehe</h2><p>Mnamo takriban 740–685 KK</p><h2>Muktadha</h2><p>Ufalme wa kusini wa Yuda, takriban wakati Ashuru iliteka ufalme wa kaskazini wa Israeli</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

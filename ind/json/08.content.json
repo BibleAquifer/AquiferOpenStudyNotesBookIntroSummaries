@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27599,
+    "reference_id": 26450,
+    "title": "Rut",
+    "media_type": "Text",
+    "index_reference": "08000000",
+    "language": "ind",
+    "content": "<p>Kitab Rut</p><h2>Tujuan</h2><p>Menceritakan kisah Rut yang menginspirasi dan menelusuri latar belakang Raja Daud</p><h2>Penulis</h2><p>Tidak diketahui</p><h2>Tahun penulisan</h2><p>Mencatat peristiwa-peristiwa yang terjadi sekitar tahun 1100 SM</p><h2>Latar Belakang</h2><p>Periode zaman hakim-hakim, selama dan segera setelah bencana kelaparan melanda Betlehem</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

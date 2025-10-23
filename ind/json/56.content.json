@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27647,
+    "reference_id": 26498,
+    "title": "Titus",
+    "media_type": "Text",
+    "index_reference": "56000000",
+    "language": "ind",
+    "content": "<p>Surat Paulus kepada Titus</p><h2>Tujuan</h2><p>Memberi ajaran kepada Titus terkait pengangkatan pemimpin-pemimpin jemaat di Pulau Kreta dan mendorong sikap dan perilaku yang tepat pada orang-orang percaya yang ada di sana</p><h2>Penulis</h2><p>Paulus</p><h2>Tahun penulisan</h2><p>Kemungkinan sekitar Tahun 63 M</p><h2>Latar Belakang</h2><p>Ditulis menjelang akhir hidup Paulus, ketika Titus berada di Pulau Kreta, sebuah tempat yang dikenal dengan budayanya yang bobrok</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "56001001",
+          "start_ref_usfm": "TIT 1:1",
+          "end_ref": "56001001",
+          "end_ref_usfm": "TIT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

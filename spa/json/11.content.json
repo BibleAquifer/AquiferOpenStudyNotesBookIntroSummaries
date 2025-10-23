@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336745,
+    "reference_id": 26453,
+    "title": "1 Reyes",
+    "media_type": "Text",
+    "index_reference": "11000000",
+    "language": "spa",
+    "content": "<p>El Primer Libro de Reyes</p><h2>Propósito</h2><p>Delinear</p><ol><li><p>la gloria del reinado de Salomón,</p></li><li><p>la división del reino, y</p></li><li><p>la degradación de Israel</p></li></ol><h2>Autor</h2><p>Desconocido</p><h2>Fecha</h2><p>Registra eventos que ocurrieron alrededor de 973–853 a.C.</p><h2>Contexto</h2><p>Comienza en el punto prominente de la monarquía israelita (el reinado de Salomón) y termina con un reino dividido y un punto inferior en la monarquía israelita (el reinado de Acab)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11001001",
+          "end_ref_usfm": "1KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

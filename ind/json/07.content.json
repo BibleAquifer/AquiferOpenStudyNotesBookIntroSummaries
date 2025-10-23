@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27598,
+    "reference_id": 26449,
+    "title": "Hakim-Hakim",
+    "media_type": "Text",
+    "index_reference": "07000000",
+    "language": "ind",
+    "content": "<p>Kitab Hakim-Hakim</p><h2>Tujuan</h2><p>Menggambarkan zaman hakim-hakim dan mengajukan usul tentang Kerajaan Israel</p><h2>Penulis</h2><p>Tidak diketahui</p><h2>Tahun Penulisan</h2><p>Mencatat peristiwa-peristiwa yang terjadi antara tahun 1376–1050 SM atau 1200–1050 SM</p><h2>Latar Belakang</h2><p>Israel gagal menaklukkan Tanah Perjanjian sepenuhnya dan berulang kali menghadapi penindasan dari musuh-musuhnya</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001001",
+          "start_ref_usfm": "JDG 1:1",
+          "end_ref": "07001001",
+          "end_ref_usfm": "JDG 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

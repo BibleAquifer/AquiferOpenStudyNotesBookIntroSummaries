@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27632,
+    "reference_id": 26483,
+    "title": "Markus",
+    "media_type": "Text",
+    "index_reference": "41000000",
+    "language": "ind",
+    "content": "<p>Injil Markus</p><h2>Tujuan</h2><p>Meneruskan Kabar Baik tentang Yesus, yang adalah Mesias dan Anak Allah</p><h2>Penulis</h2><p>Yohanes Markus, yang menurut tradisi menulis ingatan dan kenangan dari Rasul Petrus</p><h2>Tahun penulisan</h2><p>Kemungkinan ditulis pada akhir tahun 60-an M</p><h2>Latar Belakang</h2><p>Ditulis pada masa ketika orang-orang Kristen di dunia Romawi sedang menghadapi penganiayaan—mengharuskan tradisi-tradisi ajaran Injil mulai dituliskan—dan kehancuran Yerusalem sudah dekat</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001001",
+          "end_ref_usfm": "MRK 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27625,
+    "reference_id": 26476,
+    "title": "Nahum",
+    "media_type": "Text",
+    "index_reference": "34000000",
+    "language": "ind",
+    "content": "<p>Kitab Nahum</p><h2>Tujuan</h2><p>Mengumumkan penghukuman Allah yang akan datang atas Niniwe, ibukota Kerajaan Asyur, dan karenanya, menawarkan harapan bagi bangsa Yehuda</p><h2>Penulis</h2><p>Nahum</p><h2>Tahun penulisan</h2><p>Suatu masa di antara tahun 663 dan 612 SM</p><h2>Latar Belakang</h2><p>Kerajaan Asyur telah menaklukkan Kerajaan Israel di utara, dan sekarang Kerajaan Yehuda di selatan berada dalam bahaya menghadapi nasib yang sama</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

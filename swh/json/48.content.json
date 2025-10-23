@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27903,
+    "reference_id": 26490,
+    "title": "Wagalatia",
+    "media_type": "Text",
+    "index_reference": "48000000",
+    "language": "swh",
+    "content": "<p>Waraka wa Paulo kwa Wagalatia</p><h2>Kusudi</h2><p>Kuwashawishi Wakristo wa Mataifa wa Galatia, huku kukiwa na upinzani kutoka kwa Wakristo fulani Wayahudi, kwamba si lazima watahiriwe na wafuate desturi zingine za sheria ya Kiyahudi ili wawe sehemu ya watu wa Mungu</p><h2>Mwandishi</h2><p>Paulo</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa mnamo 48 au 49 BK, kabla tu ya baraza la Yerusalemu</p><h2>Muktadha</h2><p>Kiliandikwa baada ya kundi fulani cha Wakristo Wayahudi kujipenyeza katika jamii za kanisa la Galatia, wakifundisha kwamba ni lazima kufuata desturi ya tohara</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "48001001",
+          "start_ref_usfm": "GAL 1:1",
+          "end_ref": "48001001",
+          "end_ref_usfm": "GAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27875,
+    "reference_id": 26462,
+    "title": "Mithali",
+    "media_type": "Text",
+    "index_reference": "20000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Mithali</p><h2>Kusudi</h2><p>Kutoa hekima ya kiutendaji kwa ajili ya kufanya maamuzi na kupanga maisha</p><h2>Mwandishi</h2><p>Waandishi mbalimbali; mithali nyingi zinahusishwa na Sulemani</p><h2>Tarehe</h2><p>Ziliandikwa na kuwekwa pamoja katika kipindi cha karne kadhaa, kuanzia wakati wa utawala wa Sulemani (971–931&nbsp;KK) na kuendelea hadi utawala wa Hezekia (728–686 KK)</p><h2>Muktadha</h2><p>Sehemu moja imeelekezwa kwa mwanaume kijana; sehemu zingine zinaonyesha miktadha mbalimbali</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20001001",
+          "start_ref_usfm": "PRO 1:1",
+          "end_ref": "20001001",
+          "end_ref_usfm": "PRO 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

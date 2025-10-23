@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27635,
+    "reference_id": 26486,
+    "title": "Kisah Para Rasul",
+    "media_type": "Text",
+    "index_reference": "44000000",
+    "language": "ind",
+    "content": "<p>Kitab Kisah Para Rasul</p><h2>Tujuan</h2><p>Menggambarkan penyebaran Kabar Baik Yesus Kristus dan kelahiran Gereja dari Yerusalem di dunia Romawi</p><h2>Penulis</h2><p>Lukas, seorang tabib dan kadang menjadi rekan misi Rasul Paulus</p><h2>Tahun penulisan</h2><p>Kemungkinan antara permulaan tahun 60-an M Dan pertengahan tahun 80-an M. Peristiwa-peristiwa yang dicatat di dalam Kisah Para Rasul berakhir pada permulaan tahun 60-an, tetapi pandangan umum mengatakan bahwa itu ditulis belakangan, dengan dugaan bahwa Injil Lukas memakai Injil Markus—kemungkinan ditulis pada akhir tahun 60-an—sebagai sumbernya</p><h2>Latar Belakang</h2><p>Ditulis pada masa ketika Kabar Baik Yesus telah menyebar di seluruh kawasan Mediterania dan membuktikan bahwa keselamatan Allah mencakup orang-orang Yahudi dan non-Yahudi</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001001",
+          "end_ref_usfm": "ACT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

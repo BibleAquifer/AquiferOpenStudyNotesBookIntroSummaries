@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27883,
+    "reference_id": 26470,
+    "title": "Hosea",
+    "media_type": "Text",
+    "index_reference": "28000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Hosea</p><h2>Kusudi</h2><p>Kuonyesha ukosefu wa uaminifu wa Israeli na hukumu iliyofuata, na kuonyesha tamanio la Mungu ya kuwaponya na kuwarejesha watu wake.</p><h2>Mwandishi</h2><p>Hosea</p><h2>Tarehe</h2><p>Mnamo takriban 760–722 KK</p><h2>Muktadha</h2><p>Ufalme wa kaskazini wa Israeli, katika siku zilizotangulia kuharibiwa kwake mikononi mwa Ashuru</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

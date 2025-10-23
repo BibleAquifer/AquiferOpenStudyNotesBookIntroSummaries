@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27904,
+    "reference_id": 26491,
+    "title": "Waefeso",
+    "media_type": "Text",
+    "index_reference": "49000000",
+    "language": "swh",
+    "content": "<p>Waraka wa Paulo kwa Waefeso</p><h2>Kusudi</h2><p>Kutoa muhatasari wa wigo wa neema ya Mungu, kuhimiza umoja kati ya waumini wa Kiyahudi na wa Mataifa, na kuonyesha jinsi maisha mapya katika Kristo yanavyoonekana.</p><h2>Mwandishi</h2><p>Paulo</p><h2>Tarehe</h2><p>Kwa mujibu wa mapokeo, kiliandikwa 60–62 BK, lakini inawezekana kiliandikwa mapema zaidi, takriban 53–56 BK</p><h2>Muktadha</h2><p>Kiliandikwa Paulo alipokuwa gerezani, yamkini huko Rumi au Efeso, baada ya Habari njema kuenea kote katika eneo la Asia Ndogo na waumini katika eneo hilo walihitaji maagizo zaidi kuhusiana na athari za imani yao mpya</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "49001001",
+          "start_ref_usfm": "EPH 1:1",
+          "end_ref": "49001001",
+          "end_ref_usfm": "EPH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

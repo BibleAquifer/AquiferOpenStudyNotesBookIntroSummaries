@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27882,
+    "reference_id": 26469,
+    "title": "Danieli",
+    "media_type": "Text",
+    "index_reference": "27000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Danieli</p><h2>Kusudi</h2><p>Kuonyesha ukuu wa Mungu juu ya vitu vyote, ikiwemo mamlaka yasiyojali kumhusu au yanayompinga</p><h2>Mwandishi</h2><p>Inawezekana sana kuwa ni Danieli</p><h2>Tarehe</h2><p>Mnamo takriban 605–535 KK</p><h2>Muktadha</h2><p>Babeli, kuanzia na kundi la kwanza la wahamishwa kutoka Yuda na kuishia karibu na wakati wa amri ya Mfalme Koreshi ya kuruhusu Wayahudi kurudi nyumbani.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001001",
+          "start_ref_usfm": "DAN 1:1",
+          "end_ref": "27001001",
+          "end_ref_usfm": "DAN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

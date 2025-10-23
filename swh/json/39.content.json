@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27894,
+    "reference_id": 26481,
+    "title": "Malaki",
+    "media_type": "Text",
+    "index_reference": "39000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Malaki</p><h2>Kusudi</h2><p>Kuwaelekeza watu upya kwenye mwenendo mwafaka katika mahusiano na ibada</p><h2>Mwandishi</h2><p>Malaki</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa katika miaka ya 400 KK</p><h2>Muktadha</h2><p>Yuda baada ya uhamisho, wakati wa utawala wa Kiajemi, baada ya Hekalu kujengwa upya</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "39001001",
+          "start_ref_usfm": "MAL 1:1",
+          "end_ref": "39001001",
+          "end_ref_usfm": "MAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

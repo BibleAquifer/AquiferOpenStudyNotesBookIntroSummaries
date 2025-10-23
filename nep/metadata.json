@@ -1,0 +1,187 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "StudyNotes",
+    "resource_type": "Study Notes",
+    "title": "Aquifer Open Study Notes (Book Intro Summaries)",
+    "aquifer_name": "Study Notes - Book Intro Summaries (Tyndale)",
+    "collection_title": "Study Notes - Book Intro Summaries (Tyndale)",
+    "short_name": "TSNI",
+    "license_info": {
+      "title": "Tyndale Open Study Notes",
+      "copyright": {
+        "dates": "2019",
+        "holder": {
+          "name": "Tyndale House Publishers",
+          "url": "https://tyndaleopenresources.com/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": true,
+      "showAdaptationNoticeForNonEnglish": true
+    },
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intro Summaries)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by BiblioNexus and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
+    "resource_code": "TyndaleStudyNotesBookIntroSummaries",
+    "date_created": "2025-10-22",
+    "language": "nep",
+    "localizations": [
+      "eng",
+      "arb",
+      "fra",
+      "hin",
+      "ind",
+      "por",
+      "rus",
+      "spa",
+      "swh",
+      "zht"
+    ],
+    "order": "canonical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-22T15:03:37.802597"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "TyndaleStudyNotesBookIntroSummaries": {
+            "timestamp": "2025-10-22T15:03:37.802597"
+          }
+        }
+      },
+      "name": {
+        "ne": "Tyndale Open Study Notes"
+      },
+      "abbreviation": {
+        "ne": "TSNI"
+      }
+    },
+    "languages": [
+      {
+        "tag": "ne",
+        "name": {
+          "ne": "Nepali"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "parascriptural",
+        "flavor": {
+          "name": "textAquiferCanonical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/01.content.json": {
+        "mimeType": "text/json",
+        "size": 1695,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "md/01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2031,
+        "scope": {
+          "GEN": []
+        }
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Tyndale Open Study Notes © 2019 Tyndale House Publishers.</p>",
+          "mimetype": "text/html",
+          "lang": "ne"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "722562": {
+      "content_id": 722562,
+      "reference_id": 26443,
+      "index_reference": "01000000",
+      "localizations": {
+        "eng": {
+          "content_id": 27358,
+          "language": "eng",
+          "title": "Genesis"
+        },
+        "arb": {
+          "content_id": 27724,
+          "language": "arb",
+          "title": "سفر التكوين"
+        },
+        "fra": {
+          "content_id": 27658,
+          "language": "fra",
+          "title": "Genèse "
+        },
+        "hin": {
+          "content_id": 27790,
+          "language": "hin",
+          "title": "उत्पत्ति"
+        },
+        "ind": {
+          "content_id": 27592,
+          "language": "ind",
+          "title": "Kejadian"
+        },
+        "por": {
+          "content_id": 124271,
+          "language": "por",
+          "title": "Genesis"
+        },
+        "rus": {
+          "content_id": 27526,
+          "language": "rus",
+          "title": "Бытие"
+        },
+        "spa": {
+          "content_id": 336735,
+          "language": "spa",
+          "title": "Génesis"
+        },
+        "swh": {
+          "content_id": 27856,
+          "language": "swh",
+          "title": "Mwanzo"
+        },
+        "zht": {
+          "content_id": 647061,
+          "language": "zht",
+          "title": "創世記"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27601,
+    "reference_id": 26452,
+    "title": "2 Samuel",
+    "media_type": "Text",
+    "index_reference": "10000000",
+    "language": "ind",
+    "content": "<p>Kitab 2 Samuel</p><h2>Tujuan</h2><p>Menggambarkan pemerintahan Daud dan membuktikan komitmen Allah terhadap garis keturunan Daud</p><h2>Penulis</h2><p>Tidak diketahui</p><h2>Tahun penulisan</h2><p>Mencatat peristiwa-peristiwa yang terjadi sekitar tahun 1011–971 SM</p><h2>Latar Belakang</h2><p>Setelah kematian Saul, Daud berusaha mendirikan takhtanya atas seluruh Israel dan memperluas wilayah Israel</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001001",
+          "end_ref_usfm": "2SA 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

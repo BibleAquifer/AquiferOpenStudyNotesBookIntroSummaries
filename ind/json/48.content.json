@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27639,
+    "reference_id": 26490,
+    "title": "Galatia",
+    "media_type": "Text",
+    "index_reference": "48000000",
+    "language": "ind",
+    "content": "<p>Surat Paulus kepada Jemaat di Galatia</p><h2>Tujuan</h2><p>Meyakinkan orang-orang Kristen berlatar belakang non-Yahudi di kota Galatia—melawan penentangan dari orang-orang Kristen tertentu yang berlatar belakang Yahudi—bahwa sunat atau melakukan praktik-praktik lain dari hukum-hukum Yahudi tidak diperlukan untuk menjadi umat Allah.</p><h2>Penulis</h2><p>Paulus</p><h2>Tahun penulisan</h2><p>Kemungkinan Tahun 48 atau 49 M, persis sebelum konsili di Yerusalem</p><h2>Latar Belakang</h2><p>Ditulis setelah sekelompok orang Kristen berlatar belakang Yahudi menyusup ke dalam komunitas gereja di Galatia dan mengajarkan kewajiban sunat</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "48001001",
+          "start_ref_usfm": "GAL 1:1",
+          "end_ref": "48001001",
+          "end_ref_usfm": "GAL 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

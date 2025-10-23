@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27640,
+    "reference_id": 26491,
+    "title": "Efesus",
+    "media_type": "Text",
+    "index_reference": "49000000",
+    "language": "ind",
+    "content": "<p>Surat Paulus kepada Jemaat di Efesus</p><h2>Tujuan</h2><p>Menjabarkan cakupan anugerah Allah, mendorong kesatuan di antara orang-orang percaya berlatar belakang Yahudi dan non-Yahudi, dan menunjukkan seperti apa kehidupan baru di dalam Kristus itu</p><h2>Penulis</h2><p>Paulus</p><h2>Tahun penulisan</h2><p>Menurut tradisi, Tahun 60–62 M, tetapi mungkin lebih awal, yaitu sekitar Tahun 53–56 M</p><h2>Latar Belakang</h2><p>Ditulis ketika Paulus dipenjara, mungkin di kota Roma atau Efesus, setelah Kabar Baik telah menyebar di seluruh Asia Kecil, dan orang-orang percaya di wilayah itu memerlukan ajaran yang lebih rinci mengenai implikasi-implikasi dari keyakinan baru mereka</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "49001001",
+          "start_ref_usfm": "EPH 1:1",
+          "end_ref": "49001001",
+          "end_ref_usfm": "EPH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27602,
+    "reference_id": 26453,
+    "title": "1 Raja-Raja",
+    "media_type": "Text",
+    "index_reference": "11000000",
+    "language": "ind",
+    "content": "<p>Kitab 1 Raja-Raja</p><h2>Tujuan</h2><p>Menjabarkan kemuliaan pemerintahan Salomo, pecahnya kerajaan itu, dan kemerosotan bangsa Israel</p><h2>Penulis</h2><p>Tidak diketahui</p><h2>Tahun penulisan</h2><p>Mencatat peristiwa-peristiwa yang terjadi sekitar tahun 973–853 SM</p><h2>Latar Belakang</h2><p>Dimulai pada masa puncak Kerajaan Israel (pemerintahan Salomo) dan berakhir dengan kerajaan yang terpecah dan titik nadir dalam Kerajaan Israel (pemerintahan Ahab)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11001001",
+          "start_ref_usfm": "1KI 1:1",
+          "end_ref": "11001001",
+          "end_ref_usfm": "1KI 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

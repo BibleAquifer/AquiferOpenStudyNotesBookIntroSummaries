@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27888,
+    "reference_id": 26475,
+    "title": "Mika",
+    "media_type": "Text",
+    "index_reference": "33000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Mika</p><h2>Kusudi</h2><p>Kutangaza hukumu dhidi ya Samaria na Yerusalemu, lakini pia kutoa ujumbe wenye nguvu wa tumaini kwa ajili ya mustakabali wa Israeli</p><h2>Mwandishi</h2><p>Mika</p><h2>Tarehe</h2><p>Mnamo takriban 735–686 KK</p><h2>Muktadha</h2><p>Ufalme wa kaskazini wa Israeli muda mfupi kabla ya kuharibiwa kwake na ufalme wa kusini wa Yuda wakati wa utawala wa Jothamu, Ahazi, na Hezekia</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "33001001",
+          "start_ref_usfm": "MIC 1:1",
+          "end_ref": "33001001",
+          "end_ref_usfm": "MIC 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

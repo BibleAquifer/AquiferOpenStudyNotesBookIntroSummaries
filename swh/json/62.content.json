@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27917,
+    "reference_id": 26504,
+    "title": "1 Yohana",
+    "media_type": "Text",
+    "index_reference": "62000000",
+    "language": "swh",
+    "content": "<p>Waraka wa kwanza wa Yohana</p><h2>Kusudi</h2><p>Kuthibitisha imani sahihi kuhusu Yesu Kristo, kuwahimiza waumini kupendana, na kutoa hakikisho juu ya uzima wa milele</p><h2>Mwandishi</h2><p>Inawezekana kiliandikwa na mtume Yohana</p><h2>Tarehe</h2><p>Mnamo takriban 85–90 BK</p><h2>Muktadha</h2><p>Kiliandikiwa jamii fulani ambayo ilikuwa imepatwa na mgawanyiko hivi karibuni kwa sababu ya kuibuka kwa kikundi cha waasi</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62001001",
+          "start_ref_usfm": "1JN 1:1",
+          "end_ref": "62001001",
+          "end_ref_usfm": "1JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

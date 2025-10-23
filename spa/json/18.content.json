@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 336752,
+    "reference_id": 26460,
+    "title": "Job",
+    "media_type": "Text",
+    "index_reference": "18000000",
+    "language": "spa",
+    "content": "<p>El Libro de Job</p><h2>Propósito</h2><p>Reflexionar sobre el problema del sufrimiento humano, principalmente cuestionando la supuesta conexión entre la bondad moral y la prosperidad</p><h2>Autor</h2><p>Desconocido</p><h2>Fecha</h2><p>Desconocido</p><h2>Contexto</h2><p>La época en que vivieron los patriarcas (Abraham, Isaac, Jacob y sus hijos), posiblemente en la tierra de Edom</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

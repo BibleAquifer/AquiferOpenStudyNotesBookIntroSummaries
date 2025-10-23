@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27899,
+    "reference_id": 26486,
+    "title": "Matendo",
+    "media_type": "Text",
+    "index_reference": "44000000",
+    "language": "swh",
+    "content": "<p>Kitabu cha Matendo</p><h2>Kusudi</h2><p>Kueleza kuenea kwa Habari Njema ya Yesu Kristo na kuzaliwa kwa kanisa kutoka Yerusalemu hadi katika himaya yote ya Kirumi</p><h2>Mwandishi</h2><p>Luka, tabibu na mwandamani wa mara kwa mara wa mtume Paulo</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa mwanzoni mwa miaka ya 60 BK na miaka ya kati ya 80 BKMatukio yaliyorekodiwa katika Matendo yanafikia tamati mwanzoni mwa miaka ya 60, lakini mtazamo unaoshikiliwa na wengi unapendekeza kwamba kitabu hiki kiliandikwa baadaye, ikichukuliwa kwamba Injili ya Luka ilitumia injili ya Marko, ambayo iliandikwa mwishoni mwa miaka ya 60, kama chanzo</p><h2>Muktadha</h2><p>Kiliandikwa wakati ambapo Habari njema ya Yesu ilikuwa imeenea kote katika ulimwengu wa Mediterania na ikawa dhahiri kwamba ukombozi wa Mungu ulikuwa ni kwa ajili ya Wayahudi na Mataifa.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44001001",
+          "start_ref_usfm": "ACT 1:1",
+          "end_ref": "44001001",
+          "end_ref_usfm": "ACT 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

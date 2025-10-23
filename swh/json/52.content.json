@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27907,
+    "reference_id": 26494,
+    "title": "1 Wathesalonike",
+    "media_type": "Text",
+    "index_reference": "52000000",
+    "language": "swh",
+    "content": "<p>Waraka wa Kwanza wa Paulo kwa Wathesalonike</p><h2>Kusudi</h2><p>Kutoa shukrani kwa ajili ya imani ya waumini wa Thesalonike na kuwapa maagizo zaidi kuhusu tabia ya Kikristo na kurudi kwa Bwana</p><h2>Mwandishi</h2><p>Paulo, Sila na Timotheo</p><h2>Tarehe</h2><p>Mnamo takriban 50 BK</p><h2>Muktadha</h2><p>Kiliandikwa wakati Paulo alikuwa Korintho, baada ya kupokea ripoti nzuri kutoka kwa Timotheo kuhusu kanisa la Thesalonike</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

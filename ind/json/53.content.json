@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27644,
+    "reference_id": 26495,
+    "title": "2 Tesalonika",
+    "media_type": "Text",
+    "index_reference": "53000000",
+    "language": "ind",
+    "content": "<p>Surat Paulus yang Kedua kepada Jemaat di Tesalonika</p><h2>Tujuan</h2><p>Menanamkan pengharapan di tengah-tengah penganiayaan dan membahas ajaran sesat dan kemalasan di dalam komunitas</p><h2>Penulis</h2><p>Paulus, beserta Silas dan Timotius</p><h2>Tahun penulisan</h2><p>Sekitar Tahun 51 M</p><h2>Latar Belakang</h2><p>Ditulis segera setelah surat 1 Tesalonika, setelah penganiayaan meningkat di kota Tesalonika dan ajaran sesat muncul</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "53001001",
+          "start_ref_usfm": "2TH 1:1",
+          "end_ref": "53001001",
+          "end_ref_usfm": "2TH 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

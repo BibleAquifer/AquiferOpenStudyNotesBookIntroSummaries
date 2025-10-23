@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 27919,
+    "reference_id": 26506,
+    "title": "3 Yohana",
+    "media_type": "Text",
+    "index_reference": "64000000",
+    "language": "swh",
+    "content": "<p>Waraka wa Tatu wa Yohana</p><h2>Kusudi</h2><p>Kumpongeza Gayo kwa ukarimu wake kwa wajumbe wa mtume Yohana na kumkaripia Diotrefe.</p><h2>Mwandishi</h2><p>Inawezekana kiliandikwa na mtume Yohana</p><h2>Tarehe</h2><p>Mnamo takriban 85–90 BK</p><h2>Muktadha</h2><p>Kiliandikiwa mtu fulani aliyeitwa Gayo, kwa ajili ya ukarimu wake na pia kwa ajili ya ukosefu wa ukarimu wa mtu fulani aliyeitwa Diotrefe.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "64001001",
+          "start_ref_usfm": "3JN 1:1",
+          "end_ref": "64001001",
+          "end_ref_usfm": "3JN 1:1"
+        }
+      ],
+      "resource": []
+    }
+  }
+]
