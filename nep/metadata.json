@@ -109,6 +109,13 @@
         "scope": {
           "GEN": []
         }
+      },
+      "pdf/01.content.pdf": {
+        "mimeType": "application/pdf",
+        "size": 201699,
+        "scope": {
+          "GEN": []
+        }
       }
     },
     "copyright": {
