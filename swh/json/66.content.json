@@ -2,11 +2,12 @@
   {
     "content_id": 27921,
     "reference_id": 26508,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Ufunuo",
     "media_type": "Text",
     "index_reference": "66000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Ufunuo</p><h2>Kusudi</h2><p>Kutoa changamoto kwa wasomaji kusalia waaminifu katikati ya mateso kwa kuwaelekeza kwenye ushindi wa Mungu dhidi ya uovu na tumaini lao la siku za baadaye</p><h2>Mwandishi</h2><p>Yohana (kuna uwezekano mkubwa ni Yohana mtume)</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa mnamo miaka ya 90BK, lakini inawezekana pia miaka ya 60 BK</p><h2>Muktadha</h2><p>Kiliandikiwa kikundi cha makanisa katika eneo la Asia ambayo yalikuwa yakipitia mateso mikononi mwa Himaya ya Rumi</p>",
     "associations": {
       "passage": [

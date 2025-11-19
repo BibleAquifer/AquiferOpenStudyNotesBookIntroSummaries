@@ -2,11 +2,12 @@
   {
     "content_id": 336737,
     "reference_id": 26445,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Levítico",
     "media_type": "Text",
     "index_reference": "03000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>El Libro de Levítico</p><h2>Propósito</h2><ol><li><p>Demostrar la santidad de Dios</p></li><li><p>Guiar al pueblo de Dios a llevar vidas santas</p></li></ol><h2>Autor</h2><p>Moisés, según la tradición</p><h2>Fecha</h2><p>Registra eventos que probablemente ocurrieron alrededor de 1446 a.C. o 1270 a.C.</p><h2>Contexto</h2><p>Los israelitas habían sido establecidos como el pueblo del pacto (un pueblo que tenía una relación especial con Dios) y estaban acampados al pie del Monte Sinaí</p>",
     "associations": {
       "passage": [

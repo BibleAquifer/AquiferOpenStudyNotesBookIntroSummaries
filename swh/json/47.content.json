@@ -2,11 +2,12 @@
   {
     "content_id": 27902,
     "reference_id": 26489,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "2 Wakorintho",
     "media_type": "Text",
     "index_reference": "47000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Waraka wa Paulo wa Pili kwa Wakorintho</p><h2>Kusudi</h2><p>Kutetea mamlaka ya kitume ya Paulo na kusitisha ushawishi wa walimu wa uongo</p><h2>Mwandishi</h2><p>Paulo</p><h2>Tarehe</h2><p>Mnamo takriban 56 BK</p><h2>Muktadha</h2><p>Kiliandikwa baada ya Paulo kupokea ripoti nzuri kutoka kwa Tito kuhusu toba ya kanisa la Korintho, ambayo ilitokea baada ya kupokea waraka wa awali (ambao sasa umepotea) ambao Paulo alikuwa amewatumia (tazama <a href=\"https://ref.ly/2Cor7:5-2Cor7:9\">2 Kor 7:5–9</a>)</p>",
     "associations": {
       "passage": [

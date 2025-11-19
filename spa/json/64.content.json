@@ -2,11 +2,12 @@
   {
     "content_id": 336798,
     "reference_id": 26506,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "3 Juan",
     "media_type": "Text",
     "index_reference": "64000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>La Tercera Carta de Juan</p><h2>Propósito</h2><ol><li><p>Elogiar a Gayo por su hospitalidad hacia los emisarios del apóstol</p></li><li><p>Reprender a Diótrefes</p></li></ol><h2>Autor</h2><p>Probablemente el apóstol Juan</p><h2>Fecha</h2><p>Alrededor del año 85–90 d.C.</p><h2>Contexto</h2><p>Escrita a un individuo llamado Gayo, en respuesta a su hospitalidad y a la falta de la misma por parte de un hombre llamado Diótrefes</p>",
     "associations": {
       "passage": [

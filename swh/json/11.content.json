@@ -2,11 +2,12 @@
   {
     "content_id": 27866,
     "reference_id": 26453,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "1 Wafalme",
     "media_type": "Text",
     "index_reference": "11000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Wafalme wa Kwanza</p><h2>Kusudi</h2><p>Kutoa muhtasari kuhusu utawala wa Sulemani, mgawanyiko wa ufalme, na kudorora kwa Israeli</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Kinarekodi matukio ambayo yalitokea takriban mnamo 973–853 KK</p><h2>Muktadha</h2><p>Kinaanza katika kilele cha ufalme wa Israeli (utawala wa Sulemani) na kuisha na ufalme uliogawanyika na hali duni katika ufalme wa Israeli (utawala wa Ahabu)</p>",
     "associations": {
       "passage": [

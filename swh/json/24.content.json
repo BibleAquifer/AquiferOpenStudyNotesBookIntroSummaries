@@ -2,11 +2,12 @@
   {
     "content_id": 27879,
     "reference_id": 26466,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Yeremia",
     "media_type": "Text",
     "index_reference": "24000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Yeremia</p><h2>Kusudi</h2><p>Kuonya Yuda kuhusu maangamizi yanayokuja, kutoa muhtasari kuhusu sababu za hukumu ya Mungu, na kuhamasisha watu kujitolea upya kwa Bwana</p><h2>Mwandishi</h2><p>Maudhui yake yalitoka kwa Yeremia; kuna uwezekano yaliandikwa na Baruku</p><h2>Tarehe</h2><p>Mnamo takriban 627–580 KK</p><h2>Muktadha</h2><p>Miaka ya mwisho ya ufalme wa Yuda, kuvamiwa na kuharibiwa kwa Yerusalemu na Wababeli, na miaka ya kwanza ya uhamisho wa watu wa ufalme wa Yuda.</p>",
     "associations": {
       "passage": [

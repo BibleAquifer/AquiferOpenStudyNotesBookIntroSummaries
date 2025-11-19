@@ -2,11 +2,12 @@
   {
     "content_id": 27920,
     "reference_id": 26507,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Yuda",
     "media_type": "Text",
     "index_reference": "65000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Waraka wa Yuda</p><h2>Kusudi</h2><p>Kuwahimiza wasomaji kutetea imani yao wanapokabiliwa na mafundisho ya uongo</p><h2>Mwandishi</h2><p>Yuda, kaka ya Yesu</p><h2>Tarehe</h2><p>Haijulikani, inawezekana kiliandikwa wakati sawa na 2 Petro (mwanzoni mwa miaka ya 60 BK)</p><h2>Muktadha</h2><p>Kiliandikiwa kikundi cha makanisa ambayo yalikuwa yamepenyezwa na walimu wa uongo ambao walichochea watu kuishi maisha yasiyozingatia maadili.</p>",
     "associations": {
       "passage": [

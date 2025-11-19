@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Study Notes - Book Intro Summaries (Tyndale)",
     "aquifer_name": "अध्ययन नोट्स - पुस्तक परिचय सारांश (टिंडेल)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Book Intro Summaries (Tyndale)",
     "short_name": "TSNI",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "TyndaleStudyNotesBookIntroSummaries",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "hin",
     "localizations": [
       "eng",
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:14:24.338118"
+      "dateCreated": "2025-11-17T09:32:06.292910"
     },
     "idAuthorities": {
       "aquifer": {
@@ -66,7 +66,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntroSummaries": {
-            "timestamp": "2025-11-06T13:14:24.338118"
+            "timestamp": "2025-11-17T09:32:06.292910"
           }
         }
       },
@@ -98,1388 +98,1190 @@
     "ingredients": {
       "json/01.content.json": {
         "mimeType": "text/json",
-        "size": 1518,
+        "size": 1547,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "उत्पत्ति"
+          ]
         }
       },
       "json/02.content.json": {
         "mimeType": "text/json",
-        "size": 1516,
+        "size": 1545,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "निर्गमन"
+          ]
         }
       },
       "json/03.content.json": {
         "mimeType": "text/json",
-        "size": 1469,
+        "size": 1498,
         "scope": {
-          "LEV": []
+          "LEV": [
+            "लैव्यव्यवस्था"
+          ]
         }
       },
       "json/04.content.json": {
         "mimeType": "text/json",
-        "size": 1714,
+        "size": 1743,
         "scope": {
-          "NUM": []
+          "NUM": [
+            "गिनती"
+          ]
         }
       },
       "json/05.content.json": {
         "mimeType": "text/json",
-        "size": 1352,
+        "size": 1381,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "व्यवस्थाविवरण"
+          ]
         }
       },
       "json/06.content.json": {
         "mimeType": "text/json",
-        "size": 1269,
+        "size": 1298,
         "scope": {
-          "JOS": []
+          "JOS": [
+            "यहोशू"
+          ]
         }
       },
       "json/07.content.json": {
         "mimeType": "text/json",
-        "size": 1416,
+        "size": 1445,
         "scope": {
-          "JDG": []
+          "JDG": [
+            "न्यायियों"
+          ]
         }
       },
       "json/08.content.json": {
         "mimeType": "text/json",
-        "size": 1159,
+        "size": 1188,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "रूत"
+          ]
         }
       },
       "json/09.content.json": {
         "mimeType": "text/json",
-        "size": 1275,
+        "size": 1304,
         "scope": {
-          "1SA": []
+          "1SA": [
+            "1 शमूएल"
+          ]
         }
       },
       "json/10.content.json": {
         "mimeType": "text/json",
-        "size": 1387,
+        "size": 1416,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "2 शमूएल"
+          ]
         }
       },
       "json/11.content.json": {
         "mimeType": "text/json",
-        "size": 1468,
+        "size": 1497,
         "scope": {
-          "1KI": []
+          "1KI": [
+            "1 राजाओं"
+          ]
         }
       },
       "json/12.content.json": {
         "mimeType": "text/json",
-        "size": 1334,
+        "size": 1363,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "2 राजाओं"
+          ]
         }
       },
       "json/13.content.json": {
         "mimeType": "text/json",
-        "size": 1739,
+        "size": 1768,
         "scope": {
-          "1CH": []
+          "1CH": [
+            "1 इतिहास"
+          ]
         }
       },
       "json/14.content.json": {
         "mimeType": "text/json",
-        "size": 1553,
+        "size": 1582,
         "scope": {
-          "2CH": []
+          "2CH": [
+            "2 इतिहास"
+          ]
         }
       },
       "json/15.content.json": {
         "mimeType": "text/json",
-        "size": 1565,
+        "size": 1594,
         "scope": {
-          "EZR": []
+          "EZR": [
+            "एज्रा"
+          ]
         }
       },
       "json/16.content.json": {
         "mimeType": "text/json",
-        "size": 1321,
+        "size": 1350,
         "scope": {
-          "NEH": []
+          "NEH": [
+            "नहेम्याह"
+          ]
         }
       },
       "json/17.content.json": {
         "mimeType": "text/json",
-        "size": 1310,
+        "size": 1339,
         "scope": {
-          "EST": []
+          "EST": [
+            "एस्तेर"
+          ]
         }
       },
       "json/18.content.json": {
         "mimeType": "text/json",
-        "size": 1185,
+        "size": 1214,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "अय्यूब"
+          ]
         }
       },
       "json/19.content.json": {
         "mimeType": "text/json",
-        "size": 1882,
+        "size": 1911,
         "scope": {
-          "PSA": []
+          "PSA": [
+            "भजन संहिता"
+          ]
         }
       },
       "json/20.content.json": {
         "mimeType": "text/json",
-        "size": 1610,
+        "size": 1639,
         "scope": {
-          "PRO": []
+          "PRO": [
+            "नीतिवचन"
+          ]
         }
       },
       "json/21.content.json": {
         "mimeType": "text/json",
-        "size": 1031,
+        "size": 1060,
         "scope": {
-          "ECC": []
+          "ECC": [
+            "सभोपदेशक"
+          ]
         }
       },
       "json/22.content.json": {
         "mimeType": "text/json",
-        "size": 1407,
+        "size": 1436,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "श्रेष्ठगीत"
+          ]
         }
       },
       "json/23.content.json": {
         "mimeType": "text/json",
-        "size": 1225,
+        "size": 1254,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "यशायाह"
+          ]
         }
       },
       "json/24.content.json": {
         "mimeType": "text/json",
-        "size": 1558,
+        "size": 1587,
         "scope": {
-          "JER": []
+          "JER": [
+            "यिर्मयाह"
+          ]
         }
       },
       "json/25.content.json": {
         "mimeType": "text/json",
-        "size": 1217,
+        "size": 1246,
         "scope": {
-          "LAM": []
+          "LAM": [
+            "विलापगीत"
+          ]
         }
       },
       "json/26.content.json": {
         "mimeType": "text/json",
-        "size": 1141,
+        "size": 1170,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "यहेजकेल"
+          ]
         }
       },
       "json/27.content.json": {
         "mimeType": "text/json",
-        "size": 1315,
+        "size": 1344,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "दानिय्येल"
+          ]
         }
       },
       "json/28.content.json": {
         "mimeType": "text/json",
-        "size": 1258,
+        "size": 1287,
         "scope": {
-          "HOS": []
+          "HOS": [
+            "होशे"
+          ]
         }
       },
       "json/29.content.json": {
         "mimeType": "text/json",
-        "size": 1327,
+        "size": 1356,
         "scope": {
-          "JOL": []
+          "JOL": [
+            "योएल"
+          ]
         }
       },
       "json/30.content.json": {
         "mimeType": "text/json",
-        "size": 1074,
+        "size": 1103,
         "scope": {
-          "AMO": []
+          "AMO": [
+            "आमोस"
+          ]
         }
       },
       "json/31.content.json": {
         "mimeType": "text/json",
-        "size": 1172,
+        "size": 1201,
         "scope": {
-          "OBA": []
+          "OBA": [
+            "ओबद्याह"
+          ]
         }
       },
       "json/32.content.json": {
         "mimeType": "text/json",
-        "size": 1108,
+        "size": 1137,
         "scope": {
-          "JON": []
+          "JON": [
+            "योना"
+          ]
         }
       },
       "json/33.content.json": {
         "mimeType": "text/json",
-        "size": 1346,
+        "size": 1375,
         "scope": {
-          "MIC": []
+          "MIC": [
+            "मीका"
+          ]
         }
       },
       "json/34.content.json": {
         "mimeType": "text/json",
-        "size": 1410,
+        "size": 1439,
         "scope": {
-          "NAM": []
+          "NAM": [
+            "नहूम"
+          ]
         }
       },
       "json/35.content.json": {
         "mimeType": "text/json",
-        "size": 1263,
+        "size": 1292,
         "scope": {
-          "HAB": []
+          "HAB": [
+            "हबक्कूक"
+          ]
         }
       },
       "json/36.content.json": {
         "mimeType": "text/json",
-        "size": 1183,
+        "size": 1212,
         "scope": {
-          "ZEP": []
+          "ZEP": [
+            "सपन्याह"
+          ]
         }
       },
       "json/37.content.json": {
         "mimeType": "text/json",
-        "size": 1300,
+        "size": 1329,
         "scope": {
-          "HAG": []
+          "HAG": [
+            "हाग्गै"
+          ]
         }
       },
       "json/38.content.json": {
         "mimeType": "text/json",
-        "size": 1139,
+        "size": 1168,
         "scope": {
-          "ZEC": []
+          "ZEC": [
+            "जकर्याह"
+          ]
         }
       },
       "json/39.content.json": {
         "mimeType": "text/json",
-        "size": 1191,
+        "size": 1220,
         "scope": {
-          "MAL": []
+          "MAL": [
+            "मलाकी"
+          ]
         }
       },
       "json/40.content.json": {
         "mimeType": "text/json",
-        "size": 1553,
+        "size": 1582,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "मत्ती"
+          ]
         }
       },
       "json/41.content.json": {
         "mimeType": "text/json",
-        "size": 1683,
+        "size": 1712,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "मरकुस"
+          ]
         }
       },
       "json/42.content.json": {
         "mimeType": "text/json",
-        "size": 1926,
+        "size": 1955,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "लूका"
+          ]
         }
       },
       "json/43.content.json": {
         "mimeType": "text/json",
-        "size": 1558,
+        "size": 1587,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "यूहन्ना"
+          ]
         }
       },
       "json/44.content.json": {
         "mimeType": "text/json",
-        "size": 2521,
+        "size": 2550,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "प्रेरितों के काम"
+          ]
         }
       },
       "json/45.content.json": {
         "mimeType": "text/json",
-        "size": 1780,
+        "size": 1809,
         "scope": {
-          "ROM": []
+          "ROM": [
+            "रोमियों"
+          ]
         }
       },
       "json/46.content.json": {
         "mimeType": "text/json",
-        "size": 1815,
+        "size": 1844,
         "scope": {
-          "1CO": []
+          "1CO": [
+            "1 कुरिन्थियों"
+          ]
         }
       },
       "json/47.content.json": {
         "mimeType": "text/json",
-        "size": 1554,
+        "size": 1583,
         "scope": {
-          "2CO": []
+          "2CO": [
+            "2 कुरिन्थियों"
+          ]
         }
       },
       "json/48.content.json": {
         "mimeType": "text/json",
-        "size": 1782,
+        "size": 1811,
         "scope": {
-          "GAL": []
+          "GAL": [
+            "गलातियों"
+          ]
         }
       },
       "json/49.content.json": {
         "mimeType": "text/json",
-        "size": 1963,
+        "size": 1992,
         "scope": {
-          "EPH": []
+          "EPH": [
+            "इफिसियों"
+          ]
         }
       },
       "json/50.content.json": {
         "mimeType": "text/json",
-        "size": 1652,
+        "size": 1681,
         "scope": {
-          "PHP": []
+          "PHP": [
+            "फिलिप्पियों"
+          ]
         }
       },
       "json/51.content.json": {
         "mimeType": "text/json",
-        "size": 1679,
+        "size": 1708,
         "scope": {
-          "COL": []
+          "COL": [
+            "कुलुस्सियों"
+          ]
         }
       },
       "json/52.content.json": {
         "mimeType": "text/json",
-        "size": 1605,
+        "size": 1634,
         "scope": {
-          "1TH": []
+          "1TH": [
+            "1 थिस्सलुनीकियों"
+          ]
         }
       },
       "json/53.content.json": {
         "mimeType": "text/json",
-        "size": 1336,
+        "size": 1365,
         "scope": {
-          "2TH": []
+          "2TH": [
+            "2 थिस्सलुनीकियों"
+          ]
         }
       },
       "json/54.content.json": {
         "mimeType": "text/json",
-        "size": 1419,
+        "size": 1448,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "1 तीमुथियुस"
+          ]
         }
       },
       "json/55.content.json": {
         "mimeType": "text/json",
-        "size": 1543,
+        "size": 1572,
         "scope": {
-          "2TI": []
+          "2TI": [
+            "2 तीमुथियुस"
+          ]
         }
       },
       "json/56.content.json": {
         "mimeType": "text/json",
-        "size": 1428,
+        "size": 1457,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "तीतुस"
+          ]
         }
       },
       "json/57.content.json": {
         "mimeType": "text/json",
-        "size": 1526,
+        "size": 1555,
         "scope": {
-          "PHM": []
+          "PHM": [
+            "फिलेमोन"
+          ]
         }
       },
       "json/58.content.json": {
         "mimeType": "text/json",
-        "size": 1659,
+        "size": 1688,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "इब्रानियों"
+          ]
         }
       },
       "json/59.content.json": {
         "mimeType": "text/json",
-        "size": 1412,
+        "size": 1441,
         "scope": {
-          "JAS": []
+          "JAS": [
+            "याकूब"
+          ]
         }
       },
       "json/60.content.json": {
         "mimeType": "text/json",
-        "size": 1280,
+        "size": 1309,
         "scope": {
-          "1PE": []
+          "1PE": [
+            "1 पतरस"
+          ]
         }
       },
       "json/61.content.json": {
         "mimeType": "text/json",
-        "size": 1284,
+        "size": 1313,
         "scope": {
-          "2PE": []
+          "2PE": [
+            "2 पतरस"
+          ]
         }
       },
       "json/62.content.json": {
         "mimeType": "text/json",
-        "size": 1404,
+        "size": 1433,
         "scope": {
-          "1JN": []
+          "1JN": [
+            "1 यूहन्ना"
+          ]
         }
       },
       "json/63.content.json": {
         "mimeType": "text/json",
-        "size": 1529,
+        "size": 1558,
         "scope": {
-          "2JN": []
+          "2JN": [
+            "2 यूहन्ना"
+          ]
         }
       },
       "json/64.content.json": {
         "mimeType": "text/json",
-        "size": 1360,
+        "size": 1389,
         "scope": {
-          "3JN": []
+          "3JN": [
+            "3 यूहन्ना"
+          ]
         }
       },
       "json/65.content.json": {
         "mimeType": "text/json",
-        "size": 1364,
+        "size": 1393,
         "scope": {
-          "JUD": []
+          "JUD": [
+            "यहूदा"
+          ]
         }
       },
       "json/66.content.json": {
         "mimeType": "text/json",
-        "size": 1558,
-        "scope": {
-          "REV": []
-        }
-      },
-      "md/01.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1571,
-        "scope": {
-          "GEN": []
-        }
-      },
-      "md/02.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1569,
-        "scope": {
-          "EXO": []
-        }
-      },
-      "md/03.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1522,
-        "scope": {
-          "LEV": []
-        }
-      },
-      "md/04.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1767,
-        "scope": {
-          "NUM": []
-        }
-      },
-      "md/05.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1405,
-        "scope": {
-          "DEU": []
-        }
-      },
-      "md/06.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1322,
-        "scope": {
-          "JOS": []
-        }
-      },
-      "md/07.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1470,
-        "scope": {
-          "JDG": []
-        }
-      },
-      "md/08.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1212,
-        "scope": {
-          "RUT": []
-        }
-      },
-      "md/09.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1328,
-        "scope": {
-          "1SA": []
-        }
-      },
-      "md/10.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1440,
-        "scope": {
-          "2SA": []
-        }
-      },
-      "md/11.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1521,
-        "scope": {
-          "1KI": []
-        }
-      },
-      "md/12.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1387,
-        "scope": {
-          "2KI": []
-        }
-      },
-      "md/13.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1792,
-        "scope": {
-          "1CH": []
-        }
-      },
-      "md/14.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1606,
-        "scope": {
-          "2CH": []
-        }
-      },
-      "md/15.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1618,
-        "scope": {
-          "EZR": []
-        }
-      },
-      "md/16.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1374,
-        "scope": {
-          "NEH": []
-        }
-      },
-      "md/17.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1363,
-        "scope": {
-          "EST": []
-        }
-      },
-      "md/18.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1239,
-        "scope": {
-          "JOB": []
-        }
-      },
-      "md/19.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1935,
-        "scope": {
-          "PSA": []
-        }
-      },
-      "md/20.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1658,
-        "scope": {
-          "PRO": []
-        }
-      },
-      "md/21.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1084,
-        "scope": {
-          "ECC": []
-        }
-      },
-      "md/22.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1460,
-        "scope": {
-          "SNG": []
-        }
-      },
-      "md/23.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1278,
-        "scope": {
-          "ISA": []
-        }
-      },
-      "md/24.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1611,
-        "scope": {
-          "JER": []
-        }
-      },
-      "md/25.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1270,
-        "scope": {
-          "LAM": []
-        }
-      },
-      "md/26.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1194,
-        "scope": {
-          "EZK": []
-        }
-      },
-      "md/27.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1368,
-        "scope": {
-          "DAN": []
-        }
-      },
-      "md/28.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1311,
-        "scope": {
-          "HOS": []
-        }
-      },
-      "md/29.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1380,
-        "scope": {
-          "JOL": []
-        }
-      },
-      "md/30.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1127,
-        "scope": {
-          "AMO": []
-        }
-      },
-      "md/31.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1225,
-        "scope": {
-          "OBA": []
-        }
-      },
-      "md/32.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1161,
-        "scope": {
-          "JON": []
-        }
-      },
-      "md/33.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1399,
-        "scope": {
-          "MIC": []
-        }
-      },
-      "md/34.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1463,
-        "scope": {
-          "NAM": []
-        }
-      },
-      "md/35.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1316,
-        "scope": {
-          "HAB": []
-        }
-      },
-      "md/36.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1221,
-        "scope": {
-          "ZEP": []
-        }
-      },
-      "md/37.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1353,
-        "scope": {
-          "HAG": []
-        }
-      },
-      "md/38.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1192,
-        "scope": {
-          "ZEC": []
-        }
-      },
-      "md/39.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1244,
-        "scope": {
-          "MAL": []
-        }
-      },
-      "md/40.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1606,
-        "scope": {
-          "MAT": []
-        }
-      },
-      "md/41.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1736,
-        "scope": {
-          "MRK": []
-        }
-      },
-      "md/42.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1980,
-        "scope": {
-          "LUK": []
-        }
-      },
-      "md/43.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1611,
-        "scope": {
-          "JHN": []
-        }
-      },
-      "md/44.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2575,
-        "scope": {
-          "ACT": []
-        }
-      },
-      "md/45.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1835,
-        "scope": {
-          "ROM": []
-        }
-      },
-      "md/46.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1790,
-        "scope": {
-          "1CO": []
-        }
-      },
-      "md/47.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1594,
-        "scope": {
-          "2CO": []
-        }
-      },
-      "md/48.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1836,
-        "scope": {
-          "GAL": []
-        }
-      },
-      "md/49.content.md": {
-        "mimeType": "text/markdown",
-        "size": 2016,
-        "scope": {
-          "EPH": []
-        }
-      },
-      "md/50.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1705,
-        "scope": {
-          "PHP": []
-        }
-      },
-      "md/51.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1732,
-        "scope": {
-          "COL": []
-        }
-      },
-      "md/52.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1658,
-        "scope": {
-          "1TH": []
-        }
-      },
-      "md/53.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1389,
-        "scope": {
-          "2TH": []
-        }
-      },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1472,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "md/55.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1596,
-        "scope": {
-          "2TI": []
-        }
-      },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1481,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "md/57.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1579,
-        "scope": {
-          "PHM": []
-        }
-      },
-      "md/58.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1712,
-        "scope": {
-          "HEB": []
-        }
-      },
-      "md/59.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1466,
-        "scope": {
-          "JAS": []
-        }
-      },
-      "md/60.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1333,
-        "scope": {
-          "1PE": []
-        }
-      },
-      "md/61.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1337,
-        "scope": {
-          "2PE": []
-        }
-      },
-      "md/62.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1457,
-        "scope": {
-          "1JN": []
-        }
-      },
-      "md/63.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1582,
-        "scope": {
-          "2JN": []
-        }
-      },
-      "md/64.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1414,
-        "scope": {
-          "3JN": []
-        }
-      },
-      "md/65.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1417,
-        "scope": {
-          "JUD": []
-        }
-      },
-      "md/66.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1611,
-        "scope": {
-          "REV": []
+        "size": 1587,
+        "scope": {
+          "REV": [
+            "प्रकाशितवाक्य"
+          ]
         }
       },
       "pdf/01.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 140961,
+        "size": 173120,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "उत्पत्ति"
+          ]
         }
       },
       "pdf/02.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 148669,
+        "size": 183015,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "निर्गमन"
+          ]
         }
       },
       "pdf/03.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 143110,
+        "size": 176530,
         "scope": {
-          "LEV": []
+          "LEV": [
+            "लैव्यव्यवस्था"
+          ]
         }
       },
       "pdf/04.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 147833,
+        "size": 179545,
         "scope": {
-          "NUM": []
+          "NUM": [
+            "गिनती"
+          ]
         }
       },
       "pdf/05.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 143062,
+        "size": 176853,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "व्यवस्थाविवरण"
+          ]
         }
       },
       "pdf/06.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 142597,
+        "size": 175593,
         "scope": {
-          "JOS": []
+          "JOS": [
+            "यहोशू"
+          ]
         }
       },
       "pdf/07.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 150271,
+        "size": 181787,
         "scope": {
-          "JDG": []
+          "JDG": [
+            "न्यायियों"
+          ]
         }
       },
       "pdf/08.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 143229,
+        "size": 174629,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "रूत"
+          ]
         }
       },
       "pdf/09.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 157257,
+        "size": 176319,
         "scope": {
-          "1SA": []
+          "1SA": [
+            "1 शमूएल"
+          ]
         }
       },
       "pdf/10.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 159040,
+        "size": 178278,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "2 शमूएल"
+          ]
         }
       },
       "pdf/11.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 158674,
+        "size": 177535,
         "scope": {
-          "1KI": []
+          "1KI": [
+            "1 राजाओं"
+          ]
         }
       },
       "pdf/12.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 158246,
+        "size": 177030,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "2 राजाओं"
+          ]
         }
       },
       "pdf/13.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 160149,
+        "size": 179840,
         "scope": {
-          "1CH": []
+          "1CH": [
+            "1 इतिहास"
+          ]
         }
       },
       "pdf/14.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 184742,
+        "size": 204324,
         "scope": {
-          "2CH": []
+          "2CH": [
+            "2 इतिहास"
+          ]
         }
       },
       "pdf/15.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 141629,
+        "size": 173658,
         "scope": {
-          "EZR": []
+          "EZR": [
+            "एज्रा"
+          ]
         }
       },
       "pdf/16.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 141364,
+        "size": 175013,
         "scope": {
-          "NEH": []
+          "NEH": [
+            "नहेम्याह"
+          ]
         }
       },
       "pdf/17.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 141833,
+        "size": 173695,
         "scope": {
-          "EST": []
+          "EST": [
+            "एस्तेर"
+          ]
         }
       },
       "pdf/18.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 144947,
+        "size": 177580,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "अय्यूब"
+          ]
         }
       },
       "pdf/19.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 164173,
+        "size": 194328,
         "scope": {
-          "PSA": []
+          "PSA": [
+            "भजन संहिता"
+          ]
         }
       },
       "pdf/20.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 144418,
+        "size": 177241,
         "scope": {
-          "PRO": []
+          "PRO": [
+            "नीतिवचन"
+          ]
         }
       },
       "pdf/21.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 143136,
+        "size": 175708,
         "scope": {
-          "ECC": []
+          "ECC": [
+            "सभोपदेशक"
+          ]
         }
       },
       "pdf/22.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 162097,
+        "size": 195584,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "श्रेष्ठगीत"
+          ]
         }
       },
       "pdf/23.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 142544,
+        "size": 174927,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "यशायाह"
+          ]
         }
       },
       "pdf/24.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 143604,
+        "size": 177659,
         "scope": {
-          "JER": []
+          "JER": [
+            "यिर्मयाह"
+          ]
         }
       },
       "pdf/25.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 143952,
+        "size": 176030,
         "scope": {
-          "LAM": []
+          "LAM": [
+            "विलापगीत"
+          ]
         }
       },
       "pdf/26.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 141536,
+        "size": 175391,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "यहेजकेल"
+          ]
         }
       },
       "pdf/27.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 144405,
+        "size": 176790,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "दानिय्येल"
+          ]
         }
       },
       "pdf/28.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 142192,
+        "size": 175261,
         "scope": {
-          "HOS": []
+          "HOS": [
+            "होशे"
+          ]
         }
       },
       "pdf/29.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 140911,
+        "size": 171470,
         "scope": {
-          "JOL": []
+          "JOL": [
+            "योएल"
+          ]
         }
       },
       "pdf/30.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 141527,
+        "size": 172728,
         "scope": {
-          "AMO": []
+          "AMO": [
+            "आमोस"
+          ]
         }
       },
       "pdf/31.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 146671,
+        "size": 181604,
         "scope": {
-          "OBA": []
+          "OBA": [
+            "ओबद्याह"
+          ]
         }
       },
       "pdf/32.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 142796,
+        "size": 174168,
         "scope": {
-          "JON": []
+          "JON": [
+            "योना"
+          ]
         }
       },
       "pdf/33.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 151066,
+        "size": 182129,
         "scope": {
-          "MIC": []
+          "MIC": [
+            "मीका"
+          ]
         }
       },
       "pdf/34.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 141136,
+        "size": 173280,
         "scope": {
-          "NAM": []
+          "NAM": [
+            "नहूम"
+          ]
         }
       },
       "pdf/35.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 147106,
+        "size": 181670,
         "scope": {
-          "HAB": []
+          "HAB": [
+            "हबक्कूक"
+          ]
         }
       },
       "pdf/36.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 141023,
+        "size": 173800,
         "scope": {
-          "ZEP": []
+          "ZEP": [
+            "सपन्याह"
+          ]
         }
       },
       "pdf/37.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 140294,
+        "size": 174852,
         "scope": {
-          "HAG": []
+          "HAG": [
+            "हाग्गै"
+          ]
         }
       },
       "pdf/38.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 148266,
+        "size": 182360,
         "scope": {
-          "ZEC": []
+          "ZEC": [
+            "जकर्याह"
+          ]
         }
       },
       "pdf/39.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 139486,
+        "size": 170114,
         "scope": {
-          "MAL": []
+          "MAL": [
+            "मलाकी"
+          ]
         }
       },
       "pdf/40.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 161863,
+        "size": 194106,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "मत्ती"
+          ]
         }
       },
       "pdf/41.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 159021,
+        "size": 190245,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "मरकुस"
+          ]
         }
       },
       "pdf/42.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 164276,
+        "size": 196248,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "लूका"
+          ]
         }
       },
       "pdf/43.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 163799,
+        "size": 197198,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "यूहन्ना"
+          ]
         }
       },
       "pdf/44.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 191863,
+        "size": 219903,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "प्रेरितों के काम"
+          ]
         }
       },
       "pdf/45.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 162821,
+        "size": 193818,
         "scope": {
-          "ROM": []
+          "ROM": [
+            "रोमियों"
+          ]
         }
       },
       "pdf/46.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 185834,
+        "size": 203781,
         "scope": {
-          "1CO": []
+          "1CO": [
+            "1 कुरिन्थियों"
+          ]
         }
       },
       "pdf/47.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 186306,
+        "size": 204230,
         "scope": {
-          "2CO": []
+          "2CO": [
+            "2 कुरिन्थियों"
+          ]
         }
       },
       "pdf/48.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 163530,
+        "size": 195188,
         "scope": {
-          "GAL": []
+          "GAL": [
+            "गलातियों"
+          ]
         }
       },
       "pdf/49.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 166573,
+        "size": 198949,
         "scope": {
-          "EPH": []
+          "EPH": [
+            "इफिसियों"
+          ]
         }
       },
       "pdf/50.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 164930,
+        "size": 195623,
         "scope": {
-          "PHP": []
+          "PHP": [
+            "फिलिप्पियों"
+          ]
         }
       },
       "pdf/51.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 168684,
+        "size": 198609,
         "scope": {
-          "COL": []
+          "COL": [
+            "कुलुस्सियों"
+          ]
         }
       },
       "pdf/52.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 182266,
+        "size": 199282,
         "scope": {
-          "1TH": []
+          "1TH": [
+            "1 थिस्सलुनीकियों"
+          ]
         }
       },
       "pdf/53.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 183075,
+        "size": 199978,
         "scope": {
-          "2TH": []
+          "2TH": [
+            "2 थिस्सलुनीकियों"
+          ]
         }
       },
       "pdf/54.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 182745,
+        "size": 201270,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "1 तीमुथियुस"
+          ]
         }
       },
       "pdf/55.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178852,
+        "size": 197509,
         "scope": {
-          "2TI": []
+          "2TI": [
+            "2 तीमुथियुस"
+          ]
         }
       },
       "pdf/56.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 161978,
+        "size": 192202,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "तीतुस"
+          ]
         }
       },
       "pdf/57.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 163492,
+        "size": 195324,
         "scope": {
-          "PHM": []
+          "PHM": [
+            "फिलेमोन"
+          ]
         }
       },
       "pdf/58.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 167145,
+        "size": 199149,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "इब्रानियों"
+          ]
         }
       },
       "pdf/59.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 161234,
+        "size": 194171,
         "scope": {
-          "JAS": []
+          "JAS": [
+            "याकूब"
+          ]
         }
       },
       "pdf/60.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 172340,
+        "size": 190770,
         "scope": {
-          "1PE": []
+          "1PE": [
+            "1 पतरस"
+          ]
         }
       },
       "pdf/61.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178050,
+        "size": 196446,
         "scope": {
-          "2PE": []
+          "2PE": [
+            "2 पतरस"
+          ]
         }
       },
       "pdf/62.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178293,
+        "size": 198043,
         "scope": {
-          "1JN": []
+          "1JN": [
+            "1 यूहन्ना"
+          ]
         }
       },
       "pdf/63.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178047,
+        "size": 197951,
         "scope": {
-          "2JN": []
+          "2JN": [
+            "2 यूहन्ना"
+          ]
         }
       },
       "pdf/64.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 171962,
+        "size": 191689,
         "scope": {
-          "3JN": []
+          "3JN": [
+            "3 यूहन्ना"
+          ]
         }
       },
       "pdf/65.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 157925,
+        "size": 191249,
         "scope": {
-          "JUD": []
+          "JUD": [
+            "यहूदा"
+          ]
         }
       },
       "pdf/66.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 164544,
+        "size": 196538,
         "scope": {
-          "REV": []
+          "REV": [
+            "प्रकाशितवाक्य"
+          ]
         }
       }
     },

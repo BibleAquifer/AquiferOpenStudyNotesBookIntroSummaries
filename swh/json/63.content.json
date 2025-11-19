@@ -2,11 +2,12 @@
   {
     "content_id": 27918,
     "reference_id": 26505,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "2 Yohana",
     "media_type": "Text",
     "index_reference": "63000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Waraka wa Pili wa Yohana</p><h2>Kusudi</h2><p>Kutoa muhtasari wa itikio mwafaka kwa walimu wa uongo na kuwahimiza waumini kupendana</p><h2>Mwandishi</h2><p>Inawezekana kiliandikwa na mtume Yohana</p><h2>Tarehe</h2><p>Mnamo takriban 85–90 BK</p><h2>Muktadha</h2><p>Kiliandikiwa jamii ya waumini, yamkini walioshi katika Asia Ndogo, ambao walikuwa tayari wamekutana na walimu wa uongo au walikuwa wanaelekea kukutana nao hivi karibuni</p>",
     "associations": {
       "passage": [

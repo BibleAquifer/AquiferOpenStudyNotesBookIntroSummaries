@@ -2,11 +2,12 @@
   {
     "content_id": 27900,
     "reference_id": 26487,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Warumi",
     "media_type": "Text",
     "index_reference": "45000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Waraka wa Paulo kwa Warumi</p><h2>Kusudi</h2><p>Kutoa muhtasari wa Habari njema na kushughulikia migawanyiko ya kitheolojia na kijamii iliyokuwa imeibuka katika kanisa lililokuwa na Wayahudi na Mataifa.</p><h2>Mwandishi</h2><p>Paulo</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa mnamo takriban 57 BK, karibu na mwisho wa safari yake ya tatu ya kimishonari</p><h2>Muktadha</h2><p>Yamkini kiliandikwa katika mji wa Korintho, karibu na mwisho wa shughuli za kimishonari za Paulo, wakati alipokuwa anafanya mipango ya kutembelea kanisa la Rumi akiwa njiani kuelekea Uhispania, baada ya kupelekea kanisa la Yerusalemu zawadi</p>",
     "associations": {
       "passage": [

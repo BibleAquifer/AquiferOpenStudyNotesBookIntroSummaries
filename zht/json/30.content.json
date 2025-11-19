@@ -2,11 +2,12 @@
   {
     "content_id": 647090,
     "reference_id": 26472,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "阿摩司",
     "media_type": "Text",
     "index_reference": "30000000",
     "language": "zht",
+    "review_level": "None",
     "content": "<p>阿摩司書</p><h2>寫作目的</h2><p>對抗北方王國的叛教和對邊緣化人民的壓迫</p><h2>作者</h2><p>阿摩司</p><h2>日期</h2><p>約公元755年</p><h2>背景</h2><p>耶羅波安二世統治期間北國在伯特利設置神堂</p>",
     "associations": {
       "passage": [

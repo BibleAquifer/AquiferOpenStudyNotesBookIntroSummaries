@@ -2,11 +2,12 @@
   {
     "content_id": 647121,
     "reference_id": 26503,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "彼得後書",
     "media_type": "Text",
     "index_reference": "61000000",
     "language": "zht",
+    "review_level": "None",
     "content": "<p>彼得二書</p><h2>寫作目的</h2><p>譴責假教師，鼓勵信心的持續增長</p><h2>作者</h2><p>彼得</p><h2>日期</h2><p>公元60年代早期</p><h2>背景</h2><p>寫給彼得前書中所提到的同一羣信徒，因為他們這個團體正被假教師滲透</p>",
     "associations": {
       "passage": [

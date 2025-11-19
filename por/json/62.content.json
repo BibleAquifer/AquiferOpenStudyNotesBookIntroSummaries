@@ -2,11 +2,12 @@
   {
     "content_id": 124332,
     "reference_id": 26504,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "1 John",
     "media_type": "Text",
     "index_reference": "62000000",
     "language": "por",
+    "review_level": "None",
     "content": "<p>A primeira carta de João</p><h2>Propósito</h2><p>Afirmar a crença correta sobre Jesus Cristo, exortar os crentes a amar uns aos outros, e fornecer segurança sobre a vida eterna</p><h2>Autor</h2><p>Provavelmente o apóstolo João</p><h2>Data</h2><p>Por volta de 85–90 d.C.</p><h2>Cenário</h2><p>Escrito para uma comunidade que havia recentemente experimentado um cisma devido ao surgimento de uma facção herética</p>",
     "associations": {
       "passage": [

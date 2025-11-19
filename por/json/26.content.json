@@ -2,11 +2,12 @@
   {
     "content_id": 124296,
     "reference_id": 26468,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Ezekiel",
     "media_type": "Text",
     "index_reference": "26000000",
     "language": "por",
+    "review_level": "None",
     "content": "<p>O livro de Ezequiel</p><h2>Propósito</h2><p>Pronunciar o julgamento iminente sobre Judá e oferecer esperança após a destruição de Jerusalém</p><h2>Autor</h2><p>Ezequiel</p><h2>Data</h2><p>Por volta de 593–571 a.C.</p><h2>Cenário</h2><p>Exílio na Babilônia, imediatamente antes, durante e após a destruição de Jerusalém</p>",
     "associations": {
       "passage": [

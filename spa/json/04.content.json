@@ -2,11 +2,12 @@
   {
     "content_id": 336738,
     "reference_id": 26446,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Números",
     "media_type": "Text",
     "index_reference": "04000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>El Libro de los Números</p><h2>Propósito</h2><p>Documentar la transición de la generación infiel que salió de Egipto a la generación que entraría en la tierra prometida</p><h2>Autor</h2><p>Moisés, según la tradición</p><h2>Fecha</h2><p>Registra eventos que probablemente ocurrieron alrededor de 1445–1406 a.C. o 1269–1230 a.C.</p><h2>Contexto</h2><p>El libro comienza con los israelitas en el Sinaí, sigue su viaje por el desierto y termina con ellos en las llanuras de Moab al borde de la tierra prometida</p>",
     "associations": {
       "passage": [

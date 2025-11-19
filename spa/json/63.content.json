@@ -2,11 +2,12 @@
   {
     "content_id": 336797,
     "reference_id": 26505,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "2 Juan",
     "media_type": "Text",
     "index_reference": "63000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>La Segunda Carta de Juan</p><h2>Propósito</h2><ol><li><p>Delinear la respuesta adecuada a los falsos maestros</p></li><li><p>Animar a los creyentes a amarse unos a otros</p></li></ol><h2>Autor</h2><p>Probablemente el apóstol Juan</p><h2>Fecha</h2><p>Alrededor del año 85–90 d.C.</p><h2>Contexto</h2><p>Escrita a una comunidad de creyentes (probablemente en Asia Menor) que ya habían encontrado falsos maestros o era probable que lo hicieran pronto</p>",
     "associations": {
       "passage": [

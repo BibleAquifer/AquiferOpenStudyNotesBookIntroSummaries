@@ -2,11 +2,12 @@
   {
     "content_id": 27687,
     "reference_id": 26472,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Amos",
     "media_type": "Text",
     "index_reference": "30000000",
     "language": "fra",
+    "review_level": "None",
     "content": "<p>Le livre d’Amos</p><h2>Dessein</h2><p>Confronter l’apostasie et l’oppression des personnes marginalisées dans le Royaume du Nord</p><h2>Auteur</h2><p>Amos</p><h2>Date</h2><p>Vers 755 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Le sanctuaire à Béthel, dans le Royaume du Nord, pendant le règne de Jéroboam II</p>",
     "associations": {
       "passage": [

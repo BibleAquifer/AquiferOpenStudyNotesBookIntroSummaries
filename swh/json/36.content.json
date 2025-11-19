@@ -2,11 +2,12 @@
   {
     "content_id": 27891,
     "reference_id": 26478,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Sefania",
     "media_type": "Text",
     "index_reference": "36000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Sefania</p><h2>Kusudi</h2><p>Kuonya kuhusu &quot;siku ya Bwana inayokuja&quot; na kuhimiza toba</p><h2>Mwandishi</h2><p>Sefania</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa kati ya 635 na 622 KK</p><h2>Muktadha</h2><p>Karibu na mwanzo wa utawala wa Mfalme Yosia huko Yuda, kabla ya mabadiliko yake ya kidini</p>",
     "associations": {
       "passage": [

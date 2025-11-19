@@ -2,11 +2,12 @@
   {
     "content_id": 336736,
     "reference_id": 26444,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Éxodo",
     "media_type": "Text",
     "index_reference": "02000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>El Libro del Éxodo</p><h2>Propósito</h2><p>Relatar</p><ol><li><p>la liberación de los hebreos de Egipto y</p></li><li><p>el establecimiento de su relación especial con Dios (pacto) y sus prácticas de adoración</p></li></ol><h2>Autor</h2><p>Moisés, según la tradición</p><h2>Fecha</h2><p>Registra eventos que probablemente ocurrieron entre 1526–1446 a.C. o 1350–1270 a.C.</p><h2>Contexto</h2><p>Comienza con los hebreos en esclavitud en Egipto y termina con el pueblo del pacto de Dios viajando a la tierra prometida</p>",
     "associations": {
       "passage": [
