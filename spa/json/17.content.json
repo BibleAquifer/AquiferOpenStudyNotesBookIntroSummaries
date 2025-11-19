@@ -2,11 +2,12 @@
   {
     "content_id": 336751,
     "reference_id": 26459,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Ester",
     "media_type": "Text",
     "index_reference": "17000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>El Libro de Ester</p><h2>Propósito</h2><ol><li><p>Demostrar el cuidado providencial de Dios hacia su pueblo</p></li><li><p>Rastrear el origen del Festival de Purim</p></li></ol><h2>Autor</h2><p>Desconocido</p><h2>Fecha</h2><p>Registra eventos que ocurrieron alrededor de 483–473 a.C.</p><h2>Contexto</h2><p>La capital persa, Susa, durante el reinado de Jerjes, después de que muchos judíos habían regresado a Judea</p>",
     "associations": {
       "passage": [

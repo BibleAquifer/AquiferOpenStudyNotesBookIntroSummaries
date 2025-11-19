@@ -2,11 +2,12 @@
   {
     "content_id": 647101,
     "reference_id": 26483,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "馬可",
     "media_type": "Text",
     "index_reference": "41000000",
     "language": "zht",
+    "review_level": "None",
     "content": "<p>馬可福音</p><h2>寫作目的</h2><p>傳達關於耶穌是彌賽亞和神的兒子的好消息</p><h2>作者</h2><p>約翰 馬可，根據早期傳統，他記錄了使徒彼得的回憶。</p><h2>日期</h2><p>可能寫於公元60年代末</p><h2>背景</h2><p>這封書信寫於羅馬世界的基督徒面臨迫害的時期——這就使得福音傳統開始有被記錄下來的必要——並且當時耶路撒冷的毀滅迫在眉睫</p>",
     "associations": {
       "passage": [

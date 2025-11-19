@@ -2,11 +2,12 @@
   {
     "content_id": 336775,
     "reference_id": 26483,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Marcos",
     "media_type": "Text",
     "index_reference": "41000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>El Evangelio de Marcos</p><h2>Propósito</h2><p>Transmitir las buenas nuevas sobre Jesús, quien es el Mesías (el ungido de Dios) y el Hijo de Dios</p><h2>Autor</h2><p>Juan Marcos, quien según la tradición temprana escribió las memorias del apóstol Pedro</p><h2>Fecha</h2><p>Probablemente escrito en algún momento durante finales de los años 60 d.C.</p><h2>Contexto</h2><p>Escrito en una época en la que los cristianos en el mundo romano enfrentaban persecución, lo que hizo necesario que las tradiciones del evangelio se escribieran, y cuando la destrucción de Jerusalén estaba a punto de ocurrir</p>",
     "associations": {
       "passage": [

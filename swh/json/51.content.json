@@ -2,11 +2,12 @@
   {
     "content_id": 27906,
     "reference_id": 26493,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Wakolosai",
     "media_type": "Text",
     "index_reference": "51000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Waraka wa Paulo kwa Wakolosai</p><h2>Kusudi</h2><p>Kupinga mafundisho ya uongo huko Kolosai kwa kusisitiza ukuu wa Kristo na kwa kusisitiza kwamba ukuaji wa kiroho na kuishi kwa maadili kunatokana na yeye</p><h2>Mwandishi</h2><p>Paulo</p><h2>Tarehe</h2><p>Kwa mujibu wa mapokeo, mnamo 60–62 BK, lakini inawezekana kiliandikwa mapema zaidi, takriban mnamo 53–56 BK</p><h2>Muktadha</h2><p>Kiliandikwa wakati Paulo alikuwa gerezani, baada ya kusikia, labda kutoka kwa Epafra, kuhusu mafundisho ya uongo yaliyokuwa yameibuka katika kanisa la Kolosai</p>",
     "associations": {
       "passage": [

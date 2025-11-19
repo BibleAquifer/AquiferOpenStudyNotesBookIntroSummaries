@@ -2,11 +2,12 @@
   {
     "content_id": 27694,
     "reference_id": 26479,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Aggée",
     "media_type": "Text",
     "index_reference": "37000000",
     "language": "fra",
+    "review_level": "None",
     "content": "<p>Le livre d’Aggée</p><h2>Dessein</h2><p>Encourager les Juifs à reprendre la reconstruction du Temple et promouvoir un renouveau spirituel</p><h2>Auteur</h2><p>Aggée</p><h2>Date</h2><p>520 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Jérusalem, presque vingt ans après que Cyrus ait autorisé les Juifs à retourner dans la terre promise et à reconstruire le Temple</p>",
     "associations": {
       "passage": [

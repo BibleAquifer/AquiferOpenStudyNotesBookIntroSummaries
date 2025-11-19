@@ -2,11 +2,12 @@
   {
     "content_id": 647100,
     "reference_id": 26482,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "馬太",
     "media_type": "Text",
     "index_reference": "40000000",
     "language": "zht",
+    "review_level": "None",
     "content": "<p>馬太福音</p><h2>寫作目的</h2><p>證明耶穌是彌賽亞，並幫助基督徒理解信徒的新生活與猶太教教導的關係。</p><h2>作者</h2><p>馬太（也稱為利未），是耶穌十二使徒之一</p><h2>日期</h2><p>大概在公元65年至80年之間</p><h2>背景</h2><p>成書於早期基督徒掙扎的致力於理解他們的新信仰與猶太信仰關係的時期</p>",
     "associations": {
       "passage": [

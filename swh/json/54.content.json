@@ -2,11 +2,12 @@
   {
     "content_id": 27909,
     "reference_id": 26496,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "1 Timotheo",
     "media_type": "Text",
     "index_reference": "54000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Waraka wa Kwanza wa Paulo kwa Timotheo</p><h2>Kusudi</h2><p>Kutoa mwongozo kwa Timotheo kwa ajili ya kushughulikia mafundisho ya uongo na kutoa maagizo juu ya tabia njema kwa kanisa</p><h2>Mwandishi</h2><p>Paulo</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa mnamo takriban 63 BK</p><h2>Muktadha</h2><p>Kiliandikwa karibu na mwisho wa maisha ya Paulo, baada ya Paulo kumtuma Timotheo huko Efeso kusitisha mafundisho ya uongo katika kanisa</p>",
     "associations": {
       "passage": [

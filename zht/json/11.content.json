@@ -2,11 +2,12 @@
   {
     "content_id": 647071,
     "reference_id": 26453,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "列王紀上",
     "media_type": "Text",
     "index_reference": "11000000",
     "language": "zht",
+    "review_level": "None",
     "content": "<p>列王記上</p><h2>寫作目的</h2><p>描繪所羅門治理時的榮華、王國的分裂和以色列的敗壞</p><h2>作者</h2><p>未知</p><h2>日期</h2><p>記錄發生在公元前973–853年的事件</p><h2>背景</h2><p>從以色列王國的鼎盛時期（所羅門王的統治）開始，到以色列王國分裂以及以色列王國的低谷時期（亞哈王的統治）結束</p>",
     "associations": {
       "passage": [

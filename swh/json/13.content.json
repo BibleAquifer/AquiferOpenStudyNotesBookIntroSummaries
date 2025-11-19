@@ -2,11 +2,12 @@
   {
     "content_id": 27868,
     "reference_id": 26455,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "1 Mambo ya Nyakati",
     "media_type": "Text",
     "index_reference": "13000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Kwanza cha Mambo ya Nyakati</p><h2>Kusudi</h2><p>Kuleta tumaini—hasa kwa msingi wa ahadi ya Daudi—miongoni mwa Wayahudi waliokuwa wamerudi katika nchi yao lakini walikuwa wakiishi katika hali ya kutawaliwa.</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Kuna uwezekano kiliandikwa takriban mnamo 400 KK, sehemu kubwa ikiwa inarekodi matukio ambayo yalitokea takriban mnamo 1011–971 KK</p><h2>Muktadha</h2><p>Uyahudi ulikuwa umekaliwa na Wayahudi baada ya Uhamisho, lakini Wayahudi hao walikuwa bado wanaishi chini ya utawala wa kigeni (Waajemi); simulizi hiyo kimsingi inafuatilia utawala wa Daudi</p>",
     "associations": {
       "passage": [

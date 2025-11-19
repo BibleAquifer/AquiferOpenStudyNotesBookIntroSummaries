@@ -2,11 +2,12 @@
   {
     "content_id": 27864,
     "reference_id": 26451,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "1 Samweli",
     "media_type": "Text",
     "index_reference": "09000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Samweli wa Kwanza</p><h2>Kusudi</h2><p>Kusimulia kuanzishwa kwa ufalme wa Israeli na kuangazia tabia zilizotofautiana za wafalme wawili wa kwanza wa Israeli</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Kinarekodi matukio ambayo yalitokea takriban mnamo 1050–1011 KK</p><h2>Muktadha</h2><p>Kipindi cha mpito kutoka enzi ya waamuzi hadi wakati wa kuanzishwa kwa ufalme wa Israeli</p>",
     "associations": {
       "passage": [

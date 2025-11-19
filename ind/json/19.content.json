@@ -2,11 +2,12 @@
   {
     "content_id": 27610,
     "reference_id": 26461,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Mazmur",
     "media_type": "Text",
     "index_reference": "19000000",
     "language": "ind",
+    "review_level": "None",
     "content": "<p>Kitab Mazmur</p><h2>Tujuan</h2><p>Memberi puji-pujian dan doa kepada Allah, memberi teks-teks ibadah kepada umat Allah, dan menyediakan perenungan tentang kedaulatan Allah dan beberapa pertanyaan paling sulit tentang kehidupan</p><h2>Penulis</h2><p>Bervariasi; hampir separuhnya dikaitkan dengan Daud</p><h2>Tahun penulisan</h2><p>Ditulis selama berabad-abad; proses mengumpulkan dan menyunting kemungkinan selesai setelah masa pembuangan di Babel</p><h2>Latar Belakang</h2><p>Bervariasi, tetapi latar pasca-pembuangan banyak memengaruhi proses penyuntingan dan pengelompokan mazmur-mazmurnya</p>",
     "associations": {
       "passage": [

@@ -2,11 +2,12 @@
   {
     "content_id": 27896,
     "reference_id": 26483,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Marko",
     "media_type": "Text",
     "index_reference": "41000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Injili ya Marko</p><h2>Kusudi</h2><p>Kuwasilisha Habari Njema kuhusu Yesu, ambaye ndiye Masihi na Mwana wa Mungu</p><h2>Mwandishi</h2><p>Yohana Marko, ambaye kulingana na mapokeo ya awali aliandika kumbukumbu za mtume Petro</p><h2>Tarehe</h2><p>Inawezekana kiliandikwa wakati fulani mwishoni mwa miaka ya 60 BK</p><h2>Muktadha</h2><p>Kiliandikwa wakati ambapo Wakristo walioshi katika himaya ya Rumi walikuwa wanakabiliwa na mateso—hali iliyofanya iwe muhimu kuanza kuandika mapokeo ya injili—na kuharibiwa kwa Yerusalemu kulikuwa kunakaribia</p>",
     "associations": {
       "passage": [

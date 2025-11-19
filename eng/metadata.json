@@ -4,7 +4,7 @@
     "resource_type": "Study Notes",
     "title": "Aquifer Open Study Notes (Book Intro Summaries)",
     "aquifer_name": "Study Notes - Book Intro Summaries (Tyndale)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "collection_title": "Study Notes - Book Intro Summaries (Tyndale)",
     "short_name": "TSNI",
     "license_info": {
@@ -29,7 +29,7 @@
     },
     "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intro Summaries)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesBookIntroSummaries",
-    "date_created": "2025-11-06",
+    "date_created": "2025-11-17",
     "language": "eng",
     "localizations": [
       "arb",
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-06T13:14:24.041400"
+      "dateCreated": "2025-11-17T09:32:06.051009"
     },
     "idAuthorities": {
       "aquifer": {
@@ -66,7 +66,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntroSummaries": {
-            "timestamp": "2025-11-06T13:14:24.041400"
+            "timestamp": "2025-11-17T09:32:06.051009"
           }
         }
       },
@@ -98,1388 +98,1190 @@
     "ingredients": {
       "json/01.content.json": {
         "mimeType": "text/json",
-        "size": 984,
+        "size": 1013,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "Genesis"
+          ]
         }
       },
       "json/02.content.json": {
         "mimeType": "text/json",
-        "size": 1003,
+        "size": 1032,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "Exodus"
+          ]
         }
       },
       "json/03.content.json": {
         "mimeType": "text/json",
-        "size": 958,
+        "size": 987,
         "scope": {
-          "LEV": []
+          "LEV": [
+            "Leviticus"
+          ]
         }
       },
       "json/04.content.json": {
         "mimeType": "text/json",
-        "size": 990,
+        "size": 1019,
         "scope": {
-          "NUM": []
+          "NUM": [
+            "Numbers"
+          ]
         }
       },
       "json/05.content.json": {
         "mimeType": "text/json",
-        "size": 883,
+        "size": 912,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "Deuteronomy"
+          ]
         }
       },
       "json/06.content.json": {
         "mimeType": "text/json",
-        "size": 846,
+        "size": 875,
         "scope": {
-          "JOS": []
+          "JOS": [
+            "Joshua"
+          ]
         }
       },
       "json/07.content.json": {
         "mimeType": "text/json",
-        "size": 881,
+        "size": 910,
         "scope": {
-          "JDG": []
+          "JDG": [
+            "Judges"
+          ]
         }
       },
       "json/08.content.json": {
         "mimeType": "text/json",
-        "size": 800,
+        "size": 829,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "Ruth"
+          ]
         }
       },
       "json/09.content.json": {
         "mimeType": "text/json",
-        "size": 945,
+        "size": 974,
         "scope": {
-          "1SA": []
+          "1SA": [
+            "1 Samuel"
+          ]
         }
       },
       "json/10.content.json": {
         "mimeType": "text/json",
-        "size": 886,
+        "size": 915,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "2 Samuel"
+          ]
         }
       },
       "json/11.content.json": {
         "mimeType": "text/json",
-        "size": 968,
+        "size": 997,
         "scope": {
-          "1KI": []
+          "1KI": [
+            "1 Kings"
+          ]
         }
       },
       "json/12.content.json": {
         "mimeType": "text/json",
-        "size": 832,
+        "size": 861,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "2 Kings"
+          ]
         }
       },
       "json/13.content.json": {
         "mimeType": "text/json",
-        "size": 1064,
+        "size": 1093,
         "scope": {
-          "1CH": []
+          "1CH": [
+            "1 Chronicles"
+          ]
         }
       },
       "json/14.content.json": {
         "mimeType": "text/json",
-        "size": 953,
+        "size": 982,
         "scope": {
-          "2CH": []
+          "2CH": [
+            "2 Chronicles"
+          ]
         }
       },
       "json/15.content.json": {
         "mimeType": "text/json",
-        "size": 949,
+        "size": 978,
         "scope": {
-          "EZR": []
+          "EZR": [
+            "Ezra"
+          ]
         }
       },
       "json/16.content.json": {
         "mimeType": "text/json",
-        "size": 877,
+        "size": 906,
         "scope": {
-          "NEH": []
+          "NEH": [
+            "Nehemiah"
+          ]
         }
       },
       "json/17.content.json": {
         "mimeType": "text/json",
-        "size": 868,
+        "size": 897,
         "scope": {
-          "EST": []
+          "EST": [
+            "Esther"
+          ]
         }
       },
       "json/18.content.json": {
         "mimeType": "text/json",
-        "size": 836,
+        "size": 865,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "Job"
+          ]
         }
       },
       "json/19.content.json": {
         "mimeType": "text/json",
-        "size": 1109,
+        "size": 1138,
         "scope": {
-          "PSA": []
+          "PSA": [
+            "Psalms"
+          ]
         }
       },
       "json/20.content.json": {
         "mimeType": "text/json",
-        "size": 954,
+        "size": 983,
         "scope": {
-          "PRO": []
+          "PRO": [
+            "Proverbs"
+          ]
         }
       },
       "json/21.content.json": {
         "mimeType": "text/json",
-        "size": 744,
+        "size": 773,
         "scope": {
-          "ECC": []
+          "ECC": [
+            "Ecclesiastes"
+          ]
         }
       },
       "json/22.content.json": {
         "mimeType": "text/json",
-        "size": 839,
+        "size": 868,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "Song of Songs"
+          ]
         }
       },
       "json/23.content.json": {
         "mimeType": "text/json",
-        "size": 869,
+        "size": 898,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "Isaiah"
+          ]
         }
       },
       "json/24.content.json": {
         "mimeType": "text/json",
-        "size": 994,
+        "size": 1023,
         "scope": {
-          "JER": []
+          "JER": [
+            "Jeremiah"
+          ]
         }
       },
       "json/25.content.json": {
         "mimeType": "text/json",
-        "size": 871,
+        "size": 900,
         "scope": {
-          "LAM": []
+          "LAM": [
+            "Lamentations"
+          ]
         }
       },
       "json/26.content.json": {
         "mimeType": "text/json",
-        "size": 828,
+        "size": 857,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "Ezekiel"
+          ]
         }
       },
       "json/27.content.json": {
         "mimeType": "text/json",
-        "size": 914,
+        "size": 943,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "Daniel"
+          ]
         }
       },
       "json/28.content.json": {
         "mimeType": "text/json",
-        "size": 852,
+        "size": 881,
         "scope": {
-          "HOS": []
+          "HOS": [
+            "Hosea"
+          ]
         }
       },
       "json/29.content.json": {
         "mimeType": "text/json",
-        "size": 843,
+        "size": 872,
         "scope": {
-          "JOL": []
+          "JOL": [
+            "Joel"
+          ]
         }
       },
       "json/30.content.json": {
         "mimeType": "text/json",
-        "size": 831,
+        "size": 860,
         "scope": {
-          "AMO": []
+          "AMO": [
+            "Amos"
+          ]
         }
       },
       "json/31.content.json": {
         "mimeType": "text/json",
-        "size": 781,
+        "size": 810,
         "scope": {
-          "OBA": []
+          "OBA": [
+            "Obadiah"
+          ]
         }
       },
       "json/32.content.json": {
         "mimeType": "text/json",
-        "size": 826,
+        "size": 855,
         "scope": {
-          "JON": []
+          "JON": [
+            "Jonah"
+          ]
         }
       },
       "json/33.content.json": {
         "mimeType": "text/json",
-        "size": 869,
+        "size": 898,
         "scope": {
-          "MIC": []
+          "MIC": [
+            "Micah"
+          ]
         }
       },
       "json/34.content.json": {
         "mimeType": "text/json",
-        "size": 893,
+        "size": 922,
         "scope": {
-          "NAM": []
+          "NAM": [
+            "Nahum"
+          ]
         }
       },
       "json/35.content.json": {
         "mimeType": "text/json",
-        "size": 847,
+        "size": 876,
         "scope": {
-          "HAB": []
+          "HAB": [
+            "Habakkuk"
+          ]
         }
       },
       "json/36.content.json": {
         "mimeType": "text/json",
-        "size": 886,
+        "size": 915,
         "scope": {
-          "ZEP": []
+          "ZEP": [
+            "Zephaniah"
+          ]
         }
       },
       "json/37.content.json": {
         "mimeType": "text/json",
-        "size": 800,
+        "size": 829,
         "scope": {
-          "HAG": []
+          "HAG": [
+            "Haggai"
+          ]
         }
       },
       "json/38.content.json": {
         "mimeType": "text/json",
-        "size": 846,
+        "size": 875,
         "scope": {
-          "ZEC": []
+          "ZEC": [
+            "Zechariah"
+          ]
         }
       },
       "json/39.content.json": {
         "mimeType": "text/json",
-        "size": 787,
+        "size": 816,
         "scope": {
-          "MAL": []
+          "MAL": [
+            "Malachi"
+          ]
         }
       },
       "json/40.content.json": {
         "mimeType": "text/json",
-        "size": 991,
+        "size": 1020,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "Matthew"
+          ]
         }
       },
       "json/41.content.json": {
         "mimeType": "text/json",
-        "size": 1017,
+        "size": 1046,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "Mark"
+          ]
         }
       },
       "json/42.content.json": {
         "mimeType": "text/json",
-        "size": 1117,
+        "size": 1146,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "Luke"
+          ]
         }
       },
       "json/43.content.json": {
         "mimeType": "text/json",
-        "size": 965,
+        "size": 994,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "John"
+          ]
         }
       },
       "json/44.content.json": {
         "mimeType": "text/json",
-        "size": 1258,
+        "size": 1287,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "Acts"
+          ]
         }
       },
       "json/45.content.json": {
         "mimeType": "text/json",
-        "size": 1059,
+        "size": 1088,
         "scope": {
-          "ROM": []
+          "ROM": [
+            "Romans"
+          ]
         }
       },
       "json/46.content.json": {
         "mimeType": "text/json",
-        "size": 1201,
+        "size": 1230,
         "scope": {
-          "1CO": []
+          "1CO": [
+            "1 Corinthians"
+          ]
         }
       },
       "json/47.content.json": {
         "mimeType": "text/json",
-        "size": 1009,
+        "size": 1038,
         "scope": {
-          "2CO": []
+          "2CO": [
+            "2 Corinthians"
+          ]
         }
       },
       "json/48.content.json": {
         "mimeType": "text/json",
-        "size": 1222,
+        "size": 1251,
         "scope": {
-          "GAL": []
+          "GAL": [
+            "Galatians"
+          ]
         }
       },
       "json/49.content.json": {
         "mimeType": "text/json",
-        "size": 1126,
+        "size": 1155,
         "scope": {
-          "EPH": []
+          "EPH": [
+            "Ephesians"
+          ]
         }
       },
       "json/50.content.json": {
         "mimeType": "text/json",
-        "size": 980,
+        "size": 1009,
         "scope": {
-          "PHP": []
+          "PHP": [
+            "Philippians"
+          ]
         }
       },
       "json/51.content.json": {
         "mimeType": "text/json",
-        "size": 1017,
+        "size": 1046,
         "scope": {
-          "COL": []
+          "COL": [
+            "Colossians"
+          ]
         }
       },
       "json/52.content.json": {
         "mimeType": "text/json",
-        "size": 977,
+        "size": 1006,
         "scope": {
-          "1TH": []
+          "1TH": [
+            "1 Thessalonians"
+          ]
         }
       },
       "json/53.content.json": {
         "mimeType": "text/json",
-        "size": 909,
+        "size": 938,
         "scope": {
-          "2TH": []
+          "2TH": [
+            "2 Thessalonians"
+          ]
         }
       },
       "json/54.content.json": {
         "mimeType": "text/json",
-        "size": 847,
+        "size": 876,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "1 Timothy"
+          ]
         }
       },
       "json/55.content.json": {
         "mimeType": "text/json",
-        "size": 889,
+        "size": 918,
         "scope": {
-          "2TI": []
+          "2TI": [
+            "2 Timothy"
+          ]
         }
       },
       "json/56.content.json": {
         "mimeType": "text/json",
-        "size": 906,
+        "size": 935,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "Titus"
+          ]
         }
       },
       "json/57.content.json": {
         "mimeType": "text/json",
-        "size": 898,
+        "size": 927,
         "scope": {
-          "PHM": []
+          "PHM": [
+            "Philemon"
+          ]
         }
       },
       "json/58.content.json": {
         "mimeType": "text/json",
-        "size": 910,
+        "size": 939,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "Hebrews"
+          ]
         }
       },
       "json/59.content.json": {
         "mimeType": "text/json",
-        "size": 926,
+        "size": 955,
         "scope": {
-          "JAS": []
+          "JAS": [
+            "James"
+          ]
         }
       },
       "json/60.content.json": {
         "mimeType": "text/json",
-        "size": 830,
+        "size": 859,
         "scope": {
-          "1PE": []
+          "1PE": [
+            "1 Peter"
+          ]
         }
       },
       "json/61.content.json": {
         "mimeType": "text/json",
-        "size": 837,
+        "size": 866,
         "scope": {
-          "2PE": []
+          "2PE": [
+            "2 Peter"
+          ]
         }
       },
       "json/62.content.json": {
         "mimeType": "text/json",
-        "size": 988,
+        "size": 1017,
         "scope": {
-          "1JN": []
+          "1JN": [
+            "1 John"
+          ]
         }
       },
       "json/63.content.json": {
         "mimeType": "text/json",
-        "size": 904,
+        "size": 933,
         "scope": {
-          "2JN": []
+          "2JN": [
+            "2 John"
+          ]
         }
       },
       "json/64.content.json": {
         "mimeType": "text/json",
-        "size": 874,
+        "size": 903,
         "scope": {
-          "3JN": []
+          "3JN": [
+            "3 John"
+          ]
         }
       },
       "json/65.content.json": {
         "mimeType": "text/json",
-        "size": 849,
+        "size": 878,
         "scope": {
-          "JUD": []
+          "JUD": [
+            "Jude"
+          ]
         }
       },
       "json/66.content.json": {
         "mimeType": "text/json",
-        "size": 911,
-        "scope": {
-          "REV": []
-        }
-      },
-      "md/01.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1288,
-        "scope": {
-          "GEN": []
-        }
-      },
-      "md/02.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1277,
-        "scope": {
-          "EXO": []
-        }
-      },
-      "md/03.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1230,
-        "scope": {
-          "LEV": []
-        }
-      },
-      "md/04.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1294,
-        "scope": {
-          "NUM": []
-        }
-      },
-      "md/05.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1182,
-        "scope": {
-          "DEU": []
-        }
-      },
-      "md/06.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1150,
-        "scope": {
-          "JOS": []
-        }
-      },
-      "md/07.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1158,
-        "scope": {
-          "JDG": []
-        }
-      },
-      "md/08.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1104,
-        "scope": {
-          "RUT": []
-        }
-      },
-      "md/09.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1222,
-        "scope": {
-          "1SA": []
-        }
-      },
-      "md/10.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1163,
-        "scope": {
-          "2SA": []
-        }
-      },
-      "md/11.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1230,
-        "scope": {
-          "1KI": []
-        }
-      },
-      "md/12.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1131,
-        "scope": {
-          "2KI": []
-        }
-      },
-      "md/13.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1368,
-        "scope": {
-          "1CH": []
-        }
-      },
-      "md/14.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1257,
-        "scope": {
-          "2CH": []
-        }
-      },
-      "md/15.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1226,
-        "scope": {
-          "EZR": []
-        }
-      },
-      "md/16.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1154,
-        "scope": {
-          "NEH": []
-        }
-      },
-      "md/17.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1145,
-        "scope": {
-          "EST": []
-        }
-      },
-      "md/18.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1140,
-        "scope": {
-          "JOB": []
-        }
-      },
-      "md/19.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1371,
-        "scope": {
-          "PSA": []
-        }
-      },
-      "md/20.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1253,
-        "scope": {
-          "PRO": []
-        }
-      },
-      "md/21.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1048,
-        "scope": {
-          "ECC": []
-        }
-      },
-      "md/22.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1143,
-        "scope": {
-          "SNG": []
-        }
-      },
-      "md/23.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1146,
-        "scope": {
-          "ISA": []
-        }
-      },
-      "md/24.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1261,
-        "scope": {
-          "JER": []
-        }
-      },
-      "md/25.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1148,
-        "scope": {
-          "LAM": []
-        }
-      },
-      "md/26.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1105,
-        "scope": {
-          "EZK": []
-        }
-      },
-      "md/27.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1218,
-        "scope": {
-          "DAN": []
-        }
-      },
-      "md/28.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1130,
-        "scope": {
-          "HOS": []
-        }
-      },
-      "md/29.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1110,
-        "scope": {
-          "JOL": []
-        }
-      },
-      "md/30.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1130,
-        "scope": {
-          "AMO": []
-        }
-      },
-      "md/31.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1085,
-        "scope": {
-          "OBA": []
-        }
-      },
-      "md/32.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1131,
-        "scope": {
-          "JON": []
-        }
-      },
-      "md/33.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1173,
-        "scope": {
-          "MIC": []
-        }
-      },
-      "md/34.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1197,
-        "scope": {
-          "NAM": []
-        }
-      },
-      "md/35.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1151,
-        "scope": {
-          "HAB": []
-        }
-      },
-      "md/36.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1164,
-        "scope": {
-          "ZEP": []
-        }
-      },
-      "md/37.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1104,
-        "scope": {
-          "HAG": []
-        }
-      },
-      "md/38.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1123,
-        "scope": {
-          "ZEC": []
-        }
-      },
-      "md/39.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1091,
-        "scope": {
-          "MAL": []
-        }
-      },
-      "md/40.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1264,
-        "scope": {
-          "MAT": []
-        }
-      },
-      "md/41.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1316,
-        "scope": {
-          "MRK": []
-        }
-      },
-      "md/42.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1422,
-        "scope": {
-          "LUK": []
-        }
-      },
-      "md/43.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1237,
-        "scope": {
-          "JHN": []
-        }
-      },
-      "md/44.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1564,
-        "scope": {
-          "ACT": []
-        }
-      },
-      "md/45.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1338,
-        "scope": {
-          "ROM": []
-        }
-      },
-      "md/46.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1427,
-        "scope": {
-          "1CO": []
-        }
-      },
-      "md/47.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1273,
-        "scope": {
-          "2CO": []
-        }
-      },
-      "md/48.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1523,
-        "scope": {
-          "GAL": []
-        }
-      },
-      "md/49.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1394,
-        "scope": {
-          "EPH": []
-        }
-      },
-      "md/50.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1257,
-        "scope": {
-          "PHP": []
-        }
-      },
-      "md/51.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1291,
-        "scope": {
-          "COL": []
-        }
-      },
-      "md/52.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1254,
-        "scope": {
-          "1TH": []
-        }
-      },
-      "md/53.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1186,
-        "scope": {
-          "2TH": []
-        }
-      },
-      "md/54.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1151,
-        "scope": {
-          "1TI": []
-        }
-      },
-      "md/55.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1166,
-        "scope": {
-          "2TI": []
-        }
-      },
-      "md/56.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1184,
-        "scope": {
-          "TIT": []
-        }
-      },
-      "md/57.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1202,
-        "scope": {
-          "PHM": []
-        }
-      },
-      "md/58.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1214,
-        "scope": {
-          "HEB": []
-        }
-      },
-      "md/59.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1203,
-        "scope": {
-          "JAS": []
-        }
-      },
-      "md/60.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1134,
-        "scope": {
-          "1PE": []
-        }
-      },
-      "md/61.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1114,
-        "scope": {
-          "2PE": []
-        }
-      },
-      "md/62.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1253,
-        "scope": {
-          "1JN": []
-        }
-      },
-      "md/63.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1181,
-        "scope": {
-          "2JN": []
-        }
-      },
-      "md/64.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1151,
-        "scope": {
-          "3JN": []
-        }
-      },
-      "md/65.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1153,
-        "scope": {
-          "JUD": []
-        }
-      },
-      "md/66.content.md": {
-        "mimeType": "text/markdown",
-        "size": 1215,
-        "scope": {
-          "REV": []
+        "size": 940,
+        "scope": {
+          "REV": [
+            "Revelation"
+          ]
         }
       },
       "pdf/01.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 173362,
+        "size": 171390,
         "scope": {
-          "GEN": []
+          "GEN": [
+            "Genesis"
+          ]
         }
       },
       "pdf/02.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197125,
+        "size": 195975,
         "scope": {
-          "EXO": []
+          "EXO": [
+            "Exodus"
+          ]
         }
       },
       "pdf/03.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 196968,
+        "size": 195454,
         "scope": {
-          "LEV": []
+          "LEV": [
+            "Leviticus"
+          ]
         }
       },
       "pdf/04.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174687,
+        "size": 173037,
         "scope": {
-          "NUM": []
+          "NUM": [
+            "Numbers"
+          ]
         }
       },
       "pdf/05.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 173777,
+        "size": 172670,
         "scope": {
-          "DEU": []
+          "DEU": [
+            "Deuteronomy"
+          ]
         }
       },
       "pdf/06.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 173993,
+        "size": 171521,
         "scope": {
-          "JOS": []
+          "JOS": [
+            "Joshua"
+          ]
         }
       },
       "pdf/07.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197197,
+        "size": 195523,
         "scope": {
-          "JDG": []
+          "JDG": [
+            "Judges"
+          ]
         }
       },
       "pdf/08.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 171570,
+        "size": 168998,
         "scope": {
-          "RUT": []
+          "RUT": [
+            "Ruth"
+          ]
         }
       },
       "pdf/09.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 195925,
+        "size": 193878,
         "scope": {
-          "1SA": []
+          "1SA": [
+            "1 Samuel"
+          ]
         }
       },
       "pdf/10.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197324,
+        "size": 195316,
         "scope": {
-          "2SA": []
+          "2SA": [
+            "2 Samuel"
+          ]
         }
       },
       "pdf/11.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 198936,
+        "size": 196911,
         "scope": {
-          "1KI": []
+          "1KI": [
+            "1 Kings"
+          ]
         }
       },
       "pdf/12.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 178129,
+        "size": 176005,
         "scope": {
-          "2KI": []
+          "2KI": [
+            "2 Kings"
+          ]
         }
       },
       "pdf/13.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 179169,
+        "size": 177272,
         "scope": {
-          "1CH": []
+          "1CH": [
+            "1 Chronicles"
+          ]
         }
       },
       "pdf/14.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 180834,
+        "size": 178983,
         "scope": {
-          "2CH": []
+          "2CH": [
+            "2 Chronicles"
+          ]
         }
       },
       "pdf/15.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 196161,
+        "size": 194487,
         "scope": {
-          "EZR": []
+          "EZR": [
+            "Ezra"
+          ]
         }
       },
       "pdf/16.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 195732,
+        "size": 194302,
         "scope": {
-          "NEH": []
+          "NEH": [
+            "Nehemiah"
+          ]
         }
       },
       "pdf/17.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 196383,
+        "size": 193879,
         "scope": {
-          "EST": []
+          "EST": [
+            "Esther"
+          ]
         }
       },
       "pdf/18.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 169656,
+        "size": 167731,
         "scope": {
-          "JOB": []
+          "JOB": [
+            "Job"
+          ]
         }
       },
       "pdf/19.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 195912,
+        "size": 193493,
         "scope": {
-          "PSA": []
+          "PSA": [
+            "Psalms"
+          ]
         }
       },
       "pdf/20.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 177002,
+        "size": 174973,
         "scope": {
-          "PRO": []
+          "PRO": [
+            "Proverbs"
+          ]
         }
       },
       "pdf/21.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174860,
+        "size": 172497,
         "scope": {
-          "ECC": []
+          "ECC": [
+            "Ecclesiastes"
+          ]
         }
       },
       "pdf/22.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 177023,
+        "size": 175430,
         "scope": {
-          "SNG": []
+          "SNG": [
+            "Song of Songs"
+          ]
         }
       },
       "pdf/23.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 196245,
+        "size": 193590,
         "scope": {
-          "ISA": []
+          "ISA": [
+            "Isaiah"
+          ]
         }
       },
       "pdf/24.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 199078,
+        "size": 197500,
         "scope": {
-          "JER": []
+          "JER": [
+            "Jeremiah"
+          ]
         }
       },
       "pdf/25.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 198086,
+        "size": 195529,
         "scope": {
-          "LAM": []
+          "LAM": [
+            "Lamentations"
+          ]
         }
       },
       "pdf/26.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197574,
+        "size": 196818,
         "scope": {
-          "EZK": []
+          "EZK": [
+            "Ezekiel"
+          ]
         }
       },
       "pdf/27.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174845,
+        "size": 171992,
         "scope": {
-          "DAN": []
+          "DAN": [
+            "Daniel"
+          ]
         }
       },
       "pdf/28.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 194115,
+        "size": 191628,
         "scope": {
-          "HOS": []
+          "HOS": [
+            "Hosea"
+          ]
         }
       },
       "pdf/29.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 193351,
+        "size": 190950,
         "scope": {
-          "JOL": []
+          "JOL": [
+            "Joel"
+          ]
         }
       },
       "pdf/30.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 171803,
+        "size": 169031,
         "scope": {
-          "AMO": []
+          "AMO": [
+            "Amos"
+          ]
         }
       },
       "pdf/31.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174455,
+        "size": 172513,
         "scope": {
-          "OBA": []
+          "OBA": [
+            "Obadiah"
+          ]
         }
       },
       "pdf/32.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 172992,
+        "size": 170403,
         "scope": {
-          "JON": []
+          "JON": [
+            "Jonah"
+          ]
         }
       },
       "pdf/33.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174479,
+        "size": 171895,
         "scope": {
-          "MIC": []
+          "MIC": [
+            "Micah"
+          ]
         }
       },
       "pdf/34.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 172984,
+        "size": 170561,
         "scope": {
-          "NAM": []
+          "NAM": [
+            "Nahum"
+          ]
         }
       },
       "pdf/35.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 173526,
+        "size": 172177,
         "scope": {
-          "HAB": []
+          "HAB": [
+            "Habakkuk"
+          ]
         }
       },
       "pdf/36.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197551,
+        "size": 195780,
         "scope": {
-          "ZEP": []
+          "ZEP": [
+            "Zephaniah"
+          ]
         }
       },
       "pdf/37.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 171798,
+        "size": 169824,
         "scope": {
-          "HAG": []
+          "HAG": [
+            "Haggai"
+          ]
         }
       },
       "pdf/38.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 196827,
+        "size": 195168,
         "scope": {
-          "ZEC": []
+          "ZEC": [
+            "Zechariah"
+          ]
         }
       },
       "pdf/39.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 171286,
+        "size": 168667,
         "scope": {
-          "MAL": []
+          "MAL": [
+            "Malachi"
+          ]
         }
       },
       "pdf/40.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197303,
+        "size": 194946,
         "scope": {
-          "MAT": []
+          "MAT": [
+            "Matthew"
+          ]
         }
       },
       "pdf/41.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 171205,
+        "size": 169632,
         "scope": {
-          "MRK": []
+          "MRK": [
+            "Mark"
+          ]
         }
       },
       "pdf/42.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174969,
+        "size": 173753,
         "scope": {
-          "LUK": []
+          "LUK": [
+            "Luke"
+          ]
         }
       },
       "pdf/43.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 195270,
+        "size": 192915,
         "scope": {
-          "JHN": []
+          "JHN": [
+            "John"
+          ]
         }
       },
       "pdf/44.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174614,
+        "size": 172156,
         "scope": {
-          "ACT": []
+          "ACT": [
+            "Acts"
+          ]
         }
       },
       "pdf/45.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 196221,
+        "size": 193363,
         "scope": {
-          "ROM": []
+          "ROM": [
+            "Romans"
+          ]
         }
       },
       "pdf/46.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 181871,
+        "size": 179706,
         "scope": {
-          "1CO": []
+          "1CO": [
+            "1 Corinthians"
+          ]
         }
       },
       "pdf/47.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 200106,
+        "size": 197907,
         "scope": {
-          "2CO": []
+          "2CO": [
+            "2 Corinthians"
+          ]
         }
       },
       "pdf/48.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 176530,
+        "size": 174328,
         "scope": {
-          "GAL": []
+          "GAL": [
+            "Galatians"
+          ]
         }
       },
       "pdf/49.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 199119,
+        "size": 197317,
         "scope": {
-          "EPH": []
+          "EPH": [
+            "Ephesians"
+          ]
         }
       },
       "pdf/50.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197674,
+        "size": 194714,
         "scope": {
-          "PHP": []
+          "PHP": [
+            "Philippians"
+          ]
         }
       },
       "pdf/51.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197025,
+        "size": 194651,
         "scope": {
-          "COL": []
+          "COL": [
+            "Colossians"
+          ]
         }
       },
       "pdf/52.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 198082,
+        "size": 195815,
         "scope": {
-          "1TH": []
+          "1TH": [
+            "1 Thessalonians"
+          ]
         }
       },
       "pdf/53.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197714,
+        "size": 195477,
         "scope": {
-          "2TH": []
+          "2TH": [
+            "2 Thessalonians"
+          ]
         }
       },
       "pdf/54.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174649,
+        "size": 172805,
         "scope": {
-          "1TI": []
+          "1TI": [
+            "1 Timothy"
+          ]
         }
       },
       "pdf/55.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 194846,
+        "size": 193031,
         "scope": {
-          "2TI": []
+          "2TI": [
+            "2 Timothy"
+          ]
         }
       },
       "pdf/56.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 193606,
+        "size": 190163,
         "scope": {
-          "TIT": []
+          "TIT": [
+            "Titus"
+          ]
         }
       },
       "pdf/57.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174884,
+        "size": 172404,
         "scope": {
-          "PHM": []
+          "PHM": [
+            "Philemon"
+          ]
         }
       },
       "pdf/58.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 174796,
+        "size": 173879,
         "scope": {
-          "HEB": []
+          "HEB": [
+            "Hebrews"
+          ]
         }
       },
       "pdf/59.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 194135,
+        "size": 192034,
         "scope": {
-          "JAS": []
+          "JAS": [
+            "James"
+          ]
         }
       },
       "pdf/60.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 173246,
+        "size": 171234,
         "scope": {
-          "1PE": []
+          "1PE": [
+            "1 Peter"
+          ]
         }
       },
       "pdf/61.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 194066,
+        "size": 192029,
         "scope": {
-          "2PE": []
+          "2PE": [
+            "2 Peter"
+          ]
         }
       },
       "pdf/62.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197678,
+        "size": 195413,
         "scope": {
-          "1JN": []
+          "1JN": [
+            "1 John"
+          ]
         }
       },
       "pdf/63.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 196172,
+        "size": 193911,
         "scope": {
-          "2JN": []
+          "2JN": [
+            "2 John"
+          ]
         }
       },
       "pdf/64.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 197531,
+        "size": 195314,
         "scope": {
-          "3JN": []
+          "3JN": [
+            "3 John"
+          ]
         }
       },
       "pdf/65.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 170883,
+        "size": 168999,
         "scope": {
-          "JUD": []
+          "JUD": [
+            "Jude"
+          ]
         }
       },
       "pdf/66.content.pdf": {
         "mimeType": "application/pdf",
-        "size": 176717,
+        "size": 174970,
         "scope": {
-          "REV": []
+          "REV": [
+            "Revelation"
+          ]
         }
       }
     },

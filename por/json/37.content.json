@@ -2,11 +2,12 @@
   {
     "content_id": 124307,
     "reference_id": 26479,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Haggai",
     "media_type": "Text",
     "index_reference": "37000000",
     "language": "por",
+    "review_level": "None",
     "content": "<p>O livro de Ageu</p><h2>Propósito</h2><p>Encorajar os judeus a retomar a reconstrução do Templo e promover a renovação espiritual</p><h2>Autor</h2><p>Ageu</p><h2>Data</h2><p>520 a.C.</p><h2>Cenário</h2><p>Jerusalém, quase vinte anos após Ciro haver permitido que os judeus voltassem e reconstruíssem o Templo</p>",
     "associations": {
       "passage": [

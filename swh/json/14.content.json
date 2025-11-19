@@ -2,11 +2,12 @@
   {
     "content_id": 27869,
     "reference_id": 26456,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "2 Mambo ya Nyakati",
     "media_type": "Text",
     "index_reference": "14000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Pili cha Mambo ya Nyakati</p><h2>Kusudi</h2><p>Kuwapa wasomaji tumaini kwa ajili ya ufalme wa Israeli uliorejeshwa wenye ibada sahihi</p><h2>Mwandishi</h2><p>Hajulikani</p><h2>Tarehe</h2><p>Kuna uwezekano kiliandikwa takriban mnamo 400 KK, kikirekodi matukio ambayo yalitokea takriban mnamo 971–538 KK</p><h2>Muktadha</h2><p>Eneo la Uyahudi baada ya Uhamisho wakati wa utawala wa Kiajemi; simulizi inaanza na utawala wa Sulemani na inaishia na tangazo la Mfalme Koreshi la kuwaruhusu Waisraeli warudi Uyahudi</p>",
     "associations": {
       "passage": [

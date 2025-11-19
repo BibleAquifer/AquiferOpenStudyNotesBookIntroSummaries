@@ -2,11 +2,12 @@
   {
     "content_id": 27678,
     "reference_id": 26463,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Ecclésiaste",
     "media_type": "Text",
     "index_reference": "21000000",
     "language": "fra",
+    "review_level": "None",
     "content": "<p>Le livre de l’Ecclésiaste</p><h2>Dessein</h2><p>Réfléchir au sens de la vie et à comment en profiter</p><h2>Auteur</h2><p>Salomon</p><h2>Date</h2><p>Vers 971–931 av.&nbsp;J.-C.</p><h2>Cadre</h2><p>Le règne très prospère, mais apparemment insatisfaisant, de Salomon</p>",
     "associations": {
       "passage": [

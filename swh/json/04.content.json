@@ -2,11 +2,12 @@
   {
     "content_id": 27859,
     "reference_id": 26446,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Hesabu",
     "media_type": "Text",
     "index_reference": "04000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Hesabu</p><h2>Kusudi</h2><p>Kurekodi kipindi cha mpito kutoka kwa kizazi ambacho hakikuwa kiaminifu kilichoondoka Misri hadi kizazi kilichoingia katika Nchi ya Ahadi</p><h2>Mwandishi</h2><p>Musa, kulingana na mapokeo</p><h2>Tarehe</h2><p>Kinarekodi matukio ambayo kuna uwezekano yalitokea mnamo 1445–1406 KK au 1269–1230 KK</p><h2>Muktadha</h2><p>Kitabu hiki kinaanza na Waisraeli huko Sinai, kikifuatilia safari yao nyikani, na kinaisha na Waisraeli wakiwa katika nchi tambarare ya Moabu karibu na Nchi ya Ahadi.</p>",
     "associations": {
       "passage": [

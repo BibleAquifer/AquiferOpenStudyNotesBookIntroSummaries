@@ -2,11 +2,12 @@
   {
     "content_id": 336779,
     "reference_id": 26487,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Romanos",
     "media_type": "Text",
     "index_reference": "45000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>La carta de Pablo a los Romanos</p><h2>Propósito</h2><ol><li><p>Delinear las buenas noticias sobre Jesús</p></li><li><p>Abordar las divisiones teológicas y sociales que habían surgido en una iglesia compuesta por personas tanto judías como no judías</p></li></ol><h2>Autor</h2><p>Pablo</p><h2>Fecha</h2><p>Probablemente alrededor del año 57 d.C., cerca del final de su tercer viaje misionero</p><h2>Contexto</h2><p>Escrito (probablemente en Corinto) hacia el final de la actividad misionera de Pablo, cuando estaba haciendo planes para visitar la iglesia en Roma de camino a España, después de entregar un regalo a la iglesia de Jerusalén</p>",
     "associations": {
       "passage": [

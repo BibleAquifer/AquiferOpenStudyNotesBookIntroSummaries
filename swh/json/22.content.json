@@ -2,11 +2,12 @@
   {
     "content_id": 27877,
     "reference_id": 26464,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Wimbo Ulio Bora",
     "media_type": "Text",
     "index_reference": "22000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Wimbo Ulio Bora</p><h2>Kusudi</h2><p>Kusherehekea zawadi za Mungu za mapenzi na kujamiiana</p><h2>Mwandishi</h2><p>Sulemani; inawezekana kuna waandishi wengine waliochangia</p><h2>Tarehe</h2><p>Haijulikani, lakini baada ya 971 KK</p><h2>Muktadha</h2><p>Kitabu hiki kinahusishwa na utawala wa Sulemani, lakini ukosefu wake wa mpangilio ulio wazi unafanya iwe vigumu kubaini muktadha wake kwa uhakika</p>",
     "associations": {
       "passage": [

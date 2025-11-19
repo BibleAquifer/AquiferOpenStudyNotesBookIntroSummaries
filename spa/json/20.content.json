@@ -2,11 +2,12 @@
   {
     "content_id": 336754,
     "reference_id": 26462,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Proverbios",
     "media_type": "Text",
     "index_reference": "20000000",
     "language": "spa",
+    "review_level": "None",
     "content": "<p>El Libro de los Proverbios</p><h2>Propósito</h2><p>Ofrecer sabiduría práctica para tomar decisiones y organizar la vida</p><h2>Autor</h2><p>Varios; muchos se atribuyen a Salomón</p><h2>Fecha</h2><p>Escrito y compilado a lo largo de varios siglos, comenzando durante el reinado del Rey Salomón (971–931&nbsp;a.C.) y continuando hasta al menos el reinado del Rey Ezequías (728–686 a.C.)</p><h2>Contexto</h2><p>Una parte está dirigida a un joven. Otras partes insinúan a diversos contextos </p>",
     "associations": {
       "passage": [

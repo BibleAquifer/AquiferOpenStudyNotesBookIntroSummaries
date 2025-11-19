@@ -2,11 +2,12 @@
   {
     "content_id": 124331,
     "reference_id": 26503,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "2 Peter",
     "media_type": "Text",
     "index_reference": "61000000",
     "language": "por",
+    "review_level": "None",
     "content": "<p>A segunda carta de Pedro</p><h2>Propósito</h2><p>Denunciar os falsos mestres e encorajar o crescimento contínuo na fé</p><h2>Autor</h2><p>Pedro</p><h2>Data</h2><p>Início dos anos 60 d.C.</p><h2>Cenário</h2><p>Escrito para os mesmos grupos de crentes destinatários de 1 Pedro, dos quais as comunidades estavam sendo infiltradas por falsos mestres</p>",
     "associations": {
       "passage": [

@@ -2,11 +2,12 @@
   {
     "content_id": 27858,
     "reference_id": 26445,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Mambo ya Walawi",
     "media_type": "Text",
     "index_reference": "03000000",
     "language": "swh",
+    "review_level": "None",
     "content": "<p>Kitabu cha Mambo ya Walawi</p><h2>Kusudi</h2><p>Kuonyesha utakatifu wa Mungu na kuwaagiza watu wake waishi maisha matakatifu</p><h2>Mwandishi</h2><p>Musa, kulingana na mapokeo</p><h2>Tarehe</h2><p>Kinarekodi matukio ambayo kuna uwezekano yalitokea mnamo 1446 KK au 1270 KK</p><h2>Muktadha</h2><p>Waisraeli walikuwa wamestawishwa kama watu wa agano wa Mungu na walikuwa wamepiga kambi chini ya Mlima Sinai</p>",
     "associations": {
       "passage": [

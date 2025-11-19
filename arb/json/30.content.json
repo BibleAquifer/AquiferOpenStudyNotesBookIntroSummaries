@@ -2,11 +2,12 @@
   {
     "content_id": 27753,
     "reference_id": 26472,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "سفر عاموس",
     "media_type": "Text",
     "index_reference": "30000000",
     "language": "arb",
+    "review_level": "None",
     "content": "<p>سِفر عاموس</p><h2>الهدف</h2><p>مواجهة ارتداد المملكة الشمالية وقَمع المهمشين</p><h2>الكاتب</h2><p>سفر عاموس</p><h2>الزمن</h2><p>نحو 755 قبل الميلاد</p><h2>السياق</h2><p>مذبح بيت إيل في المملكة الشمالية في عهد يربعام الثاني</p>",
     "associations": {
       "passage": [
