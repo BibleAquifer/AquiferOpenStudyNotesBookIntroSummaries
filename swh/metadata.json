@@ -2,7 +2,7 @@
   "resource_metadata": {
     "aquifer_type": "StudyNotes",
     "resource_type": "Study Notes",
-    "title": "Study Notes - Book Intro Summaries (Tyndale)",
+    "title": "Aquifer Open Study Notes (Book Intro Summaries)",
     "aquifer_name": "Maelezo ya Masomo - Muhtasari wa Utangulizi wa Vitabu (Tyndale)",
     "version": "1.0.1",
     "collection_title": "Study Notes - Book Intro Summaries (Tyndale)",
@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": true,
       "showAdaptationNoticeForNonEnglish": true
     },
-    "adaptation_notice": "",
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intro Summaries)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesBookIntroSummaries",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "swh",
     "localizations": [
       "eng",
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:06.853385"
+      "dateCreated": "2025-12-04T20:24:53.237065"
     },
     "idAuthorities": {
       "aquifer": {
@@ -66,7 +66,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntroSummaries": {
-            "timestamp": "2025-11-17T09:32:06.853385"
+            "timestamp": "2025-12-04T20:24:53.237065"
           }
         }
       },
@@ -690,598 +690,466 @@
           ]
         }
       },
-      "pdf/01.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135435,
+      "md/01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1252,
         "scope": {
-          "GEN": [
-            "Mwanzo"
-          ]
+          "GEN": []
         }
       },
-      "pdf/02.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138704,
+      "md/02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1252,
         "scope": {
-          "EXO": [
-            "Kutoka"
-          ]
+          "EXO": []
         }
       },
-      "pdf/03.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136759,
+      "md/03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1220,
         "scope": {
-          "LEV": [
-            "Mambo ya Walawi"
-          ]
+          "LEV": []
         }
       },
-      "pdf/04.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136488,
+      "md/04.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1335,
         "scope": {
-          "NUM": [
-            "Hesabu"
-          ]
+          "NUM": []
         }
       },
-      "pdf/05.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137703,
+      "md/05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1226,
         "scope": {
-          "DEU": [
-            "Kumbukumbu la Torati"
-          ]
+          "DEU": []
         }
       },
-      "pdf/06.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137015,
+      "md/06.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1164,
         "scope": {
-          "JOS": [
-            "Yoshua"
-          ]
+          "JOS": []
         }
       },
-      "pdf/07.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138038,
+      "md/07.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1206,
         "scope": {
-          "JDG": [
-            "Waamuzi"
-          ]
+          "JDG": []
         }
       },
-      "pdf/08.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 129671,
+      "md/08.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1135,
         "scope": {
-          "RUT": [
-            "Ruthu"
-          ]
+          "RUT": []
         }
       },
-      "pdf/09.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137424,
+      "md/09.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1211,
         "scope": {
-          "1SA": [
-            "1 Samweli"
-          ]
+          "1SA": []
         }
       },
-      "pdf/10.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137331,
+      "md/10.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1220,
         "scope": {
-          "2SA": [
-            "2 Samweli"
-          ]
+          "2SA": []
         }
       },
-      "pdf/11.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 141286,
+      "md/11.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1250,
         "scope": {
-          "1KI": [
-            "1 Wafalme"
-          ]
+          "1KI": []
         }
       },
-      "pdf/12.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 141610,
+      "md/12.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1226,
         "scope": {
-          "2KI": [
-            "2 Wafalme"
-          ]
+          "2KI": []
         }
       },
-      "pdf/13.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 140695,
+      "md/13.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1442,
         "scope": {
-          "1CH": [
-            "1 Mambo ya Nyakati"
-          ]
+          "1CH": []
         }
       },
-      "pdf/14.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 143819,
+      "md/14.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1340,
         "scope": {
-          "2CH": [
-            "2 Mambo ya Nyakati"
-          ]
+          "2CH": []
         }
       },
-      "pdf/15.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135743,
+      "md/15.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1285,
         "scope": {
-          "EZR": [
-            "Ezra"
-          ]
+          "EZR": []
         }
       },
-      "pdf/16.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136035,
+      "md/16.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1197,
         "scope": {
-          "NEH": [
-            "Nehemia"
-          ]
+          "NEH": []
         }
       },
-      "pdf/17.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135935,
+      "md/17.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1169,
         "scope": {
-          "EST": [
-            "Esta"
-          ]
+          "EST": []
         }
       },
-      "pdf/18.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133157,
+      "md/18.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1116,
         "scope": {
-          "JOB": [
-            "Ayubu"
-          ]
+          "JOB": []
         }
       },
-      "pdf/19.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134496,
+      "md/19.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1438,
         "scope": {
-          "PSA": [
-            "Zaburi"
-          ]
+          "PSA": []
         }
       },
-      "pdf/20.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137002,
+      "md/20.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1311,
         "scope": {
-          "PRO": [
-            "Mithali"
-          ]
+          "PRO": []
         }
       },
-      "pdf/21.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 132489,
+      "md/21.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1109,
         "scope": {
-          "ECC": [
-            "Mhubiri"
-          ]
+          "ECC": []
         }
       },
-      "pdf/22.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 139471,
+      "md/22.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1225,
         "scope": {
-          "SNG": [
-            "Wimbo Ulio Bora"
-          ]
+          "SNG": []
         }
       },
-      "pdf/23.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135718,
+      "md/23.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1127,
         "scope": {
-          "ISA": [
-            "Isaya"
-          ]
+          "ISA": []
         }
       },
-      "pdf/24.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137768,
+      "md/24.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1296,
         "scope": {
-          "JER": [
-            "Yeremia"
-          ]
+          "JER": []
         }
       },
-      "pdf/25.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134942,
+      "md/25.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1161,
         "scope": {
-          "LAM": [
-            "Maombolezo"
-          ]
+          "LAM": []
         }
       },
-      "pdf/26.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137366,
+      "md/26.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1122,
         "scope": {
-          "EZK": [
-            "Ezekieli"
-          ]
+          "EZK": []
         }
       },
-      "pdf/27.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136480,
+      "md/27.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1223,
         "scope": {
-          "DAN": [
-            "Danieli"
-          ]
+          "DAN": []
         }
       },
-      "pdf/28.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135220,
+      "md/28.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1173,
         "scope": {
-          "HOS": [
-            "Hosea"
-          ]
+          "HOS": []
         }
       },
-      "pdf/29.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 132003,
+      "md/29.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1151,
         "scope": {
-          "JOL": [
-            "Yoeli"
-          ]
+          "JOL": []
         }
       },
-      "pdf/30.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 132723,
+      "md/30.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1105,
         "scope": {
-          "AMO": [
-            "Amosi"
-          ]
+          "AMO": []
         }
       },
-      "pdf/31.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134445,
+      "md/31.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1121,
         "scope": {
-          "OBA": [
-            "Obadia"
-          ]
+          "OBA": []
         }
       },
-      "pdf/32.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133490,
+      "md/32.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1158,
         "scope": {
-          "JON": [
-            "Yona"
-          ]
+          "JON": []
         }
       },
-      "pdf/33.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136085,
+      "md/33.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1218,
         "scope": {
-          "MIC": [
-            "Mika"
-          ]
+          "MIC": []
         }
       },
-      "pdf/34.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133115,
+      "md/34.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1223,
         "scope": {
-          "NAM": [
-            "Nahumu"
-          ]
+          "NAM": []
         }
       },
-      "pdf/35.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134437,
+      "md/35.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1181,
         "scope": {
-          "HAB": [
-            "Habakuki"
-          ]
+          "HAB": []
         }
       },
-      "pdf/36.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135863,
+      "md/36.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1116,
         "scope": {
-          "ZEP": [
-            "Sefania"
-          ]
+          "ZEP": []
         }
       },
-      "pdf/37.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133681,
+      "md/37.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1112,
         "scope": {
-          "HAG": [
-            "Hagai"
-          ]
+          "HAG": []
         }
       },
-      "pdf/38.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134001,
+      "md/38.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1134,
         "scope": {
-          "ZEC": [
-            "Zekaria"
-          ]
+          "ZEC": []
         }
       },
-      "pdf/39.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 130376,
+      "md/39.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1123,
         "scope": {
-          "MAL": [
-            "Malaki"
-          ]
+          "MAL": []
         }
       },
-      "pdf/40.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133877,
+      "md/40.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1280,
         "scope": {
-          "MAT": [
-            "Mathayo"
-          ]
+          "MAT": []
         }
       },
-      "pdf/41.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134151,
+      "md/41.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1352,
         "scope": {
-          "MRK": [
-            "Marko"
-          ]
+          "MRK": []
         }
       },
-      "pdf/42.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136897,
+      "md/42.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1426,
         "scope": {
-          "LUK": [
-            "Luka"
-          ]
+          "LUK": []
         }
       },
-      "pdf/43.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 132964,
+      "md/43.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1335,
         "scope": {
-          "JHN": [
-            "Yohana"
-          ]
+          "JHN": []
         }
       },
-      "pdf/44.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134672,
+      "md/44.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1649,
         "scope": {
-          "ACT": [
-            "Matendo"
-          ]
+          "ACT": []
         }
       },
-      "pdf/45.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135009,
+      "md/45.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1425,
         "scope": {
-          "ROM": [
-            "Warumi"
-          ]
+          "ROM": []
         }
       },
-      "pdf/46.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145167,
+      "md/46.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1492,
         "scope": {
-          "1CO": [
-            "1 Wakorintho"
-          ]
+          "1CO": []
         }
       },
-      "pdf/47.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 140157,
+      "md/47.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1302,
         "scope": {
-          "2CO": [
-            "2 Wakorintho"
-          ]
+          "2CO": []
         }
       },
-      "pdf/48.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136174,
+      "md/48.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1385,
         "scope": {
-          "GAL": [
-            "Wagalatia"
-          ]
+          "GAL": []
         }
       },
-      "pdf/49.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 140675,
+      "md/49.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1423,
         "scope": {
-          "EPH": [
-            "Waefeso"
-          ]
+          "EPH": []
         }
       },
-      "pdf/50.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138450,
+      "md/50.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1337,
         "scope": {
-          "PHP": [
-            "Wafilipi"
-          ]
+          "PHP": []
         }
       },
-      "pdf/51.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 139202,
+      "md/51.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1359,
         "scope": {
-          "COL": [
-            "Wakolosai"
-          ]
+          "COL": []
         }
       },
-      "pdf/52.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138243,
+      "md/52.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1244,
         "scope": {
-          "1TH": [
-            "1 Wathesalonike"
-          ]
+          "1TH": []
         }
       },
-      "pdf/53.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138862,
+      "md/53.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1204,
         "scope": {
-          "2TH": [
-            "2 Wathesalonike"
-          ]
+          "2TH": []
         }
       },
-      "pdf/54.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135513,
+      "md/54.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1247,
         "scope": {
-          "1TI": [
-            "1 Timotheo"
-          ]
+          "1TI": []
         }
       },
-      "pdf/55.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134523,
+      "md/55.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1244,
         "scope": {
-          "2TI": [
-            "2 Timotheo"
-          ]
+          "2TI": []
         }
       },
-      "pdf/56.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 130574,
+      "md/56.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1245,
         "scope": {
-          "TIT": [
-            "Tito"
-          ]
+          "TIT": []
         }
       },
-      "pdf/57.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137513,
+      "md/57.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1269,
         "scope": {
-          "PHM": [
-            "Filemoni"
-          ]
+          "PHM": []
         }
       },
-      "pdf/58.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136352,
+      "md/58.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1273,
         "scope": {
-          "HEB": [
-            "Waebrania"
-          ]
+          "HEB": []
         }
       },
-      "pdf/59.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135604,
+      "md/59.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1247,
         "scope": {
-          "JAS": [
-            "Yakobo"
-          ]
+          "JAS": []
         }
       },
-      "pdf/60.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133989,
+      "md/60.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1199,
         "scope": {
-          "1PE": [
-            "1 Petro"
-          ]
+          "1PE": []
         }
       },
-      "pdf/61.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133505,
+      "md/61.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1142,
         "scope": {
-          "2PE": [
-            "2 Petro"
-          ]
+          "2PE": []
         }
       },
-      "pdf/62.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137833,
+      "md/62.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1230,
         "scope": {
-          "1JN": [
-            "1 Yohana"
-          ]
+          "1JN": []
         }
       },
-      "pdf/63.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138022,
+      "md/63.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1243,
         "scope": {
-          "2JN": [
-            "2 Yohana"
-          ]
+          "2JN": []
         }
       },
-      "pdf/64.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138553,
+      "md/64.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1212,
         "scope": {
-          "3JN": [
-            "3 Yohana"
-          ]
+          "3JN": []
         }
       },
-      "pdf/65.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 132001,
+      "md/65.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1236,
         "scope": {
-          "JUD": [
-            "Yuda"
-          ]
+          "JUD": []
         }
       },
-      "pdf/66.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134478,
+      "md/66.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1313,
         "scope": {
-          "REV": [
-            "Ufunuo"
-          ]
+          "REV": []
         }
       }
     },

@@ -2,7 +2,7 @@
   "resource_metadata": {
     "aquifer_type": "StudyNotes",
     "resource_type": "Study Notes",
-    "title": "Study Notes - Book Intro Summaries (Tyndale)",
+    "title": "Aquifer Open Study Notes (Book Intro Summaries)",
     "aquifer_name": "Заметки к учебнику - Сводки о вступлениях книг (Тиндейл)",
     "version": "1.0.1",
     "collection_title": "Study Notes - Book Intro Summaries (Tyndale)",
@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": true,
       "showAdaptationNoticeForNonEnglish": true
     },
-    "adaptation_notice": "",
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intro Summaries)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesBookIntroSummaries",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "rus",
     "localizations": [
       "eng",
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:06.609859"
+      "dateCreated": "2025-12-04T20:24:53.019036"
     },
     "idAuthorities": {
       "aquifer": {
@@ -66,7 +66,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntroSummaries": {
-            "timestamp": "2025-11-17T09:32:06.609859"
+            "timestamp": "2025-12-04T20:24:53.019036"
           }
         }
       },
@@ -690,598 +690,466 @@
           ]
         }
       },
-      "pdf/01.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146178,
+      "md/01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1556,
         "scope": {
-          "GEN": [
-            "Бытие"
-          ]
+          "GEN": []
         }
       },
-      "pdf/02.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 149153,
+      "md/02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1542,
         "scope": {
-          "EXO": [
-            "Исход"
-          ]
+          "EXO": []
         }
       },
-      "pdf/03.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144522,
+      "md/03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1468,
         "scope": {
-          "LEV": [
-            "Левит"
-          ]
+          "LEV": []
         }
       },
-      "pdf/04.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145273,
+      "md/04.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1692,
         "scope": {
-          "NUM": [
-            "Числа"
-          ]
+          "NUM": []
         }
       },
-      "pdf/05.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 148295,
+      "md/05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1461,
         "scope": {
-          "DEU": [
-            "Второзаконие"
-          ]
+          "DEU": []
         }
       },
-      "pdf/06.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 147306,
+      "md/06.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1463,
         "scope": {
-          "JOS": [
-            "Иисуса Навина"
-          ]
+          "JOS": []
         }
       },
-      "pdf/07.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 148743,
+      "md/07.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1493,
         "scope": {
-          "JDG": [
-            "Судей"
-          ]
+          "JDG": []
         }
       },
-      "pdf/08.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 143214,
+      "md/08.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1392,
         "scope": {
-          "RUT": [
-            "Руфь"
-          ]
+          "RUT": []
         }
       },
-      "pdf/09.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145056,
+      "md/09.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1410,
         "scope": {
-          "1SA": [
-            "1 Царств"
-          ]
+          "1SA": []
         }
       },
-      "pdf/10.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145525,
+      "md/10.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1444,
         "scope": {
-          "2SA": [
-            "2 Царств"
-          ]
+          "2SA": []
         }
       },
-      "pdf/11.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 148487,
+      "md/11.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1568,
         "scope": {
-          "1KI": [
-            "3 Царств"
-          ]
+          "1KI": []
         }
       },
-      "pdf/12.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 149447,
+      "md/12.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1469,
         "scope": {
-          "2KI": [
-            "4 Царств"
-          ]
+          "2KI": []
         }
       },
-      "pdf/13.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 148940,
+      "md/13.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1789,
         "scope": {
-          "1CH": [
-            "1 Паралипоменон"
-          ]
+          "1CH": []
         }
       },
-      "pdf/14.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 151388,
+      "md/14.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1749,
         "scope": {
-          "2CH": [
-            "2 Паралипоменон"
-          ]
+          "2CH": []
         }
       },
-      "pdf/15.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 149017,
+      "md/15.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1567,
         "scope": {
-          "EZR": [
-            "Ездры"
-          ]
+          "EZR": []
         }
       },
-      "pdf/16.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 143448,
+      "md/16.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1432,
         "scope": {
-          "NEH": [
-            "Неемии"
-          ]
+          "NEH": []
         }
       },
-      "pdf/17.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 148242,
+      "md/17.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1431,
         "scope": {
-          "EST": [
-            "Есфирь"
-          ]
+          "EST": []
         }
       },
-      "pdf/18.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 141028,
+      "md/18.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1373,
         "scope": {
-          "JOB": [
-            "Иов"
-          ]
+          "JOB": []
         }
       },
-      "pdf/19.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145494,
+      "md/19.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1796,
         "scope": {
-          "PSA": [
-            "Псалтирь"
-          ]
+          "PSA": []
         }
       },
-      "pdf/20.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 147450,
+      "md/20.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1696,
         "scope": {
-          "PRO": [
-            "Притчи"
-          ]
+          "PRO": []
         }
       },
-      "pdf/21.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144586,
+      "md/21.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1269,
         "scope": {
-          "ECC": [
-            "Екклесиаста"
-          ]
+          "ECC": []
         }
       },
-      "pdf/22.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144549,
+      "md/22.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1414,
         "scope": {
-          "SNG": [
-            "Песни Песней"
-          ]
+          "SNG": []
         }
       },
-      "pdf/23.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144401,
+      "md/23.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1367,
         "scope": {
-          "ISA": [
-            "Исаии"
-          ]
+          "ISA": []
         }
       },
-      "pdf/24.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146785,
+      "md/24.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1562,
         "scope": {
-          "JER": [
-            "Иеремии"
-          ]
+          "JER": []
         }
       },
-      "pdf/25.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 142022,
+      "md/25.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1393,
         "scope": {
-          "LAM": [
-            "Плач"
-          ]
+          "LAM": []
         }
       },
-      "pdf/26.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146619,
+      "md/26.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1380,
         "scope": {
-          "EZK": [
-            "Иезекииля"
-          ]
+          "EZK": []
         }
       },
-      "pdf/27.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144592,
+      "md/27.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1495,
         "scope": {
-          "DAN": [
-            "Даниила"
-          ]
+          "DAN": []
         }
       },
-      "pdf/28.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 142814,
+      "md/28.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1431,
         "scope": {
-          "HOS": [
-            "Осии"
-          ]
+          "HOS": []
         }
       },
-      "pdf/29.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 141671,
+      "md/29.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1404,
         "scope": {
-          "JOL": [
-            "Иоиля"
-          ]
+          "JOL": []
         }
       },
-      "pdf/30.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 141825,
+      "md/30.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1305,
         "scope": {
-          "AMO": [
-            "Амоса"
-          ]
+          "AMO": []
         }
       },
-      "pdf/31.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146553,
+      "md/31.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1307,
         "scope": {
-          "OBA": [
-            "Авдия"
-          ]
+          "OBA": []
         }
       },
-      "pdf/32.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 143359,
+      "md/32.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1371,
         "scope": {
-          "JON": [
-            "Ионы"
-          ]
+          "JON": []
         }
       },
-      "pdf/33.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146679,
+      "md/33.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1477,
         "scope": {
-          "MIC": [
-            "Михея"
-          ]
+          "MIC": []
         }
       },
-      "pdf/34.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144157,
+      "md/34.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1453,
         "scope": {
-          "NAM": [
-            "Наума"
-          ]
+          "NAM": []
         }
       },
-      "pdf/35.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144039,
+      "md/35.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1435,
         "scope": {
-          "HAB": [
-            "Аввакума"
-          ]
+          "HAB": []
         }
       },
-      "pdf/36.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 147017,
+      "md/36.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1299,
         "scope": {
-          "ZEP": [
-            "Софонии"
-          ]
+          "ZEP": []
         }
       },
-      "pdf/37.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 142645,
+      "md/37.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1367,
         "scope": {
-          "HAG": [
-            "Аггея"
-          ]
+          "HAG": []
         }
       },
-      "pdf/38.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145590,
+      "md/38.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1384,
         "scope": {
-          "ZEC": [
-            "Захарии"
-          ]
+          "ZEC": []
         }
       },
-      "pdf/39.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 140406,
+      "md/39.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1380,
         "scope": {
-          "MAL": [
-            "Малахии"
-          ]
+          "MAL": []
         }
       },
-      "pdf/40.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145850,
+      "md/40.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1550,
         "scope": {
-          "MAT": [
-            "Матфея"
-          ]
+          "MAT": []
         }
       },
-      "pdf/41.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 142664,
+      "md/41.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1660,
         "scope": {
-          "MRK": [
-            "Марка"
-          ]
+          "MRK": []
         }
       },
-      "pdf/42.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146869,
+      "md/42.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1892,
         "scope": {
-          "LUK": [
-            "Луки"
-          ]
+          "LUK": []
         }
       },
-      "pdf/43.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 142970,
+      "md/43.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1566,
         "scope": {
-          "JHN": [
-            "Иоанна"
-          ]
+          "JHN": []
         }
       },
-      "pdf/44.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146160,
+      "md/44.content.md": {
+        "mimeType": "text/markdown",
+        "size": 2276,
         "scope": {
-          "ACT": [
-            "Деяния"
-          ]
+          "ACT": []
         }
       },
-      "pdf/45.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145575,
+      "md/45.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1771,
         "scope": {
-          "ROM": [
-            "Римлянам"
-          ]
+          "ROM": []
         }
       },
-      "pdf/46.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 154500,
+      "md/46.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1744,
         "scope": {
-          "1CO": [
-            "1 Коринфянам"
-          ]
+          "1CO": []
         }
       },
-      "pdf/47.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 150022,
+      "md/47.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1587,
         "scope": {
-          "2CO": [
-            "2 Коринфянам"
-          ]
+          "2CO": []
         }
       },
-      "pdf/48.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 143705,
+      "md/48.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1760,
         "scope": {
-          "GAL": [
-            "Галатам"
-          ]
+          "GAL": []
         }
       },
-      "pdf/49.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 149227,
+      "md/49.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1887,
         "scope": {
-          "EPH": [
-            "Ефесянам"
-          ]
+          "EPH": []
         }
       },
-      "pdf/50.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 148551,
+      "md/50.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1639,
         "scope": {
-          "PHP": [
-            "Филиппийцам"
-          ]
+          "PHP": []
         }
       },
-      "pdf/51.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 146692,
+      "md/51.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1736,
         "scope": {
-          "COL": [
-            "Колоссянам"
-          ]
+          "COL": []
         }
       },
-      "pdf/52.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 149719,
+      "md/52.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1660,
         "scope": {
-          "1TH": [
-            "1 Фессалоникийцам"
-          ]
+          "1TH": []
         }
       },
-      "pdf/53.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 148040,
+      "md/53.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1458,
         "scope": {
-          "2TH": [
-            "2 Фессалоникийцам"
-          ]
+          "2TH": []
         }
       },
-      "pdf/54.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 147065,
+      "md/54.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1453,
         "scope": {
-          "1TI": [
-            "1 Тимофею"
-          ]
+          "1TI": []
         }
       },
-      "pdf/55.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145380,
+      "md/55.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1503,
         "scope": {
-          "2TI": [
-            "2 Тимофею"
-          ]
+          "2TI": []
         }
       },
-      "pdf/56.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 143040,
+      "md/56.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1453,
         "scope": {
-          "TIT": [
-            "Титу"
-          ]
+          "TIT": []
         }
       },
-      "pdf/57.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 147794,
+      "md/57.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1612,
         "scope": {
-          "PHM": [
-            "Филимону"
-          ]
+          "PHM": []
         }
       },
-      "pdf/58.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145006,
+      "md/58.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1599,
         "scope": {
-          "HEB": [
-            "Евреям"
-          ]
+          "HEB": []
         }
       },
-      "pdf/59.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 143445,
+      "md/59.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1518,
         "scope": {
-          "JAS": [
-            "Иакова"
-          ]
+          "JAS": []
         }
       },
-      "pdf/60.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144956,
+      "md/60.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1387,
         "scope": {
-          "1PE": [
-            "1 Петра"
-          ]
+          "1PE": []
         }
       },
-      "pdf/61.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144734,
+      "md/61.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1305,
         "scope": {
-          "2PE": [
-            "2 Петра"
-          ]
+          "2PE": []
         }
       },
-      "pdf/62.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145111,
+      "md/62.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1446,
         "scope": {
-          "1JN": [
-            "1 Иоанна"
-          ]
+          "1JN": []
         }
       },
-      "pdf/63.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144977,
+      "md/63.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1484,
         "scope": {
-          "2JN": [
-            "2 Иоанна"
-          ]
+          "2JN": []
         }
       },
-      "pdf/64.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 144881,
+      "md/64.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1468,
         "scope": {
-          "3JN": [
-            "3 Иоанна"
-          ]
+          "3JN": []
         }
       },
-      "pdf/65.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 145543,
+      "md/65.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1435,
         "scope": {
-          "JUD": [
-            "Иуды"
-          ]
+          "JUD": []
         }
       },
-      "pdf/66.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 147088,
+      "md/66.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1485,
         "scope": {
-          "REV": [
-            "Откровение"
-          ]
+          "REV": []
         }
       }
     },
