@@ -2,7 +2,7 @@
   "resource_metadata": {
     "aquifer_type": "StudyNotes",
     "resource_type": "Study Notes",
-    "title": "Study Notes - Book Intro Summaries (Tyndale)",
+    "title": "Aquifer Open Study Notes (Book Intro Summaries)",
     "aquifer_name": "Notas de Estudio - Resúmenes de Introducción de Libros (Tyndale)",
     "version": "1.0.1",
     "collection_title": "Study Notes - Book Intro Summaries (Tyndale)",
@@ -27,9 +27,9 @@
       "showAdaptationNoticeForEnglish": true,
       "showAdaptationNoticeForNonEnglish": true
     },
-    "adaptation_notice": "",
+    "adaptation_notice": "<p><b>Aquifer Open Study Notes (Book Intro Summaries)</b></p><p>This work is an adaptation of <cite>Tyndale Open Study Notes</cite> © 2023 Tyndale House Publishers, licensed under the CC BY-SA 4.0 license. The adaptation, <cite>Aquifer Open Study Notes</cite>, was created by Mission Mutual and is also licensed under CC BY-SA 4.0.</p><p>This resource has been adapted into multiple languages, including English, Tok Pisin, Arabic (عربي), French (Français), Hindi (हिंदी), Indonesian (Bahasa Indonesia), Portuguese (Português), Russian (Русский), Spanish (Español), Swahili (Kiswahili), and Simplified Chinese (简体中文).</p>",
     "resource_code": "TyndaleStudyNotesBookIntroSummaries",
-    "date_created": "2025-11-17",
+    "date_created": "2025-12-04",
     "language": "spa",
     "localizations": [
       "eng",
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-11-17T09:32:06.719555"
+      "dateCreated": "2025-12-04T20:24:53.121554"
     },
     "idAuthorities": {
       "aquifer": {
@@ -66,7 +66,7 @@
       "primary": {
         "aquifer": {
           "TyndaleStudyNotesBookIntroSummaries": {
-            "timestamp": "2025-11-17T09:32:06.719555"
+            "timestamp": "2025-12-04T20:24:53.121554"
           }
         }
       },
@@ -690,598 +690,466 @@
           ]
         }
       },
-      "pdf/01.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137187,
+      "md/01.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1370,
         "scope": {
-          "GEN": [
-            "Génesis"
-          ]
+          "GEN": []
         }
       },
-      "pdf/02.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 161260,
+      "md/02.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1308,
         "scope": {
-          "EXO": [
-            "Éxodo"
-          ]
+          "EXO": []
         }
       },
-      "pdf/03.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 158496,
+      "md/03.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1280,
         "scope": {
-          "LEV": [
-            "Levítico"
-          ]
+          "LEV": []
         }
       },
-      "pdf/04.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138261,
+      "md/04.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1332,
         "scope": {
-          "NUM": [
-            "Números"
-          ]
+          "NUM": []
         }
       },
-      "pdf/05.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135068,
+      "md/05.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1240,
         "scope": {
-          "DEU": [
-            "Deuteronomio"
-          ]
+          "DEU": []
         }
       },
-      "pdf/06.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137331,
+      "md/06.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1186,
         "scope": {
-          "JOS": [
-            "Josué"
-          ]
+          "JOS": []
         }
       },
-      "pdf/07.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 159013,
+      "md/07.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1218,
         "scope": {
-          "JDG": [
-            "Jueces"
-          ]
+          "JDG": []
         }
       },
-      "pdf/08.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 131962,
+      "md/08.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1169,
         "scope": {
-          "RUT": [
-            "Ruth"
-          ]
+          "RUT": []
         }
       },
-      "pdf/09.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 159919,
+      "md/09.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1273,
         "scope": {
-          "1SA": [
-            "1 Samuel"
-          ]
+          "1SA": []
         }
       },
-      "pdf/10.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 159709,
+      "md/10.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1206,
         "scope": {
-          "2SA": [
-            "2 Samuel"
-          ]
+          "2SA": []
         }
       },
-      "pdf/11.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 162361,
+      "md/11.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1288,
         "scope": {
-          "1KI": [
-            "1 Reyes"
-          ]
+          "1KI": []
         }
       },
-      "pdf/12.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 141123,
+      "md/12.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1197,
         "scope": {
-          "2KI": [
-            "2 Reyes"
-          ]
+          "2KI": []
         }
       },
-      "pdf/13.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 140296,
+      "md/13.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1468,
         "scope": {
-          "1CH": [
-            "1 Crónicas"
-          ]
+          "1CH": []
         }
       },
-      "pdf/14.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 141188,
+      "md/14.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1347,
         "scope": {
-          "2CH": [
-            "2 Crónicas"
-          ]
+          "2CH": []
         }
       },
-      "pdf/15.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 161056,
+      "md/15.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1293,
         "scope": {
-          "EZR": [
-            "Ezra"
-          ]
+          "EZR": []
         }
       },
-      "pdf/16.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 160688,
+      "md/16.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1206,
         "scope": {
-          "NEH": [
-            "Nehemías"
-          ]
+          "NEH": []
         }
       },
-      "pdf/17.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 157448,
+      "md/17.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1202,
         "scope": {
-          "EST": [
-            "Ester"
-          ]
+          "EST": []
         }
       },
-      "pdf/18.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 132513,
+      "md/18.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1188,
         "scope": {
-          "JOB": [
-            "Job"
-          ]
+          "JOB": []
         }
       },
-      "pdf/19.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 159989,
+      "md/19.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1465,
         "scope": {
-          "PSA": [
-            "Salmos"
-          ]
+          "PSA": []
         }
       },
-      "pdf/20.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 142066,
+      "md/20.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1307,
         "scope": {
-          "PRO": [
-            "Proverbios"
-          ]
+          "PRO": []
         }
       },
-      "pdf/21.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136981,
+      "md/21.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1100,
         "scope": {
-          "ECC": [
-            "Eclesiastés"
-          ]
+          "ECC": []
         }
       },
-      "pdf/22.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135775,
+      "md/22.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1213,
         "scope": {
-          "SNG": [
-            "Cantar de los Cantares"
-          ]
+          "SNG": []
         }
       },
-      "pdf/23.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 158139,
+      "md/23.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1196,
         "scope": {
-          "ISA": [
-            "Isaías"
-          ]
+          "ISA": []
         }
       },
-      "pdf/24.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 163183,
+      "md/24.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1317,
         "scope": {
-          "JER": [
-            "Jeremías"
-          ]
+          "JER": []
         }
       },
-      "pdf/25.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 160662,
+      "md/25.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1208,
         "scope": {
-          "LAM": [
-            "Lamentaciones"
-          ]
+          "LAM": []
         }
       },
-      "pdf/26.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 161633,
+      "md/26.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1154,
         "scope": {
-          "EZK": [
-            "Ezequiel"
-          ]
+          "EZK": []
         }
       },
-      "pdf/27.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138617,
+      "md/27.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1296,
         "scope": {
-          "DAN": [
-            "Daniel"
-          ]
+          "DAN": []
         }
       },
-      "pdf/28.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 156049,
+      "md/28.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1159,
         "scope": {
-          "HOS": [
-            "Oseas"
-          ]
+          "HOS": []
         }
       },
-      "pdf/29.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 155328,
+      "md/29.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1167,
         "scope": {
-          "JOL": [
-            "Joel"
-          ]
+          "JOL": []
         }
       },
-      "pdf/30.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133158,
+      "md/30.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1177,
         "scope": {
-          "AMO": [
-            "Amós"
-          ]
+          "AMO": []
         }
       },
-      "pdf/31.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135616,
+      "md/31.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1150,
         "scope": {
-          "OBA": [
-            "Abdías"
-          ]
+          "OBA": []
         }
       },
-      "pdf/32.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134472,
+      "md/32.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1200,
         "scope": {
-          "JON": [
-            "Jonás"
-          ]
+          "JON": []
         }
       },
-      "pdf/33.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138916,
+      "md/33.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1219,
         "scope": {
-          "MIC": [
-            "Miqueas"
-          ]
+          "MIC": []
         }
       },
-      "pdf/34.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135399,
+      "md/34.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1238,
         "scope": {
-          "NAM": [
-            "Nahúm"
-          ]
+          "NAM": []
         }
       },
-      "pdf/35.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135049,
+      "md/35.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1188,
         "scope": {
-          "HAB": [
-            "Habacuc"
-          ]
+          "HAB": []
         }
       },
-      "pdf/36.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 163647,
+      "md/36.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1233,
         "scope": {
-          "ZEP": [
-            "Sofonías"
-          ]
+          "ZEP": []
         }
       },
-      "pdf/37.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136525,
+      "md/37.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1143,
         "scope": {
-          "HAG": [
-            "Hageo"
-          ]
+          "HAG": []
         }
       },
-      "pdf/38.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 158916,
+      "md/38.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1184,
         "scope": {
-          "ZEC": [
-            "Zacarías"
-          ]
+          "ZEC": []
         }
       },
-      "pdf/39.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 134573,
+      "md/39.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1192,
         "scope": {
-          "MAL": [
-            "Malaquías"
-          ]
+          "MAL": []
         }
       },
-      "pdf/40.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 157811,
+      "md/40.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1322,
         "scope": {
-          "MAT": [
-            "Mateo"
-          ]
+          "MAT": []
         }
       },
-      "pdf/41.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133996,
+      "md/41.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1417,
         "scope": {
-          "MRK": [
-            "Marcos"
-          ]
+          "MRK": []
         }
       },
-      "pdf/42.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 139839,
+      "md/42.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1493,
         "scope": {
-          "LUK": [
-            "Lucas"
-          ]
+          "LUK": []
         }
       },
-      "pdf/43.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 156695,
+      "md/43.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1314,
         "scope": {
-          "JHN": [
-            "Juan"
-          ]
+          "JHN": []
         }
       },
-      "pdf/44.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 138554,
+      "md/44.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1753,
         "scope": {
-          "ACT": [
-            "Hechos"
-          ]
+          "ACT": []
         }
       },
-      "pdf/45.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 158727,
+      "md/45.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1432,
         "scope": {
-          "ROM": [
-            "Romanos"
-          ]
+          "ROM": []
         }
       },
-      "pdf/46.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 141598,
+      "md/46.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1463,
         "scope": {
-          "1CO": [
-            "1 Corintios"
-          ]
+          "1CO": []
         }
       },
-      "pdf/47.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 159472,
+      "md/47.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1324,
         "scope": {
-          "2CO": [
-            "2 Corintios"
-          ]
+          "2CO": []
         }
       },
-      "pdf/48.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136519,
+      "md/48.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1634,
         "scope": {
-          "GAL": [
-            "Gálatas"
-          ]
+          "GAL": []
         }
       },
-      "pdf/49.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 162899,
+      "md/49.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1464,
         "scope": {
-          "EPH": [
-            "Efesios"
-          ]
+          "EPH": []
         }
       },
-      "pdf/50.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 160403,
+      "md/50.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1342,
         "scope": {
-          "PHP": [
-            "Filipenses"
-          ]
+          "PHP": []
         }
       },
-      "pdf/51.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 159107,
+      "md/51.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1395,
         "scope": {
-          "COL": [
-            "Colosenses"
-          ]
+          "COL": []
         }
       },
-      "pdf/52.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 159721,
+      "md/52.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1311,
         "scope": {
-          "1TH": [
-            "1 Tesalonicenses"
-          ]
+          "1TH": []
         }
       },
-      "pdf/53.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 159691,
+      "md/53.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1248,
         "scope": {
-          "2TH": [
-            "2 Tesalonicenses"
-          ]
+          "2TH": []
         }
       },
-      "pdf/54.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 136198,
+      "md/54.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1268,
         "scope": {
-          "1TI": [
-            "1 Timoteo"
-          ]
+          "1TI": []
         }
       },
-      "pdf/55.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 158740,
+      "md/55.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1243,
         "scope": {
-          "2TI": [
-            "2 Timoteo"
-          ]
+          "2TI": []
         }
       },
-      "pdf/56.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 154182,
+      "md/56.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1255,
         "scope": {
-          "TIT": [
-            "Tito"
-          ]
+          "TIT": []
         }
       },
-      "pdf/57.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137851,
+      "md/57.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1283,
         "scope": {
-          "PHM": [
-            "Filemón"
-          ]
+          "PHM": []
         }
       },
-      "pdf/58.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 135005,
+      "md/58.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1286,
         "scope": {
-          "HEB": [
-            "Hebreos"
-          ]
+          "HEB": []
         }
       },
-      "pdf/59.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 161934,
+      "md/59.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1260,
         "scope": {
-          "JAS": [
-            "Santiago"
-          ]
+          "JAS": []
         }
       },
-      "pdf/60.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 132810,
+      "md/60.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1199,
         "scope": {
-          "1PE": [
-            "1 Pedro"
-          ]
+          "1PE": []
         }
       },
-      "pdf/61.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 154622,
+      "md/61.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1172,
         "scope": {
-          "2PE": [
-            "2 Pedro"
-          ]
+          "2PE": []
         }
       },
-      "pdf/62.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 160446,
+      "md/62.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1333,
         "scope": {
-          "1JN": [
-            "1 Juan"
-          ]
+          "1JN": []
         }
       },
-      "pdf/63.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 157963,
+      "md/63.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1236,
         "scope": {
-          "2JN": [
-            "2 Juan"
-          ]
+          "2JN": []
         }
       },
-      "pdf/64.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 158989,
+      "md/64.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1217,
         "scope": {
-          "3JN": [
-            "3 Juan"
-          ]
+          "3JN": []
         }
       },
-      "pdf/65.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 133838,
+      "md/65.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1231,
         "scope": {
-          "JUD": [
-            "Judas"
-          ]
+          "JUD": []
         }
       },
-      "pdf/66.content.pdf": {
-        "mimeType": "application/pdf",
-        "size": 137879,
+      "md/66.content.md": {
+        "mimeType": "text/markdown",
+        "size": 1298,
         "scope": {
-          "REV": [
-            "Apocalipsis"
-          ]
+          "REV": []
         }
       }
     },
