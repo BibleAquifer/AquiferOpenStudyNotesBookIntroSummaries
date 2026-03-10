@@ -107,7 +107,7 @@
 },
 "md/01.content.md": {
 "mimeType": "text/markdown",
-"size": 2034,
+"size": 2036,
 "scope": {
 "GEN": []
 }
@@ -118,7 +118,7 @@
 },
 "pdf/01.content.pdf": {
 "mimeType": "application/pdf",
-"size": 218144
+"size": 217881
 }
 },
 "copyright": {
