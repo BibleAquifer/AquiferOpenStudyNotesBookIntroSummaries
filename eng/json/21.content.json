@@ -8,7 +8,7 @@
 "index_reference": "21000000",
 "language": "eng",
 "review_level": "None",
-"content": "<p>The Book of Ecclesiastes</p><h2>Purpose</h2><p>To reflect on the meaning and enjoyment of life</p><h2>Author</h2><p>Solomon</p><h2>Date</h2><p>Around 971–931 BC</p><h2>Setting</h2><p>The very successful, yet seemingly not fulfilling, rule of King Solomon</p>",
+"content": "<h1>The Book of Ecclesiastes</h1><h2>Purpose</h2><p>To reflect on the meaning and enjoyment of life</p><h2>Author</h2><p>Solomon</p><h2>Date</h2><p>Around 971–931 BC</p><h2>Setting</h2><p>The very successful, yet seemingly not fulfilling, rule of King Solomon</p>",
 "associations": {
 "passage": [
 {
@@ -18,8 +18,7 @@
 "end_ref_usfm": "ECC 1:1"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]
