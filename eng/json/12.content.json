@@ -8,7 +8,7 @@
 "index_reference": "12000000",
 "language": "eng",
 "review_level": "None",
-"content": "<p>The Second Book of Kings</p><h2>Purpose</h2><p>To clarify why both Israel and Judah were exiled from the promised land</p><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that occurred around 853–586 BC</p><h2>Setting</h2><p>Continues the story from 1 Kings of Israel&apos;s divided kingdom, ending with both kingdoms experiencing exile</p>",
+"content": "<h1>The Second Book of Kings</h1><h2>Purpose</h2><p>To clarify why both Israel and Judah were exiled from the promised land</p><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that occurred around 853–586 BC</p><h2>Setting</h2><p>Continues the story from 1 Kings of Israel&apos;s divided kingdom, ending with both kingdoms experiencing exile</p>",
 "associations": {
 "passage": [
 {
@@ -18,8 +18,7 @@
 "end_ref_usfm": "2KI 1:1"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]

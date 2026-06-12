@@ -8,7 +8,7 @@
 "index_reference": "10000000",
 "language": "eng",
 "review_level": "None",
-"content": "<p>The Second Book of Samuel</p><h2>Purpose</h2><ol><li><p>To describe the reign of David </p></li><li><p>To demonstrate God’s commitment to David’s line</p></li></ol><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that occurred around 1011–971 BC</p><h2>Setting</h2><p>Following King Saul’s death, David sought to establish his throne over all Israel and to expand Israelite territory</p>",
+"content": "<h1>The Second Book of Samuel</h1><h2>Purpose</h2><ol><li><p>To describe the reign of David </p></li><li><p>To demonstrate God’s commitment to David’s line</p></li></ol><h2>Author</h2><p>Unknown</p><h2>Date</h2><p>Records events that occurred around 1011–971 BC</p><h2>Setting</h2><p>Following King Saul’s death, David sought to establish his throne over all Israel and to expand Israelite territory</p>",
 "associations": {
 "passage": [
 {
@@ -18,8 +18,7 @@
 "end_ref_usfm": "2SA 1:1"
 }
 ],
-"resource": [],
-"acai": []
+"resource": []
 }
 }
 ]
